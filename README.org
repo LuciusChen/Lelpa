@@ -1,0 +1,16 @@
+#+TITLE: MyELPA -- Curate your very own ELPA
+#+OPTIONS: toc:nil
+
+MyELPA allows anyone to easily and quickly publish their own ELPA.
+
+This repository is available at https://codeberg.org/tarsius/myelpa/
+and at https://github.com/tarsius/myelpa/.  Fork it on your preferred
+forge, enable the forge's /actions/ and /pages/ features, add some
+recipes, and you are basically done.
+
+You should tweak some additional details, which you can learn about
+at https://codeberg.org/tarsius/myelpa/wiki/.
+
+MyELPA uses [[https://github.com/melpa/package-build][Package-Build]], which is also used by [[https://melpa.org][MELPA]], but
+the surrounding tooling is much simpler in the case of MyELPA.
+Package-Build and MyELPA are maintained by the same person.

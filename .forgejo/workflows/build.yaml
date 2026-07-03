@@ -1,0 +1,39 @@
+name: Build elpa
+on:
+  schedule:
+    - cron: '40 2 * * *'
+  push:
+    branches: main
+  workflow_dispatch:
+jobs:
+  build:
+    name: Build and deploy elpa
+    runs-on: codeberg-small
+    permissions:
+      contents: read
+    steps:
+      - name: Fetch recipes
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+      - name: Cache sources
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
+        with:
+          key: sources
+          path: sources
+      - name: Build elpa
+        uses: https://github.com/melpa/package-build@f19a7f58cf4b2e573a6d551d8d3dbe265c2566b4 # v5
+        env:
+          ELPA_NAME: MyElpa
+          ELPA_STEM: myelpa
+          ELPA_URL: https://tarsius.codeberg.page/myelpa/
+          REPO_URL: https://codeberg.org/tarsius/myelpa
+          WIKI_URL: https://codeberg.org/tarsius/myelpa/wiki
+        with:
+          args: build-channels page
+      - name: Deploy elpa
+        uses: actions/git-pages@5978530ffb9bbe196ad9fdc0c48fdaf1483de4cf # v2.1.0
+        with:
+          site: https://tarsius.codeberg.page/myelpa/
+          token: ${{ forge.token }}
+          source: archives

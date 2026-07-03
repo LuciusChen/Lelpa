@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>${ELPA_NAME}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="${ELPA_NAME} — An Emacs Lisp Package Archive">
+    <meta name="keywords" content="emacs, elpa">
+  </head>
+  <body>
+
+    <p><i>
+      To create your own ELPA, similar to this one, visit
+      <a href="${START_URL}">${START_URL}</a>.
+    </i></p>
+
+    <h2>${ELPA_NAME}</h2>
+    <p>
+      This ELPA is maintained in <a href="${REPO_URL}">this</a> repository.
+      For more information see its <a href="${WIKI_URL}">wiki</a>.
+    </p>
+
+    <h2>${ELPA_NAME} snapshots</h2>
+    <p>
+      To use ${ELPA_NAME}'s snapshots channel add this to your configuration.
+    </p>
+    <pre><code>
+    (add-to-list 'package-archives
+                 '("${ELPA_STEM}-snapshots" . "${ELPA_URL}snapshots/"))
+    </code></pre>
+
+    <h3>Packages</h3>
+    <ul>
+      ${list-snapshots}
+    </ul>
+
+    <h2>${ELPA_NAME} releases</h2>
+    <p>
+      To use ${ELPA_NAME}'s releases channel add this to your configuration.
+    </p>
+    <pre><code>
+    (add-to-list 'package-archives
+                 '("${ELPA_STEM}-releases" . "${ELPA_URL}releases/"))
+    </code></pre>
+
+    <h3>Packages</h3>
+    <ul>
+      ${list-releases}
+    </ul>
+
+  </body>
+</html>
