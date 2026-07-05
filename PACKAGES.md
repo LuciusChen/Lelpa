@@ -2,8 +2,8 @@
 
 Generated from `~/.emacs.d/init.el` and `~/.emacs.d/straight/build-cache.el`.
 
-- Root packages: 98
-- Generated non-built-in packages: 132
+- Root packages: 99
+- Generated non-built-in packages: 133
 - Extra dependency recipes: 3
 - Skipped built-in packages: 15
 
@@ -64,6 +64,7 @@ Generated from `~/.emacs.d/init.el` and `~/.emacs.d/straight/build-cache.el`.
 - `java-server`
 - `js2-mode`
 - `kind-icon`
+- `kkp`
 - `language-detection`
 - `lexdb`
 - `llama`

@@ -12,6 +12,13 @@ The recipes in =recipes/= were generated from:
 See =PACKAGES.md= for the generated package set and the built-in packages that
 were intentionally skipped for GNU Emacs 32.0.50.
 
+* Package names
+
+Recipe filenames and archive package names follow package.el/MELPA package
+names.  Repository names may differ and are recorded inside the recipe.  For
+example, the =LuciusChen/emacs-smart-input-source= repository is published as
+=sis=, and the =djcb/mu= repository is published as =mu4e=.
+
 * Local build
 
 Install Docker first, then run:

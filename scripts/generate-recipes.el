@@ -19,7 +19,7 @@
 (defvar myelpa-package-renames
   '(("emacs-smart-input-source" . "sis")
     ("mu" . "mu4e"))
-  "Map straight package names to package.el package names.")
+  "Map straight/repository package names to package.el package names.")
 
 (defvar myelpa-recipe-key-removals
   '(("clutch" . (:branch)))
@@ -82,12 +82,22 @@
   (or (cdr (assoc name myelpa-package-renames))
       name))
 
+(defun myelpa--source-name (name cache)
+  "Return the straight cache key for package.el package NAME.
+This keeps recipe generation stable while the Emacs configuration is
+being migrated from repository names to package.el names."
+  (cond
+   ((gethash name cache)
+    name)
+   ((car (rassoc name myelpa-package-renames)))
+   (t name)))
+
 (defun myelpa--closure (roots cache)
   "Return (PACKAGES SKIPPED-BUILTINS MISSING) for ROOTS using CACHE."
   (let ((queue roots)
         packages skipped missing seen)
     (while queue
-      (let ((name (pop queue)))
+      (let ((name (myelpa--source-name (pop queue) cache)))
         (unless (member name seen)
           (push name seen)
           (cond
@@ -100,9 +110,10 @@
                   (push name missing)
                 (push name packages)
                 (dolist (dep (myelpa--entry-deps entry))
-                  (unless (or (member dep seen)
-                              (member dep myelpa-bootstrap-packages))
-                    (push dep queue))))))))))
+                  (let ((dep (myelpa--source-name dep cache)))
+                    (unless (or (member dep seen)
+                                (member dep myelpa-bootstrap-packages))
+                      (push dep queue)))))))))))
     (list (sort packages #'string<)
           (sort (cl-remove-duplicates skipped :test #'string=) #'string<)
           (sort (cl-remove-duplicates missing :test #'string=) #'string<))))
