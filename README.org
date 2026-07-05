@@ -1,16 +1,53 @@
-#+TITLE: MyELPA -- Curate your very own ELPA
+#+TITLE: Lelpa
 #+OPTIONS: toc:nil
 
-MyELPA allows anyone to easily and quickly publish their own ELPA.
+Lelpa is a personal ELPA generated from the non-built-in packages used by
+=~/.emacs.d=.
 
-This repository is available at https://codeberg.org/tarsius/myelpa/
-and at https://github.com/tarsius/myelpa/.  Fork it on your preferred
-forge, enable the forge's /actions/ and /pages/ features, add some
-recipes, and you are basically done.
+The recipes in =recipes/= were generated from:
 
-You should tweak some additional details, which you can learn about
-at https://codeberg.org/tarsius/myelpa/wiki/.
+- =~/.emacs.d/init.el=
+- =~/.emacs.d/straight/build-cache.el=
 
-MyELPA uses [[https://github.com/melpa/package-build][Package-Build]], which is also used by [[https://melpa.org][MELPA]], but
-the surrounding tooling is much simpler in the case of MyELPA.
-Package-Build and MyELPA are maintained by the same person.
+See =PACKAGES.md= for the generated package set and the built-in packages that
+were intentionally skipped for GNU Emacs 32.0.50.
+
+* Local build
+
+Install Docker first, then run:
+
+#+begin_src sh
+make bootstrap-package-build
+make container-image
+make container-build
+#+end_src
+
+The generated archive is written to =archives/=.
+
+* Regenerate recipes
+
+After changing =~/.emacs.d/init.el=, regenerate recipes from the current
+straight cache:
+
+#+begin_src sh
+emacs -Q --batch -l scripts/generate-recipes.el \
+  --eval '(setq myelpa-output-dir "recipes")' \
+  --eval '(myelpa-generate)'
+#+end_src
+
+* Usage
+
+After publishing =archives/= to your static host, add the archive to Emacs:
+
+#+begin_src emacs-lisp
+(add-to-list 'package-archives
+             '("lelpa-snapshots" . "https://luciuschen.github.io/Lelpa/snapshots/"))
+(add-to-list 'package-archives
+             '("lelpa-releases" . "https://luciuschen.github.io/Lelpa/releases/"))
+#+end_src
+
+Replace =https://luciuschen.github.io/Lelpa/= if you publish the archive
+elsewhere.
+
+This repository is based on MyELPA.  The upstream documentation is available at
+https://codeberg.org/tarsius/myelpa/wiki/.

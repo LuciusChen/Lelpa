@@ -24,16 +24,16 @@ jobs:
       - name: Build elpa
         uses: https://github.com/melpa/package-build@f19a7f58cf4b2e573a6d551d8d3dbe265c2566b4 # v5
         env:
-          ELPA_NAME: MyElpa
-          ELPA_STEM: myelpa
-          ELPA_URL: https://tarsius.codeberg.page/myelpa/
-          REPO_URL: https://codeberg.org/tarsius/myelpa
-          WIKI_URL: https://codeberg.org/tarsius/myelpa/wiki
+          ELPA_NAME: Lelpa
+          ELPA_STEM: lelpa
+          ELPA_URL: https://luciuschen.codeberg.page/Lelpa/
+          REPO_URL: https://codeberg.org/luciuschen/Lelpa
+          WIKI_URL: https://codeberg.org/luciuschen/Lelpa/wiki
         with:
           args: build-channels page
       - name: Deploy elpa
         uses: actions/git-pages@5978530ffb9bbe196ad9fdc0c48fdaf1483de4cf # v2.1.0
         with:
-          site: https://tarsius.codeberg.page/myelpa/
+          site: https://luciuschen.codeberg.page/Lelpa/
           token: ${{ forge.token }}
           source: archives

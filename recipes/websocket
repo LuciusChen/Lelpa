@@ -1,0 +1,1 @@
+(websocket :fetcher github :repo "ahyatt/emacs-websocket")

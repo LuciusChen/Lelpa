@@ -1,0 +1,1 @@
+(llm :fetcher github :repo "emacs-straight/llm")

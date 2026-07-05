@@ -1,0 +1,1 @@
+(org-defuddle :fetcher github :repo "LuciusChen/org-defuddle")

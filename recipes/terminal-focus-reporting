@@ -1,0 +1,2 @@
+(terminal-focus-reporting :fetcher github :repo
+			  "veelenga/terminal-focus-reporting.el")

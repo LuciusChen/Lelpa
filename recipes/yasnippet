@@ -1,0 +1,2 @@
+(yasnippet :fetcher github :repo "joaotavora/yasnippet" :files
+	   (:defaults ("doc" "doc/*.org") "yasnippet-pkg.el"))

@@ -1,0 +1,2 @@
+(vertico :fetcher github :repo "minad/vertico" :files
+	 (:defaults "extensions/vertico-*.el" "vertico-pkg.el"))

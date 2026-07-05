@@ -1,0 +1,2 @@
+(denote-markdown :fetcher github :repo
+		 "emacs-straight/denote-markdown")

@@ -1,0 +1,1 @@
+(ace-jump-mode :fetcher github :repo "winterTTr/ace-jump-mode")

@@ -1,0 +1,2 @@
+(telega :fetcher github :repo "LuciusChen/telega.el" :files
+	(:defaults "etc" "server" "contrib" "Makefile" "telega-pkg.el"))

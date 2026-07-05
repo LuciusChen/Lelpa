@@ -1,0 +1,1 @@
+(web-mode :fetcher github :repo "fxbois/web-mode")

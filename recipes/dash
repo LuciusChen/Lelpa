@@ -1,0 +1,2 @@
+(dash :fetcher github :repo "magnars/dash.el" :files
+      ("dash.el" "dash.texi" "dash-pkg.el"))

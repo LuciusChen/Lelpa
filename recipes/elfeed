@@ -1,0 +1,2 @@
+(elfeed :fetcher github :repo "emacs-elfeed/elfeed" :files
+	(:defaults "README.md" "elfeed-pkg.el"))

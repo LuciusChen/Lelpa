@@ -1,0 +1,172 @@
+# Generated package set
+
+Generated from `~/.emacs.d/init.el` and `~/.emacs.d/straight/build-cache.el`.
+
+- Root packages: 98
+- Generated non-built-in packages: 132
+- Extra dependency recipes: 3
+- Skipped built-in packages: 15
+
+## Packages
+
+- `ace-pinyin`
+- `apheleia`
+- `avy`
+- `blame-reveal`
+- `breadcrumb`
+- `cape`
+- `cdlatex`
+- `chirp`
+- `citar`
+- `citar-denote`
+- `citeproc`
+- `closql`
+- `clutch`
+- `command-log-mode`
+- `company`
+- `cond-let`
+- `consult`
+- `consult-dir`
+- `corfu`
+- `courier`
+- `dape`
+- `dash`
+- `denote`
+- `denote-journal`
+- `denote-markdown`
+- `denote-org`
+- `diff-hl`
+- `diminish`
+- `diredfl`
+- `discourse-graphs`
+- `doom-modeline`
+- `eglot-booster`
+- `eglot-java`
+- `elfeed`
+- `sis` (from straight package `emacs-smart-input-source`)
+- `emacsql`
+- `embark`
+- `embark-consult`
+- `emt`
+- `esxml`
+- `f`
+- `forge`
+- `ghostel`
+- `ghub`
+- `git-blamed`
+- `git-modes`
+- `goggles`
+- `gptel`
+- `gt`
+- `hnview`
+- `ht`
+- `indent-bars`
+- `java-server`
+- `js2-mode`
+- `kind-icon`
+- `language-detection`
+- `lexdb`
+- `llama`
+- `llm`
+- `macrostep`
+- `magit`
+- `magit-section`
+- `marginalia`
+- `markdown-mode`
+- `mastodon`
+- `meow`
+- `meow-cjk`
+- `mmm-mode`
+- `mongodb`
+- `mpv`
+- `msgpack`
+- `mu4e` (from straight package `mu`)
+- `mysql`
+- `nerd-icons`
+- `nerd-icons-completion`
+- `nerd-icons-corfu`
+- `nov`
+- `ob-clutch`
+- `orderless`
+- `org-cliplink`
+- `org-defuddle`
+- `org-modern`
+- `org-remark`
+- `ox-hugo`
+- `ox-pandoc`
+- `package-lint`
+- `panel`
+- `parsebib`
+- `passages`
+- `password-store`
+- `password-store-otp`
+- `pdd`
+- `pdf-tools`
+- `persist`
+- `pg`
+- `pinyinlib`
+- `plz`
+- `plz-event-source`
+- `plz-media-type`
+- `popper`
+- `posframe`
+- `projectile`
+- `pyvenv`
+- `queue`
+- `rainbow-delimiters`
+- `rainbow-mode`
+- `redis`
+- `request`
+- `rose-pine`
+- `s`
+- `scratch`
+- `setup`
+- `shrink-path`
+- `speed-type`
+- `string-inflection`
+- `svg-lib`
+- `swift-mode`
+- `tablist`
+- `telega`
+- `tomelr`
+- `tp`
+- `tramp-rpc`
+- `treepy`
+- `vertico`
+- `visual-fill-column`
+- `web-mode`
+- `webpaste`
+- `websocket`
+- `with-editor`
+- `yaml`
+- `yasnippet`
+- `ytm-radio`
+
+## Renamed packages
+
+- `emacs-smart-input-source` -> `sis`
+- `mu` -> `mu4e`
+
+## Extra dependency recipes
+
+- `ace-jump-mode`
+- `async`
+- `terminal-focus-reporting`
+
+## Built-ins skipped
+
+- `bibtex`
+- `cl-lib`
+- `compat`
+- `eglot`
+- `emacs`
+- `flymake`
+- `jsonrpc`
+- `let-alist`
+- `map`
+- `org`
+- `peg`
+- `project`
+- `seq`
+- `tramp`
+- `transient`

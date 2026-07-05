@@ -1,0 +1,2 @@
+(plz-event-source :fetcher github :repo
+		  "emacs-straight/plz-event-source")

@@ -1,0 +1,2 @@
+(request :fetcher github :repo "tkf/emacs-request" :files
+	 ("request.el" "request-pkg.el"))

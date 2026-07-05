@@ -1,0 +1,1 @@
+(swift-mode :fetcher github :repo "swift-emacs/swift-mode")

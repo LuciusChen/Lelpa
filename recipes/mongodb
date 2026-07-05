@@ -1,0 +1,1 @@
+(mongodb :fetcher github :repo "LuciusChen/mongodb.el")

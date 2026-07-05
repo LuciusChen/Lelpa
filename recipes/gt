@@ -1,0 +1,1 @@
+(gt :fetcher github :repo "LuciusChen/gt.el")

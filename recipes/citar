@@ -1,0 +1,2 @@
+(citar :fetcher github :repo "emacs-citar/citar" :files
+       (:defaults (:exclude "citar-embark.el") "citar-pkg.el"))

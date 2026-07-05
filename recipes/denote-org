@@ -1,0 +1,1 @@
+(denote-org :fetcher github :repo "emacs-straight/denote-org")

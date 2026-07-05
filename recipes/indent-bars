@@ -1,0 +1,1 @@
+(indent-bars :fetcher github :repo "emacs-straight/indent-bars")

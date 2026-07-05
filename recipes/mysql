@@ -1,0 +1,1 @@
+(mysql :fetcher github :repo "LuciusChen/mysql.el")

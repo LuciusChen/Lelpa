@@ -24,10 +24,10 @@ jobs:
       - name: Build elpa
         uses: melpa/package-build@f19a7f58cf4b2e573a6d551d8d3dbe265c2566b4 # v5
         env:
-          ELPA_NAME: MyElpa
-          ELPA_STEM: myelpa
-          ELPA_URL: ${{ github.event.repository.homepage }}
-          REPO_URL: ${{ github.event.repository.html_url }}
+          ELPA_NAME: Lelpa
+          ELPA_STEM: lelpa
+          ELPA_URL: https://luciuschen.github.io/Lelpa/
+          REPO_URL: https://github.com/LuciusChen/Lelpa
           WIKI_URL: ${{ github.event.repository.html_url }}/wiki
         with:
           args: build-channels page

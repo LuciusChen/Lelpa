@@ -1,0 +1,2 @@
+(git-blamed :fetcher github :repo "tsgates/git-emacs" :files
+	    ("git-blamed.el" "git-blamed-pkg.el"))

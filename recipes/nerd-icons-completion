@@ -1,0 +1,2 @@
+(nerd-icons-completion :fetcher github :repo
+		       "rainstormstudio/nerd-icons-completion")

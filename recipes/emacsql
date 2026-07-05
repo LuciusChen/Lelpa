@@ -1,0 +1,2 @@
+(emacsql :fetcher github :repo "magit/emacsql" :files
+	 (:defaults "README.md" "sqlite" "emacsql-pkg.el"))

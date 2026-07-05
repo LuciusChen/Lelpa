@@ -1,0 +1,1 @@
+(denote-journal :fetcher github :repo "emacs-straight/denote-journal")
