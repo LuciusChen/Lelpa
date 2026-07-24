@@ -1,0 +1,18 @@
+
+ • Building package plz-media-type
+From https://github.com/emacs-straight/plz-media-type
+Checking out d5611431b6c6f2994ebf9e6c2283824f734eec35
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/plz-media-type/
+  to /tmp/plz-media-type-ynt4XM/plz-media-type-0.2.1/
+    plz-media-type-pkg.el -> plz-media-type-pkg.el
+    plz-media-type.el -> plz-media-type.el
+    dir -> dir
+    plz-media-type.info -> plz-media-type.info
+Created plz-media-type-0.2.1.tar containing:
+  plz-media-type-0.2.1/
+  plz-media-type-0.2.1/dir
+  plz-media-type-0.2.1/plz-media-type-pkg.el
+  plz-media-type-0.2.1/plz-media-type.el
+  plz-media-type-0.2.1/plz-media-type.info
+Built plz-media-type in 0.036s, finished at 2026-07-24T05:33:16+0000

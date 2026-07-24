@@ -1,0 +1,19 @@
+
+ • Building package denote-journal
+From https://github.com/emacs-straight/denote-journal
+Updating /github/workspace/sources/denote-journal/
+Checking out e4186671cc57f8b43ff21df6da171832ea04a3d1
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/denote-journal/
+  to /tmp/denote-journal-bwiaPU/denote-journal-0.3.0/
+    denote-journal-pkg.el -> denote-journal-pkg.el
+    denote-journal.el -> denote-journal.el
+    dir -> dir
+    denote-journal.info -> denote-journal.info
+Created denote-journal-0.3.0.tar containing:
+  denote-journal-0.3.0/
+  denote-journal-0.3.0/denote-journal-pkg.el
+  denote-journal-0.3.0/denote-journal.el
+  denote-journal-0.3.0/denote-journal.info
+  denote-journal-0.3.0/dir
+Built denote-journal in 0.396s, finished at 2026-07-24T05:31:40+0000

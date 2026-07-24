@@ -1,0 +1,10 @@
+(vertico
+ . [(2 11 0 20260723 2) ((emacs (29 1)) (compat (31)))
+    "VERTical Interactive COmpletion" tar
+    ((:url . "https://github.com/minad/vertico")
+     (:commit . "de7b4d1422c51f941ca95419c65968d82f7d4eee")
+     (:revdesc . "2.11-2-gde7b4d1422c5")
+     (:keywords "convenience" "files" "matching" "completion")
+     (:authors ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainers ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainer "Daniel Mendler" . "mail@daniel-mendler.de"))])

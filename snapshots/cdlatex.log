@@ -1,0 +1,14 @@
+
+ • Building package cdlatex
+From https://github.com/cdominik/cdlatex
+Updating /github/workspace/sources/cdlatex/
+Checking out fac070f0164ac9f5859cb4cccba7d29a65c337f3
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/cdlatex/
+  to /tmp/cdlatex-OalrwH/cdlatex-4.7.0.20241007.85/
+    cdlatex.el -> cdlatex.el
+Created cdlatex-4.7.0.20241007.85.tar containing:
+  cdlatex-4.7.0.20241007.85/
+  cdlatex-4.7.0.20241007.85/cdlatex-pkg.el
+  cdlatex-4.7.0.20241007.85/cdlatex.el
+Built cdlatex in 0.377s, finished at 2026-07-24T05:31:28+0000

@@ -1,0 +1,18 @@
+
+ • Building package dash
+From https://github.com/magnars/dash.el
+Updating /github/workspace/sources/dash/
+Checking out d3a84021dbe48dba63b52ef7665651e0cf02e915
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/dash/
+  to /tmp/dash-eJ5lyy/dash-2.20.0.0.20260221.8/
+    dash.el -> dash.el
+    dash.texi -> dash.texi
+Generating dash.info
+Created dash-2.20.0.0.20260221.8.tar containing:
+  dash-2.20.0.0.20260221.8/
+  dash-2.20.0.0.20260221.8/dash-pkg.el
+  dash-2.20.0.0.20260221.8/dash.el
+  dash-2.20.0.0.20260221.8/dash.info
+  dash-2.20.0.0.20260221.8/dir
+Built dash in 0.760s, finished at 2026-07-24T05:31:39+0000

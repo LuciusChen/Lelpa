@@ -1,0 +1,13 @@
+
+ • Building package mpv
+From https://github.com/kljohann/mpv.el
+Checking out 4fd8baa508dbc1a6b42b4e40292c0dbb0f19c9b9
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/mpv/
+  to /tmp/mpv-qcvcFb/mpv-0.2.0/
+    mpv.el -> mpv.el
+Created mpv-0.2.0.tar containing:
+  mpv-0.2.0/
+  mpv-0.2.0/mpv-pkg.el
+  mpv-0.2.0/mpv.el
+Built mpv in 0.084s, finished at 2026-07-24T05:33:11+0000

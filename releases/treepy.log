@@ -1,0 +1,13 @@
+
+ • Building package treepy
+From https://github.com/volrath/treepy.el
+Checking out 28f0e2c2c75ea186e8beb570a4a70087926ff80b
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/treepy/
+  to /tmp/treepy-irFSoZ/treepy-0.1.3/
+    treepy.el -> treepy.el
+Created treepy-0.1.3.tar containing:
+  treepy-0.1.3/
+  treepy-0.1.3/treepy-pkg.el
+  treepy-0.1.3/treepy.el
+Built treepy in 0.030s, finished at 2026-07-24T05:33:20+0000

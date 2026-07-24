@@ -1,0 +1,14 @@
+
+ • Building package s
+From https://github.com/magnars/s.el
+Updating /github/workspace/sources/s/
+Checking out b4b8c03fcef316a27f75633fe4bb990aeff6e705
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/s/
+  to /tmp/s-JdMpnM/s-1.13.0.0.20220902.28/
+    s.el -> s.el
+Created s-1.13.0.0.20220902.28.tar containing:
+  s-1.13.0.0.20220902.28/
+  s-1.13.0.0.20220902.28/s-pkg.el
+  s-1.13.0.0.20220902.28/s.el
+Built s in 0.429s, finished at 2026-07-24T05:32:36+0000

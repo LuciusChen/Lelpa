@@ -1,0 +1,8 @@
+(apheleia
+ . [(4 5 0 0 20260619 13) ((emacs (27))) "Reformat buffer stably" tar
+    ((:url . "https://github.com/radian-software/apheleia")
+     (:commit . "14a0bb4454fb2cc3b5b377619288b742ce117da5")
+     (:revdesc . "14a0bb4454fb") (:keywords "tools")
+     (:authors ("Radian LLC" . "contact+apheleia@radian.codes"))
+     (:maintainers ("Radian LLC" . "contact+apheleia@radian.codes"))
+     (:maintainer "Radian LLC" . "contact+apheleia@radian.codes"))])

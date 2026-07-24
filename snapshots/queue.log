@@ -1,0 +1,15 @@
+
+ • Building package queue
+From https://github.com/emacs-straight/queue
+Updating /github/workspace/sources/queue/
+Checking out 8df1334d54d4735d2f821790422a850dfaaa08ef
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/queue/
+  to /tmp/queue-vXHWKz/queue-0.2.0.20240716.8/
+    queue-pkg.el -> queue-pkg.el
+    queue.el -> queue.el
+Created queue-0.2.0.20240716.8.tar containing:
+  queue-0.2.0.20240716.8/
+  queue-0.2.0.20240716.8/queue-pkg.el
+  queue-0.2.0.20240716.8/queue.el
+Built queue in 0.349s, finished at 2026-07-24T05:32:33+0000

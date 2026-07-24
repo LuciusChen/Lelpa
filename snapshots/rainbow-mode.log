@@ -1,0 +1,15 @@
+
+ • Building package rainbow-mode
+From https://github.com/emacs-straight/rainbow-mode
+Updating /github/workspace/sources/rainbow-mode/
+Checking out 2e6b18609c2fdd1a2dc513937a64d276fd6cf24c
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/rainbow-mode/
+  to /tmp/rainbow-mode-zCfgGF/rainbow-mode-1.0.6.0.20240716.9/
+    rainbow-mode-pkg.el -> rainbow-mode-pkg.el
+    rainbow-mode.el -> rainbow-mode.el
+Created rainbow-mode-1.0.6.0.20240716.9.tar containing:
+  rainbow-mode-1.0.6.0.20240716.9/
+  rainbow-mode-1.0.6.0.20240716.9/rainbow-mode-pkg.el
+  rainbow-mode-1.0.6.0.20240716.9/rainbow-mode.el
+Built rainbow-mode in 0.408s, finished at 2026-07-24T05:32:34+0000

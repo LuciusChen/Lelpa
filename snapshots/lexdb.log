@@ -1,0 +1,22 @@
+
+ • Building package lexdb
+From https://github.com/LuciusChen/lexdb
+Updating /github/workspace/sources/lexdb/
+Checking out f8c36e316a89600f4c738ee1f818d319cb62f968
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/lexdb/
+  to /tmp/lexdb-fKtZja/lexdb-0.1.0.0.20260425.168/
+    lexdb-ldoce.el -> lexdb-ldoce.el
+    lexdb-oald.el -> lexdb-oald.el
+    lexdb-ode.el -> lexdb-ode.el
+    lexdb-ui.el -> lexdb-ui.el
+    lexdb.el -> lexdb.el
+Created lexdb-0.1.0.0.20260425.168.tar containing:
+  lexdb-0.1.0.0.20260425.168/
+  lexdb-0.1.0.0.20260425.168/lexdb-ldoce.el
+  lexdb-0.1.0.0.20260425.168/lexdb-oald.el
+  lexdb-0.1.0.0.20260425.168/lexdb-ode.el
+  lexdb-0.1.0.0.20260425.168/lexdb-pkg.el
+  lexdb-0.1.0.0.20260425.168/lexdb-ui.el
+  lexdb-0.1.0.0.20260425.168/lexdb.el
+Built lexdb in 0.491s, finished at 2026-07-24T05:32:00+0000

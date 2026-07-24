@@ -1,0 +1,14 @@
+
+ • Building package sis
+From https://github.com/LuciusChen/emacs-smart-input-source
+Updating /github/workspace/sources/sis/
+Checking out 515e1dbe0180f33c292660b4b70d02d47153be5b
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/sis/
+  to /tmp/sis-erHj07/sis-1.0.0.20251208.164/
+    sis.el -> sis.el
+Created sis-1.0.0.20251208.164.tar containing:
+  sis-1.0.0.20251208.164/
+  sis-1.0.0.20251208.164/sis-pkg.el
+  sis-1.0.0.20251208.164/sis.el
+Built sis in 0.426s, finished at 2026-07-24T05:32:40+0000

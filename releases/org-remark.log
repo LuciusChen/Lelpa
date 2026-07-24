@@ -1,0 +1,32 @@
+
+ • Building package org-remark
+From https://github.com/emacs-straight/org-remark
+Checking out 8359e3eef4f5da5d7bfb33c72d783acd3f614a64
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/org-remark/
+  to /tmp/org-remark-cEwtrY/org-remark-1.3.0/
+    org-remark-convert-legacy.el -> org-remark-convert-legacy.el
+    org-remark-eww.el -> org-remark-eww.el
+    org-remark-global-tracking.el -> org-remark-global-tracking.el
+    org-remark-icon.el -> org-remark-icon.el
+    org-remark-info.el -> org-remark-info.el
+    org-remark-line.el -> org-remark-line.el
+    org-remark-nov.el -> org-remark-nov.el
+    org-remark-pkg.el -> org-remark-pkg.el
+    org-remark.el -> org-remark.el
+    dir -> dir
+    org-remark.info -> org-remark.info
+Created org-remark-1.3.0.tar containing:
+  org-remark-1.3.0/
+  org-remark-1.3.0/dir
+  org-remark-1.3.0/org-remark-convert-legacy.el
+  org-remark-1.3.0/org-remark-eww.el
+  org-remark-1.3.0/org-remark-global-tracking.el
+  org-remark-1.3.0/org-remark-icon.el
+  org-remark-1.3.0/org-remark-info.el
+  org-remark-1.3.0/org-remark-line.el
+  org-remark-1.3.0/org-remark-nov.el
+  org-remark-1.3.0/org-remark-pkg.el
+  org-remark-1.3.0/org-remark.el
+  org-remark-1.3.0/org-remark.info
+Built org-remark in 0.102s, finished at 2026-07-24T05:33:13+0000

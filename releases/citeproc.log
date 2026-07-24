@@ -1,0 +1,63 @@
+
+ • Building package citeproc
+From https://github.com/andras-simonyi/citeproc-el
+Checking out 9fe5f28b274eda5212fe1936c1b58184b63cca6d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/citeproc/
+  to /tmp/citeproc-2RHeAQ/citeproc-0.9.4/
+    citeproc-biblatex.el -> citeproc-biblatex.el
+    citeproc-bibtex.el -> citeproc-bibtex.el
+    citeproc-choose.el -> citeproc-choose.el
+    citeproc-cite.el -> citeproc-cite.el
+    citeproc-context.el -> citeproc-context.el
+    citeproc-date.el -> citeproc-date.el
+    citeproc-disamb.el -> citeproc-disamb.el
+    citeproc-formatters.el -> citeproc-formatters.el
+    citeproc-generic-elements.el -> citeproc-generic-elements.el
+    citeproc-itemdata.el -> citeproc-itemdata.el
+    citeproc-itemgetters.el -> citeproc-itemgetters.el
+    citeproc-lib.el -> citeproc-lib.el
+    citeproc-locale.el -> citeproc-locale.el
+    citeproc-macro.el -> citeproc-macro.el
+    citeproc-name.el -> citeproc-name.el
+    citeproc-number.el -> citeproc-number.el
+    citeproc-prange.el -> citeproc-prange.el
+    citeproc-proc.el -> citeproc-proc.el
+    citeproc-rt.el -> citeproc-rt.el
+    citeproc-s.el -> citeproc-s.el
+    citeproc-sort.el -> citeproc-sort.el
+    citeproc-style.el -> citeproc-style.el
+    citeproc-subbibs.el -> citeproc-subbibs.el
+    citeproc-term.el -> citeproc-term.el
+    citeproc-test-human.el -> citeproc-test-human.el
+    citeproc.el -> citeproc.el
+Created citeproc-0.9.4.tar containing:
+  citeproc-0.9.4/
+  citeproc-0.9.4/citeproc-biblatex.el
+  citeproc-0.9.4/citeproc-bibtex.el
+  citeproc-0.9.4/citeproc-choose.el
+  citeproc-0.9.4/citeproc-cite.el
+  citeproc-0.9.4/citeproc-context.el
+  citeproc-0.9.4/citeproc-date.el
+  citeproc-0.9.4/citeproc-disamb.el
+  citeproc-0.9.4/citeproc-formatters.el
+  citeproc-0.9.4/citeproc-generic-elements.el
+  citeproc-0.9.4/citeproc-itemdata.el
+  citeproc-0.9.4/citeproc-itemgetters.el
+  citeproc-0.9.4/citeproc-lib.el
+  citeproc-0.9.4/citeproc-locale.el
+  citeproc-0.9.4/citeproc-macro.el
+  citeproc-0.9.4/citeproc-name.el
+  citeproc-0.9.4/citeproc-number.el
+  citeproc-0.9.4/citeproc-pkg.el
+  citeproc-0.9.4/citeproc-prange.el
+  citeproc-0.9.4/citeproc-proc.el
+  citeproc-0.9.4/citeproc-rt.el
+  citeproc-0.9.4/citeproc-s.el
+  citeproc-0.9.4/citeproc-sort.el
+  citeproc-0.9.4/citeproc-style.el
+  citeproc-0.9.4/citeproc-subbibs.el
+  citeproc-0.9.4/citeproc-term.el
+  citeproc-0.9.4/citeproc-test-human.el
+  citeproc-0.9.4/citeproc.el
+Built citeproc in 0.130s, finished at 2026-07-24T05:32:57+0000

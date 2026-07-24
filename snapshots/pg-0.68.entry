@@ -1,0 +1,11 @@
+(pg
+ . [(0 68) ((emacs (28 1)) (peg (1 0 1)))
+    "Socket-level interface to the PostgreSQL database" tar
+    ((:url . "https://github.com/emarsden/pg-el")
+     (:commit . "6d4b528cfd1e7f776eb0e4c14d84668fa69a041b")
+     (:revdesc . "6d4b528cfd1e")
+     (:keywords "data" "comm" "database" "postgresql")
+     (:authors ("Eric Marsden" . "eric.marsden@risk-engineering.org"))
+     (:maintainers
+      ("Eric Marsden" . "eric.marsden@risk-engineering.org"))
+     (:maintainer "Eric Marsden" . "eric.marsden@risk-engineering.org"))])

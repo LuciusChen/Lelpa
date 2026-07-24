@@ -1,0 +1,9 @@
+(clutch
+ . [(0 2 4 0 20260723 79) ((emacs (29 1)) (transient (0 3 7)))
+    "Interactive database client" tar
+    ((:url . "https://github.com/LuciusChen/clutch")
+     (:commit . "ef1daae15fe30cd082cac5237d67636ce436402a")
+     (:revdesc . "ef1daae15fe3") (:keywords "comm" "data" "tools")
+     (:authors ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainers ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainer "Lucius Chen" . "chenyh572@gmail.com"))])

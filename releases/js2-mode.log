@@ -1,0 +1,17 @@
+
+ • Building package js2-mode
+From https://github.com/mooz/js2-mode
+Checking out 010a536da6df345a0b9a55bbd892f5f4d0d9fdfc
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/js2-mode/
+  to /tmp/js2-mode-vbVcVH/js2-mode-20231224/
+    js2-imenu-extras.el -> js2-imenu-extras.el
+    js2-mode.el -> js2-mode.el
+    js2-old-indent.el -> js2-old-indent.el
+Created js2-mode-20231224.tar containing:
+  js2-mode-20231224/
+  js2-mode-20231224/js2-imenu-extras.el
+  js2-mode-20231224/js2-mode-pkg.el
+  js2-mode-20231224/js2-mode.el
+  js2-mode-20231224/js2-old-indent.el
+Built js2-mode in 0.102s, finished at 2026-07-24T05:33:06+0000

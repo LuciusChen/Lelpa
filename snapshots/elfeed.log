@@ -1,0 +1,35 @@
+
+ • Building package elfeed
+From https://github.com/emacs-elfeed/elfeed
+Updating /github/workspace/sources/elfeed/
+Checking out e18cbb8cc4bb08e1512571449623f5f03f43f94c
+Warning: elfeed :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/elfeed/
+  to /tmp/elfeed-b5RfGs/elfeed-4.1.0.0.20260714.9/
+    elfeed-csv.el -> elfeed-csv.el
+    elfeed-curl.el -> elfeed-curl.el
+    elfeed-db.el -> elfeed-db.el
+    elfeed-lib.el -> elfeed-lib.el
+    elfeed-link.el -> elfeed-link.el
+    elfeed-log.el -> elfeed-log.el
+    elfeed-search.el -> elfeed-search.el
+    elfeed-show.el -> elfeed-show.el
+    elfeed-tree.el -> elfeed-tree.el
+    elfeed.el -> elfeed.el
+    xml-query.el -> xml-query.el
+Created elfeed-4.1.0.0.20260714.9.tar containing:
+  elfeed-4.1.0.0.20260714.9/
+  elfeed-4.1.0.0.20260714.9/elfeed-csv.el
+  elfeed-4.1.0.0.20260714.9/elfeed-curl.el
+  elfeed-4.1.0.0.20260714.9/elfeed-db.el
+  elfeed-4.1.0.0.20260714.9/elfeed-lib.el
+  elfeed-4.1.0.0.20260714.9/elfeed-link.el
+  elfeed-4.1.0.0.20260714.9/elfeed-log.el
+  elfeed-4.1.0.0.20260714.9/elfeed-pkg.el
+  elfeed-4.1.0.0.20260714.9/elfeed-search.el
+  elfeed-4.1.0.0.20260714.9/elfeed-show.el
+  elfeed-4.1.0.0.20260714.9/elfeed-tree.el
+  elfeed-4.1.0.0.20260714.9/elfeed.el
+  elfeed-4.1.0.0.20260714.9/xml-query.el
+Built elfeed in 0.522s, finished at 2026-07-24T05:31:46+0000

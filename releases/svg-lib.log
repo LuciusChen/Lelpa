@@ -1,0 +1,15 @@
+
+ • Building package svg-lib
+From https://github.com/emacs-straight/svg-lib
+Checking out e9606b1b5bf521d66f4a7ed3058c97b804ae190c
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/svg-lib/
+  to /tmp/svg-lib-ekdZhb/svg-lib-0.3/
+    svg-lib-demo.el -> svg-lib-demo.el
+    svg-lib.el -> svg-lib.el
+Created svg-lib-0.3.tar containing:
+  svg-lib-0.3/
+  svg-lib-0.3/svg-lib-demo.el
+  svg-lib-0.3/svg-lib-pkg.el
+  svg-lib-0.3/svg-lib.el
+Built svg-lib in 0.046s, finished at 2026-07-24T05:33:18+0000

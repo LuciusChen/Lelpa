@@ -1,0 +1,16 @@
+
+ • Building package f
+From https://github.com/rejeep/f.el
+Updating /github/workspace/sources/f/
+Checking out 931b6d0667fe03e7bf1c6c282d6d8d7006143c52
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/f/
+  to /tmp/f-5xMCWG/f-0.21.0/
+    f-shortdoc.el -> f-shortdoc.el
+    f.el -> f.el
+Created f-0.21.0.tar containing:
+  f-0.21.0/
+  f-0.21.0/f-pkg.el
+  f-0.21.0/f-shortdoc.el
+  f-0.21.0/f.el
+Built f in 0.398s, finished at 2026-07-24T05:31:50+0000

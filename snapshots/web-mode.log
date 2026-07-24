@@ -1,0 +1,14 @@
+
+ • Building package web-mode
+From https://github.com/fxbois/web-mode
+Updating /github/workspace/sources/web-mode/
+Checking out aeee2d4c82a791ff69657c1413873bf9265544df
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/web-mode/
+  to /tmp/web-mode-A1anEA/web-mode-17.3.20.0.20260623.17/
+    web-mode.el -> web-mode.el
+Created web-mode-17.3.20.0.20260623.17.tar containing:
+  web-mode-17.3.20.0.20260623.17/
+  web-mode-17.3.20.0.20260623.17/web-mode-pkg.el
+  web-mode-17.3.20.0.20260623.17/web-mode.el
+Built web-mode in 0.487s, finished at 2026-07-24T05:32:51+0000

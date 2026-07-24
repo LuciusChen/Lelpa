@@ -1,0 +1,23 @@
+
+ • Building package persist
+From https://github.com/emacs-straight/persist
+Checking out a4c6e759e340d7af9b3f2aad21d279f336cfde68
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/persist/
+  to /tmp/persist-OXD6Ty/persist-0.8/
+    persist-pkg.el -> persist-pkg.el
+    persist.el -> persist.el
+    persist.texi -> persist.texi
+Generating persist.info
+Command ‘makeinfo --no-split persist.texi -o /tmp/persist-OXD6Ty/persist-0.8/persist.info’ exited with non-zero exit-code: 1
+persist.texi:55: raising the section level of @section which is too low
+persist.texi:49: warning: node `The details' in menu in `Top' but under `Persist' in sectioning
+persist.texi:50: warning: node `Comparison' in menu in `Top' but under `Persist' in sectioning
+persist.texi:51: warning: node `Implementation' in menu in `Top' but under `Persist' in sectioning
+
+Error: (package-build-error . "Command ‘makeinfo --no-split persist.texi -o /tmp/persist-OXD6Ty/persist-0.8/persist.info’ exited with non-zero exit-code: 1")
+Created persist-0.8.tar containing:
+  persist-0.8/
+  persist-0.8/persist-pkg.el
+  persist-0.8/persist.el
+Built persist in 0.222s, finished at 2026-07-24T05:33:15+0000

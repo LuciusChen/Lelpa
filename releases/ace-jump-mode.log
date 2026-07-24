@@ -1,0 +1,13 @@
+
+ • Building package ace-jump-mode
+From https://github.com/winterTTr/ace-jump-mode
+Checking out a62a6867811cd739dd98a5e00a2d2e17edfb5b71
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/ace-jump-mode/
+  to /tmp/ace-jump-mode-JNA7BD/ace-jump-mode-2.0/
+    ace-jump-mode.el -> ace-jump-mode.el
+Created ace-jump-mode-2.0.tar containing:
+  ace-jump-mode-2.0/
+  ace-jump-mode-2.0/ace-jump-mode-pkg.el
+  ace-jump-mode-2.0/ace-jump-mode.el
+Built ace-jump-mode in 0.086s, finished at 2026-07-24T05:32:55+0000

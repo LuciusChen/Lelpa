@@ -1,0 +1,14 @@
+
+ • Building package request
+From https://github.com/tkf/emacs-request
+Updating /github/workspace/sources/request/
+Checking out 6f419b5cdd2dfa83675ae53f04d8463d00a533f8
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/request/
+  to /tmp/request-ncXawp/request-0.3.2.0.20250219.107/
+    request.el -> request.el
+Created request-0.3.2.0.20250219.107.tar containing:
+  request-0.3.2.0.20250219.107/
+  request-0.3.2.0.20250219.107/request-pkg.el
+  request-0.3.2.0.20250219.107/request.el
+Built request in 0.377s, finished at 2026-07-24T05:32:35+0000

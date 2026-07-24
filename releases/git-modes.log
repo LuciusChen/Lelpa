@@ -1,0 +1,19 @@
+
+ • Building package git-modes
+From https://github.com/magit/git-modes
+Checking out f291a4cc4a8b02a25d5cf93b4ab6af29e6f060d9
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/git-modes/
+  to /tmp/git-modes-rHOeuy/git-modes-1.5.0/
+    git-modes.el -> git-modes.el
+    gitattributes-mode.el -> gitattributes-mode.el
+    gitconfig-mode.el -> gitconfig-mode.el
+    gitignore-mode.el -> gitignore-mode.el
+Created git-modes-1.5.0.tar containing:
+  git-modes-1.5.0/
+  git-modes-1.5.0/git-modes-pkg.el
+  git-modes-1.5.0/git-modes.el
+  git-modes-1.5.0/gitattributes-mode.el
+  git-modes-1.5.0/gitconfig-mode.el
+  git-modes-1.5.0/gitignore-mode.el
+Built git-modes in 0.087s, finished at 2026-07-24T05:33:05+0000

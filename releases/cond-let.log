@@ -1,0 +1,13 @@
+
+ • Building package cond-let
+From https://github.com/tarsius/cond-let
+Checking out c48600dfab6372670225f046cace263700c78eab
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/cond-let/
+  to /tmp/cond-let-9TFdI1/cond-let-1.1.3/
+    cond-let.el -> cond-let.el
+Created cond-let-1.1.3.tar containing:
+  cond-let-1.1.3/
+  cond-let-1.1.3/cond-let-pkg.el
+  cond-let-1.1.3/cond-let.el
+Built cond-let in 0.029s, finished at 2026-07-24T05:32:58+0000

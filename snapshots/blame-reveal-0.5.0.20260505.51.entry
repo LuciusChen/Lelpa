@@ -1,0 +1,9 @@
+(blame-reveal
+ . [(0 5 0 20260505 51) ((emacs (28 1)) (transient (0 4 0)))
+    "Git blame visualization in fringe" tar
+    ((:url . "https://github.com/LuciusChen/blame-reveal")
+     (:commit . "815e0ae2fc2c9c7805a1249158fe55fd00e99808")
+     (:revdesc . "815e0ae2fc2c") (:keywords "git" "vc" "convenience")
+     (:authors ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainers ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainer "Lucius Chen" . "chenyh572@gmail.com"))])

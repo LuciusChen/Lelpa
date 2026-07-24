@@ -1,0 +1,14 @@
+
+ • Building package diredfl
+From https://github.com/purcell/diredfl
+Updating /github/workspace/sources/diredfl/
+Checking out fe72d2e42ee18bf6228bba9d7086de4098f18a70
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/diredfl/
+  to /tmp/diredfl-tqbqyV/diredfl-0.5.0.20241201.3/
+    diredfl.el -> diredfl.el
+Created diredfl-0.5.0.20241201.3.tar containing:
+  diredfl-0.5.0.20241201.3/
+  diredfl-0.5.0.20241201.3/diredfl-pkg.el
+  diredfl-0.5.0.20241201.3/diredfl.el
+Built diredfl in 0.394s, finished at 2026-07-24T05:31:43+0000

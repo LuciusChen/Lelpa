@@ -1,0 +1,15 @@
+
+ • Building package projectile
+From https://github.com/bbatsov/projectile
+Checking out 8ac2834f1f70af977f17944c7968c72ea46bf62c
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/projectile/
+  to /tmp/projectile-cwgPEX/projectile-3.2.1/
+    projectile-consult.el -> projectile-consult.el
+    projectile.el -> projectile.el
+Created projectile-3.2.1.tar containing:
+  projectile-3.2.1/
+  projectile-3.2.1/projectile-consult.el
+  projectile-3.2.1/projectile-pkg.el
+  projectile-3.2.1/projectile.el
+Built projectile in 0.122s, finished at 2026-07-24T05:33:16+0000

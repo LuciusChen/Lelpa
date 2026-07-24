@@ -1,0 +1,18 @@
+
+ • Building package org-cliplink
+From https://github.com/rexim/org-cliplink
+Updating /github/workspace/sources/org-cliplink/
+Checking out 13e0940b65d22bec34e2de4bc8cba1412a7abfbc
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/org-cliplink/
+  to /tmp/org-cliplink-MAWrfj/org-cliplink-0.2.0.20201126.184/
+    org-cliplink-string.el -> org-cliplink-string.el
+    org-cliplink-transport.el -> org-cliplink-transport.el
+    org-cliplink.el -> org-cliplink.el
+Created org-cliplink-0.2.0.20201126.184.tar containing:
+  org-cliplink-0.2.0.20201126.184/
+  org-cliplink-0.2.0.20201126.184/org-cliplink-pkg.el
+  org-cliplink-0.2.0.20201126.184/org-cliplink-string.el
+  org-cliplink-0.2.0.20201126.184/org-cliplink-transport.el
+  org-cliplink-0.2.0.20201126.184/org-cliplink.el
+Built org-cliplink in 0.420s, finished at 2026-07-24T05:32:19+0000

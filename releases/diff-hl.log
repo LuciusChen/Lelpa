@@ -1,0 +1,27 @@
+
+ • Building package diff-hl
+From https://github.com/dgutov/diff-hl
+Checking out b80ff9b4a772f7ea000e86fbf88175104ddf9557
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/diff-hl/
+  to /tmp/diff-hl-RQLXAy/diff-hl-1.10.0/
+    diff-hl-amend.el -> diff-hl-amend.el
+    diff-hl-dired.el -> diff-hl-dired.el
+    diff-hl-flydiff.el -> diff-hl-flydiff.el
+    diff-hl-inline-popup.el -> diff-hl-inline-popup.el
+    diff-hl-margin.el -> diff-hl-margin.el
+    diff-hl-show-hunk-posframe.el -> diff-hl-show-hunk-posframe.el
+    diff-hl-show-hunk.el -> diff-hl-show-hunk.el
+    diff-hl.el -> diff-hl.el
+Created diff-hl-1.10.0.tar containing:
+  diff-hl-1.10.0/
+  diff-hl-1.10.0/diff-hl-amend.el
+  diff-hl-1.10.0/diff-hl-dired.el
+  diff-hl-1.10.0/diff-hl-flydiff.el
+  diff-hl-1.10.0/diff-hl-inline-popup.el
+  diff-hl-1.10.0/diff-hl-margin.el
+  diff-hl-1.10.0/diff-hl-pkg.el
+  diff-hl-1.10.0/diff-hl-show-hunk-posframe.el
+  diff-hl-1.10.0/diff-hl-show-hunk.el
+  diff-hl-1.10.0/diff-hl.el
+Built diff-hl in 0.099s, finished at 2026-07-24T05:33:01+0000

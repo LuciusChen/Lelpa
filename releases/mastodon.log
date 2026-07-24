@@ -1,0 +1,51 @@
+
+ • Building package mastodon
+From https://codeberg.org/martianh/mastodon.el
+Checking out 4b30b2d96625e23325ff3727daa30969b6fe2eed
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/mastodon/
+  to /tmp/mastodon-nINdLL/mastodon-2.0.17/
+  ! lisp/mastodon-async.el -> mastodon-async.el
+  ! lisp/mastodon-auth.el -> mastodon-auth.el
+  ! lisp/mastodon-client.el -> mastodon-client.el
+  ! lisp/mastodon-discover.el -> mastodon-discover.el
+  ! lisp/mastodon-http.el -> mastodon-http.el
+  ! lisp/mastodon-inspect.el -> mastodon-inspect.el
+  ! lisp/mastodon-iso.el -> mastodon-iso.el
+  ! lisp/mastodon-media.el -> mastodon-media.el
+  ! lisp/mastodon-notifications.el -> mastodon-notifications.el
+  ! lisp/mastodon-profile.el -> mastodon-profile.el
+  ! lisp/mastodon-search.el -> mastodon-search.el
+  ! lisp/mastodon-tl.el -> mastodon-tl.el
+  ! lisp/mastodon-toot.el -> mastodon-toot.el
+  ! lisp/mastodon-transient.el -> mastodon-transient.el
+  ! lisp/mastodon-views.el -> mastodon-views.el
+  ! lisp/mastodon-widget.el -> mastodon-widget.el
+  ! lisp/mastodon.el -> mastodon.el
+    dir -> dir
+    mastodon.info -> mastodon.info
+    mastodon.texi -> mastodon.texi
+Generating mastodon.info
+Created mastodon-2.0.17.tar containing:
+  mastodon-2.0.17/
+  mastodon-2.0.17/dir
+  mastodon-2.0.17/mastodon-async.el
+  mastodon-2.0.17/mastodon-auth.el
+  mastodon-2.0.17/mastodon-client.el
+  mastodon-2.0.17/mastodon-discover.el
+  mastodon-2.0.17/mastodon-http.el
+  mastodon-2.0.17/mastodon-inspect.el
+  mastodon-2.0.17/mastodon-iso.el
+  mastodon-2.0.17/mastodon-media.el
+  mastodon-2.0.17/mastodon-notifications.el
+  mastodon-2.0.17/mastodon-pkg.el
+  mastodon-2.0.17/mastodon-profile.el
+  mastodon-2.0.17/mastodon-search.el
+  mastodon-2.0.17/mastodon-tl.el
+  mastodon-2.0.17/mastodon-toot.el
+  mastodon-2.0.17/mastodon-transient.el
+  mastodon-2.0.17/mastodon-views.el
+  mastodon-2.0.17/mastodon-widget.el
+  mastodon-2.0.17/mastodon.el
+  mastodon-2.0.17/mastodon.info
+Built mastodon in 0.308s, finished at 2026-07-24T05:33:09+0000

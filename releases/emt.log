@@ -1,0 +1,13 @@
+
+ • Building package emt
+From https://github.com/LuciusChen/emt
+Checking out f5b018a32cfb627c43b851bfb26a35863e46c8e6
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/emt/
+  to /tmp/emt-YPBGPq/emt-0.10.2/
+    emt.el -> emt.el
+Created emt-0.10.2.tar containing:
+  emt-0.10.2/
+  emt-0.10.2/emt-pkg.el
+  emt-0.10.2/emt.el
+Built emt in 0.030s, finished at 2026-07-24T05:33:03+0000

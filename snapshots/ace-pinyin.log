@@ -1,0 +1,14 @@
+
+ • Building package ace-pinyin
+From https://github.com/cute-jumper/ace-pinyin
+Updating /github/workspace/sources/ace-pinyin/
+Checking out 47662c0b05775ba353464b44c0f1a037c85e746e
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/ace-pinyin/
+  to /tmp/ace-pinyin-6qUBx6/ace-pinyin-0.2.5.0.20210827.17/
+    ace-pinyin.el -> ace-pinyin.el
+Created ace-pinyin-0.2.5.0.20210827.17.tar containing:
+  ace-pinyin-0.2.5.0.20210827.17/
+  ace-pinyin-0.2.5.0.20210827.17/ace-pinyin-pkg.el
+  ace-pinyin-0.2.5.0.20210827.17/ace-pinyin.el
+Built ace-pinyin in 0.438s, finished at 2026-07-24T05:31:24+0000

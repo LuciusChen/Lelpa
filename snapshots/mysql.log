@@ -1,0 +1,14 @@
+
+ • Building package mysql
+From https://github.com/LuciusChen/mysql.el
+Updating /github/workspace/sources/mysql/
+Checking out af030703c54004d28794c9b259d8fa6c7eaeec19
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/mysql/
+  to /tmp/mysql-T2QVfv/mysql-0.2.4.0.20260716.1/
+    mysql.el -> mysql.el
+Created mysql-0.2.4.0.20260716.1.tar containing:
+  mysql-0.2.4.0.20260716.1/
+  mysql-0.2.4.0.20260716.1/mysql-pkg.el
+  mysql-0.2.4.0.20260716.1/mysql.el
+Built mysql in 0.525s, finished at 2026-07-24T05:32:14+0000

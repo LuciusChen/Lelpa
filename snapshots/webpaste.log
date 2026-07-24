@@ -1,0 +1,14 @@
+
+ • Building package webpaste
+From https://github.com/etu/webpaste.el
+Updating /github/workspace/sources/webpaste/
+Checking out e2a41530257f04b7ad2198d333adcf247a05277c
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/webpaste/
+  to /tmp/webpaste-Qjze6k/webpaste-3.2.2.0.20241125.10/
+    webpaste.el -> webpaste.el
+Created webpaste-3.2.2.0.20241125.10.tar containing:
+  webpaste-3.2.2.0.20241125.10/
+  webpaste-3.2.2.0.20241125.10/webpaste-pkg.el
+  webpaste-3.2.2.0.20241125.10/webpaste.el
+Built webpaste in 0.469s, finished at 2026-07-24T05:32:51+0000

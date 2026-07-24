@@ -1,0 +1,21 @@
+
+ • Building package pg
+From https://github.com/emarsden/pg-el
+Checking out 6d4b528cfd1e7f776eb0e4c14d84668fa69a041b
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/pg/
+  to /tmp/pg-rH6GYx/pg-0.68/
+    pg-bm25.el -> pg-bm25.el
+    pg-geometry.el -> pg-geometry.el
+    pg-gis.el -> pg-gis.el
+    pg-lo.el -> pg-lo.el
+    pg.el -> pg.el
+Created pg-0.68.tar containing:
+  pg-0.68/
+  pg-0.68/pg-bm25.el
+  pg-0.68/pg-geometry.el
+  pg-0.68/pg-gis.el
+  pg-0.68/pg-lo.el
+  pg-0.68/pg-pkg.el
+  pg-0.68/pg.el
+Built pg in 0.096s, finished at 2026-07-24T05:33:15+0000

@@ -1,0 +1,46 @@
+
+ • Building package llm
+From https://github.com/emacs-straight/llm
+Checking out 394872d78df6c7c95135a8daa8bd639fb13d0323
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/llm/
+  to /tmp/llm-YqxwGj/llm-0.31.2/
+    llm-azure.el -> llm-azure.el
+    llm-claude.el -> llm-claude.el
+    llm-deepseek.el -> llm-deepseek.el
+    llm-fake.el -> llm-fake.el
+    llm-gemini.el -> llm-gemini.el
+    llm-github.el -> llm-github.el
+    llm-gpt4all.el -> llm-gpt4all.el
+    llm-llamacpp.el -> llm-llamacpp.el
+    llm-models.el -> llm-models.el
+    llm-ollama.el -> llm-ollama.el
+    llm-openai.el -> llm-openai.el
+    llm-pkg.el -> llm-pkg.el
+    llm-prompt.el -> llm-prompt.el
+    llm-provider-utils.el -> llm-provider-utils.el
+    llm-request-plz.el -> llm-request-plz.el
+    llm-tester.el -> llm-tester.el
+    llm-vertex.el -> llm-vertex.el
+    llm.el -> llm.el
+Created llm-0.31.2.tar containing:
+  llm-0.31.2/
+  llm-0.31.2/llm-azure.el
+  llm-0.31.2/llm-claude.el
+  llm-0.31.2/llm-deepseek.el
+  llm-0.31.2/llm-fake.el
+  llm-0.31.2/llm-gemini.el
+  llm-0.31.2/llm-github.el
+  llm-0.31.2/llm-gpt4all.el
+  llm-0.31.2/llm-llamacpp.el
+  llm-0.31.2/llm-models.el
+  llm-0.31.2/llm-ollama.el
+  llm-0.31.2/llm-openai.el
+  llm-0.31.2/llm-pkg.el
+  llm-0.31.2/llm-prompt.el
+  llm-0.31.2/llm-provider-utils.el
+  llm-0.31.2/llm-request-plz.el
+  llm-0.31.2/llm-tester.el
+  llm-0.31.2/llm-vertex.el
+  llm-0.31.2/llm.el
+Built llm in 0.113s, finished at 2026-07-24T05:33:07+0000

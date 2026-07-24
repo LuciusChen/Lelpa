@@ -1,0 +1,14 @@
+
+ • Building package eglot-java
+From https://github.com/LuciusChen/eglot-java
+Updating /github/workspace/sources/eglot-java/
+Checking out 918291c991bd3eaf5183ad0befa87e5ede82f3ce
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/eglot-java/
+  to /tmp/eglot-java-ahv3H6/eglot-java-1.35.0.20260225.6/
+    eglot-java.el -> eglot-java.el
+Created eglot-java-1.35.0.20260225.6.tar containing:
+  eglot-java-1.35.0.20260225.6/
+  eglot-java-1.35.0.20260225.6/eglot-java-pkg.el
+  eglot-java-1.35.0.20260225.6/eglot-java.el
+Built eglot-java in 0.428s, finished at 2026-07-24T05:31:45+0000

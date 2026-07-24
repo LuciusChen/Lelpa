@@ -1,0 +1,13 @@
+
+ • Building package java-server
+From https://github.com/LuciusChen/java-server
+Checking out 25c1db0dc77561da55db7bc95c5a5749537887fb
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/java-server/
+  to /tmp/java-server-HK8mBT/java-server-0.1.0/
+    java-server.el -> java-server.el
+Created java-server-0.1.0.tar containing:
+  java-server-0.1.0/
+  java-server-0.1.0/java-server-pkg.el
+  java-server-0.1.0/java-server.el
+Built java-server in 0.026s, finished at 2026-07-24T05:33:06+0000

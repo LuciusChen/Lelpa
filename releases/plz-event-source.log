@@ -1,0 +1,18 @@
+
+ • Building package plz-event-source
+From https://github.com/emacs-straight/plz-event-source
+Checking out 1abd0313244603d8b76ea8ffd6dfd2b166d825b6
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/plz-event-source/
+  to /tmp/plz-event-source-GD7tOL/plz-event-source-0.1.1/
+    plz-event-source-pkg.el -> plz-event-source-pkg.el
+    plz-event-source.el -> plz-event-source.el
+    dir -> dir
+    plz-event-source.info -> plz-event-source.info
+Created plz-event-source-0.1.1.tar containing:
+  plz-event-source-0.1.1/
+  plz-event-source-0.1.1/dir
+  plz-event-source-0.1.1/plz-event-source-pkg.el
+  plz-event-source-0.1.1/plz-event-source.el
+  plz-event-source-0.1.1/plz-event-source.info
+Built plz-event-source in 0.034s, finished at 2026-07-24T05:33:15+0000

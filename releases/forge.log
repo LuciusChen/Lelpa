@@ -1,0 +1,63 @@
+
+ • Building package forge
+From https://github.com/magit/forge
+Checking out 9628f76740aec9270e9fb31457ff4cb38d9f3f16
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/forge/
+  to /tmp/forge-djU7cE/forge-0.6.7/
+  ! lisp/forge-bitbucket.el -> forge-bitbucket.el
+  ! lisp/forge-client.el -> forge-client.el
+  ! lisp/forge-commands.el -> forge-commands.el
+  ! lisp/forge-core.el -> forge-core.el
+  ! lisp/forge-db.el -> forge-db.el
+  ! lisp/forge-discussion.el -> forge-discussion.el
+  ! lisp/forge-forgejo.el -> forge-forgejo.el
+  ! lisp/forge-gitea.el -> forge-gitea.el
+  ! lisp/forge-github.el -> forge-github.el
+  ! lisp/forge-gitlab.el -> forge-gitlab.el
+  ! lisp/forge-gogs.el -> forge-gogs.el
+  ! lisp/forge-issue.el -> forge-issue.el
+  ! lisp/forge-notify.el -> forge-notify.el
+  ! lisp/forge-post.el -> forge-post.el
+  ! lisp/forge-pullreq.el -> forge-pullreq.el
+  ! lisp/forge-repo.el -> forge-repo.el
+  ! lisp/forge-repos.el -> forge-repos.el
+  ! lisp/forge-revnote.el -> forge-revnote.el
+  ! lisp/forge-semi.el -> forge-semi.el
+  ! lisp/forge-tablist.el -> forge-tablist.el
+  ! lisp/forge-topic.el -> forge-topic.el
+  ! lisp/forge-topics.el -> forge-topics.el
+  ! lisp/forge.el -> forge.el
+  ! docs/forge.texi -> forge.texi
+    .dir-locals.el -> .dir-locals.el
+Generating forge.info
+Created forge-0.6.7.tar containing:
+  forge-0.6.7/
+  forge-0.6.7/.dir-locals.el
+  forge-0.6.7/dir
+  forge-0.6.7/forge-bitbucket.el
+  forge-0.6.7/forge-client.el
+  forge-0.6.7/forge-commands.el
+  forge-0.6.7/forge-core.el
+  forge-0.6.7/forge-db.el
+  forge-0.6.7/forge-discussion.el
+  forge-0.6.7/forge-forgejo.el
+  forge-0.6.7/forge-gitea.el
+  forge-0.6.7/forge-github.el
+  forge-0.6.7/forge-gitlab.el
+  forge-0.6.7/forge-gogs.el
+  forge-0.6.7/forge-issue.el
+  forge-0.6.7/forge-notify.el
+  forge-0.6.7/forge-pkg.el
+  forge-0.6.7/forge-post.el
+  forge-0.6.7/forge-pullreq.el
+  forge-0.6.7/forge-repo.el
+  forge-0.6.7/forge-repos.el
+  forge-0.6.7/forge-revnote.el
+  forge-0.6.7/forge-semi.el
+  forge-0.6.7/forge-tablist.el
+  forge-0.6.7/forge-topic.el
+  forge-0.6.7/forge-topics.el
+  forge-0.6.7/forge.el
+  forge-0.6.7/forge.info
+Built forge in 0.317s, finished at 2026-07-24T05:33:04+0000

@@ -1,0 +1,10 @@
+(tramp-rpc
+ . [(0 12 0) ((emacs (30 1)) (msgpack (0 1 1)) (tramp (2 8 1 4)))
+    "TRAMP backend using RPC" tar
+    ((:url . "https://github.com/ArthurHeymans/emacs-tramp-rpc")
+     (:commit . "f111d16db3ff2ce85cd5489144be30a2336628cf")
+     (:revdesc . "v0.12.0-0-gf111d16db3ff")
+     (:keywords "comm" "processes" "files")
+     (:authors ("Arthur Heymans" . "arthur@aheymans.xyz"))
+     (:maintainers ("Arthur Heymans" . "arthur@aheymans.xyz"))
+     (:maintainer "Arthur Heymans" . "arthur@aheymans.xyz"))])

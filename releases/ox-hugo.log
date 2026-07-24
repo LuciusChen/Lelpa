@@ -1,0 +1,21 @@
+
+ • Building package ox-hugo
+From https://github.com/kaushalmodi/ox-hugo
+Checking out af3d0cdf8c672be498d54bc9efdd0e40b2528602
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/ox-hugo/
+  to /tmp/ox-hugo-mdQGc5/ox-hugo-0.12.2/
+    org-hugo-auto-export-mode.el -> org-hugo-auto-export-mode.el
+    ox-blackfriday.el -> ox-blackfriday.el
+    ox-hugo-deprecated.el -> ox-hugo-deprecated.el
+    ox-hugo-pandoc-cite.el -> ox-hugo-pandoc-cite.el
+    ox-hugo.el -> ox-hugo.el
+Created ox-hugo-0.12.2.tar containing:
+  ox-hugo-0.12.2/
+  ox-hugo-0.12.2/org-hugo-auto-export-mode.el
+  ox-hugo-0.12.2/ox-blackfriday.el
+  ox-hugo-0.12.2/ox-hugo-deprecated.el
+  ox-hugo-0.12.2/ox-hugo-pandoc-cite.el
+  ox-hugo-0.12.2/ox-hugo-pkg.el
+  ox-hugo-0.12.2/ox-hugo.el
+Built ox-hugo in 0.146s, finished at 2026-07-24T05:33:13+0000

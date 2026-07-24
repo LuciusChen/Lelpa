@@ -1,0 +1,16 @@
+
+ • Building package tablist
+From https://github.com/emacsorphanage/tablist
+Updating /github/workspace/sources/tablist/
+Checking out 01f065e387ffe6b7a41f180f257cd12551c7a9c2
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/tablist/
+  to /tmp/tablist-VFPBuI/tablist-1.3/
+    tablist-filter.el -> tablist-filter.el
+    tablist.el -> tablist.el
+Created tablist-1.3.tar containing:
+  tablist-1.3/
+  tablist-1.3/tablist-filter.el
+  tablist-1.3/tablist-pkg.el
+  tablist-1.3/tablist.el
+Built tablist in 0.352s, finished at 2026-07-24T05:32:42+0000

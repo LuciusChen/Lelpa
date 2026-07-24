@@ -1,0 +1,13 @@
+
+ • Building package passages
+From https://github.com/LuciusChen/passages
+Checking out ec8d63802a8e53cb1370722e9a0f08dd40a336dc
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/passages/
+  to /tmp/passages-l7N5tL/passages-3.0.0/
+    passages.el -> passages.el
+Created passages-3.0.0.tar containing:
+  passages-3.0.0/
+  passages-3.0.0/passages-pkg.el
+  passages-3.0.0/passages.el
+Built passages in 0.078s, finished at 2026-07-24T05:33:14+0000

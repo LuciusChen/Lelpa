@@ -1,0 +1,19 @@
+
+ • Building package embark
+From https://github.com/oantolin/embark
+Checking out 27de48004242e98586b9c9661fdb6912f26fe70f
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/embark/
+  to /tmp/embark-S8mV8z/embark-1.2/
+    embark.el -> embark.el
+    embark-org.el -> embark-org.el
+    embark.texi -> embark.texi
+Generating embark.info
+Created embark-1.2.tar containing:
+  embark-1.2/
+  embark-1.2/dir
+  embark-1.2/embark-org.el
+  embark-1.2/embark-pkg.el
+  embark-1.2/embark.el
+  embark-1.2/embark.info
+Built embark in 0.289s, finished at 2026-07-24T05:33:03+0000

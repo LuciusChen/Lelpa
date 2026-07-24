@@ -1,0 +1,13 @@
+
+ • Building package ht
+From https://github.com/Wilfred/ht.el
+Checking out 2eddb85a66508ad607e94fd8384b18feb07a2449
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/ht/
+  to /tmp/ht-dCzTt0/ht-2.3/
+    ht.el -> ht.el
+Created ht-2.3.tar containing:
+  ht-2.3/
+  ht-2.3/ht-pkg.el
+  ht-2.3/ht.el
+Built ht in 0.029s, finished at 2026-07-24T05:33:06+0000

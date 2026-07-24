@@ -1,0 +1,13 @@
+
+ • Building package pdd
+From https://github.com/lorniu/pdd.el
+Checking out 15594c3348ed7febef31f99d709b128f267035eb
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/pdd/
+  to /tmp/pdd-wcGO4M/pdd-0.2.3/
+    pdd.el -> pdd.el
+Created pdd-0.2.3.tar containing:
+  pdd-0.2.3/
+  pdd-0.2.3/pdd-pkg.el
+  pdd-0.2.3/pdd.el
+Built pdd in 0.061s, finished at 2026-07-24T05:33:14+0000

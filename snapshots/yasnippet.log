@@ -1,0 +1,31 @@
+
+ • Building package yasnippet
+From https://github.com/joaotavora/yasnippet
+Updating /github/workspace/sources/yasnippet/
+Checking out dd570a6b22364212fff9769cbf4376bdbd7a63c5
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/yasnippet/
+  to /tmp/yasnippet-EZyJ2m/yasnippet-0.14.0.0.20250602.64/
+    yasnippet-debug.el -> yasnippet-debug.el
+    yasnippet.el -> yasnippet.el
+    doc/faq.org -> doc/faq.org
+    doc/index.org -> doc/index.org
+    doc/snippet-development.org -> doc/snippet-development.org
+    doc/snippet-expansion.org -> doc/snippet-expansion.org
+    doc/snippet-menu.org -> doc/snippet-menu.org
+    doc/snippet-organization.org -> doc/snippet-organization.org
+    doc/snippet-reference.org -> doc/snippet-reference.org
+Created yasnippet-0.14.0.0.20250602.64.tar containing:
+  yasnippet-0.14.0.0.20250602.64/
+  yasnippet-0.14.0.0.20250602.64/doc/
+  yasnippet-0.14.0.0.20250602.64/doc/faq.org
+  yasnippet-0.14.0.0.20250602.64/doc/index.org
+  yasnippet-0.14.0.0.20250602.64/doc/snippet-development.org
+  yasnippet-0.14.0.0.20250602.64/doc/snippet-expansion.org
+  yasnippet-0.14.0.0.20250602.64/doc/snippet-menu.org
+  yasnippet-0.14.0.0.20250602.64/doc/snippet-organization.org
+  yasnippet-0.14.0.0.20250602.64/doc/snippet-reference.org
+  yasnippet-0.14.0.0.20250602.64/yasnippet-debug.el
+  yasnippet-0.14.0.0.20250602.64/yasnippet-pkg.el
+  yasnippet-0.14.0.0.20250602.64/yasnippet.el
+Built yasnippet in 0.455s, finished at 2026-07-24T05:32:53+0000

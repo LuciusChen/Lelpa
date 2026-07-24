@@ -1,0 +1,10 @@
+(cape
+ . [(2 7) ((emacs (29 1)) (compat (31)))
+    "Completion At Point Extensions" tar
+    ((:url . "https://github.com/minad/cape")
+     (:commit . "c99911b08831c26179145686b4beffa96f1f8a68")
+     (:revdesc . "2.7-0-gc99911b08831")
+     (:keywords "abbrev" "convenience" "matching" "completion" "text")
+     (:authors ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainers ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainer "Daniel Mendler" . "mail@daniel-mendler.de"))])

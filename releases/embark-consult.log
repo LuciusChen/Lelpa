@@ -1,0 +1,13 @@
+
+ • Building package embark-consult
+From https://github.com/oantolin/embark
+Checking out 27de48004242e98586b9c9661fdb6912f26fe70f
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/embark-consult/
+  to /tmp/embark-consult-hUdpU0/embark-consult-1.2/
+    embark-consult.el -> embark-consult.el
+Created embark-consult-1.2.tar containing:
+  embark-consult-1.2/
+  embark-consult-1.2/embark-consult-pkg.el
+  embark-consult-1.2/embark-consult.el
+Built embark-consult in 0.089s, finished at 2026-07-24T05:33:03+0000

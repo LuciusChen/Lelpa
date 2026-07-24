@@ -1,0 +1,15 @@
+
+ • Building package esxml
+From https://github.com/tali713/esxml
+Checking out affada143fed7e2da08f2b3d927a027f26ad4a8f
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/esxml/
+  to /tmp/esxml-l6YXGA/esxml-0.3.8/
+    esxml.el -> esxml.el
+    esxml-query.el -> esxml-query.el
+Created esxml-0.3.8.tar containing:
+  esxml-0.3.8/
+  esxml-0.3.8/esxml-pkg.el
+  esxml-0.3.8/esxml-query.el
+  esxml-0.3.8/esxml.el
+Built esxml in 0.030s, finished at 2026-07-24T05:33:03+0000

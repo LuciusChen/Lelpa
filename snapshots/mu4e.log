@@ -1,0 +1,78 @@
+
+ • Building package mu4e
+From https://github.com/djcb/mu
+Updating /github/workspace/sources/mu4e/
+Checking out b8831c790e83e874cc30ae2c64920c405ec49087
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/mu4e/
+  to /tmp/mu4e-Wyaun4/mu4e-1.14.2.0.20260721.9/
+  ! mu4e/mu4e-actions.el -> mu4e-actions.el
+  ! mu4e/mu4e-bookmarks.el -> mu4e-bookmarks.el
+  ! mu4e/mu4e-compose.el -> mu4e-compose.el
+  ! mu4e/mu4e-contacts.el -> mu4e-contacts.el
+  ! mu4e/mu4e-context.el -> mu4e-context.el
+  ! mu4e/mu4e-contrib.el -> mu4e-contrib.el
+  ! mu4e/mu4e-dbus.el -> mu4e-dbus.el
+  ! mu4e/mu4e-draft.el -> mu4e-draft.el
+  ! mu4e/mu4e-folders.el -> mu4e-folders.el
+  ! mu4e/mu4e-headers.el -> mu4e-headers.el
+  ! mu4e/mu4e-helpers.el -> mu4e-helpers.el
+  ! mu4e/mu4e-icalendar.el -> mu4e-icalendar.el
+  ! mu4e/mu4e-labels.el -> mu4e-labels.el
+  ! mu4e/mu4e-lists.el -> mu4e-lists.el
+  ! mu4e/mu4e-main.el -> mu4e-main.el
+  ! mu4e/mu4e-mark.el -> mu4e-mark.el
+  ! mu4e/mu4e-message.el -> mu4e-message.el
+  ! mu4e/mu4e-mime-parts.el -> mu4e-mime-parts.el
+  ! mu4e/mu4e-modeline.el -> mu4e-modeline.el
+  ! mu4e/mu4e-notification.el -> mu4e-notification.el
+  ! mu4e/mu4e-obsolete.el -> mu4e-obsolete.el
+  ! mu4e/mu4e-org.el -> mu4e-org.el
+  ! mu4e/mu4e-query-items.el -> mu4e-query-items.el
+  ! mu4e/mu4e-search.el -> mu4e-search.el
+  ! mu4e/mu4e-server.el -> mu4e-server.el
+  ! mu4e/mu4e-speedbar.el -> mu4e-speedbar.el
+  ! mu4e/mu4e-thread.el -> mu4e-thread.el
+  ! mu4e/mu4e-transient.el -> mu4e-transient.el
+  ! mu4e/mu4e-update.el -> mu4e-update.el
+  ! mu4e/mu4e-vars.el -> mu4e-vars.el
+  ! mu4e/mu4e-view.el -> mu4e-view.el
+  ! mu4e/mu4e-window.el -> mu4e-window.el
+  ! mu4e/mu4e.el -> mu4e.el
+Created mu4e-1.14.2.0.20260721.9.tar containing:
+  mu4e-1.14.2.0.20260721.9/
+  mu4e-1.14.2.0.20260721.9/mu4e-actions.el
+  mu4e-1.14.2.0.20260721.9/mu4e-bookmarks.el
+  mu4e-1.14.2.0.20260721.9/mu4e-compose.el
+  mu4e-1.14.2.0.20260721.9/mu4e-contacts.el
+  mu4e-1.14.2.0.20260721.9/mu4e-context.el
+  mu4e-1.14.2.0.20260721.9/mu4e-contrib.el
+  mu4e-1.14.2.0.20260721.9/mu4e-dbus.el
+  mu4e-1.14.2.0.20260721.9/mu4e-draft.el
+  mu4e-1.14.2.0.20260721.9/mu4e-folders.el
+  mu4e-1.14.2.0.20260721.9/mu4e-headers.el
+  mu4e-1.14.2.0.20260721.9/mu4e-helpers.el
+  mu4e-1.14.2.0.20260721.9/mu4e-icalendar.el
+  mu4e-1.14.2.0.20260721.9/mu4e-labels.el
+  mu4e-1.14.2.0.20260721.9/mu4e-lists.el
+  mu4e-1.14.2.0.20260721.9/mu4e-main.el
+  mu4e-1.14.2.0.20260721.9/mu4e-mark.el
+  mu4e-1.14.2.0.20260721.9/mu4e-message.el
+  mu4e-1.14.2.0.20260721.9/mu4e-mime-parts.el
+  mu4e-1.14.2.0.20260721.9/mu4e-modeline.el
+  mu4e-1.14.2.0.20260721.9/mu4e-notification.el
+  mu4e-1.14.2.0.20260721.9/mu4e-obsolete.el
+  mu4e-1.14.2.0.20260721.9/mu4e-org.el
+  mu4e-1.14.2.0.20260721.9/mu4e-pkg.el
+  mu4e-1.14.2.0.20260721.9/mu4e-query-items.el
+  mu4e-1.14.2.0.20260721.9/mu4e-search.el
+  mu4e-1.14.2.0.20260721.9/mu4e-server.el
+  mu4e-1.14.2.0.20260721.9/mu4e-speedbar.el
+  mu4e-1.14.2.0.20260721.9/mu4e-thread.el
+  mu4e-1.14.2.0.20260721.9/mu4e-transient.el
+  mu4e-1.14.2.0.20260721.9/mu4e-update.el
+  mu4e-1.14.2.0.20260721.9/mu4e-vars.el
+  mu4e-1.14.2.0.20260721.9/mu4e-view.el
+  mu4e-1.14.2.0.20260721.9/mu4e-window.el
+  mu4e-1.14.2.0.20260721.9/mu4e.el
+Built mu4e in 0.804s, finished at 2026-07-24T05:32:13+0000

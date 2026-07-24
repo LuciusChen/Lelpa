@@ -1,0 +1,15 @@
+
+ • Building package posframe
+From https://github.com/tumashu/posframe
+Checking out 74c8c56131ed866db47ae4191364b72dd4852456
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/posframe/
+  to /tmp/posframe-KvRLss/posframe-1.5.2/
+    posframe-benchmark.el -> posframe-benchmark.el
+    posframe.el -> posframe.el
+Created posframe-1.5.2.tar containing:
+  posframe-1.5.2/
+  posframe-1.5.2/posframe-benchmark.el
+  posframe-1.5.2/posframe-pkg.el
+  posframe-1.5.2/posframe.el
+Built posframe in 0.071s, finished at 2026-07-24T05:33:16+0000

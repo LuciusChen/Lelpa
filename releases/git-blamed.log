@@ -1,0 +1,13 @@
+
+ • Building package git-blamed
+From https://github.com/tsgates/git-emacs
+Checking out cef196abf398e2dd11f775d1e6cd8690567408aa
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/git-blamed/
+  to /tmp/git-blamed-h3q1ZE/git-blamed-0.0.0.20161028.186/
+    git-blamed.el -> git-blamed.el
+Created git-blamed-0.0.0.20161028.186.tar containing:
+  git-blamed-0.0.0.20161028.186/
+  git-blamed-0.0.0.20161028.186/git-blamed-pkg.el
+  git-blamed-0.0.0.20161028.186/git-blamed.el
+Built git-blamed in 0.112s, finished at 2026-07-24T05:33:05+0000

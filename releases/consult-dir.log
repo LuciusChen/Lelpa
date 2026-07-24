@@ -1,0 +1,13 @@
+
+ • Building package consult-dir
+From https://github.com/karthink/consult-dir
+Checking out 08f543ae6acbfc1ffe579ba1d00a5414012d5c0b
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/consult-dir/
+  to /tmp/consult-dir-xC6lwD/consult-dir-0.1/
+    consult-dir.el -> consult-dir.el
+Created consult-dir-0.1.tar containing:
+  consult-dir-0.1/
+  consult-dir-0.1/consult-dir-pkg.el
+  consult-dir-0.1/consult-dir.el
+Built consult-dir in 0.030s, finished at 2026-07-24T05:32:58+0000

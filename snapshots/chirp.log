@@ -1,0 +1,30 @@
+
+ • Building package chirp
+From https://github.com/LuciusChen/chirp
+Updating /github/workspace/sources/chirp/
+Checking out 3aa1279581c23fc9e5f02c709d4a6830f8acef56
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/chirp/
+  to /tmp/chirp-LE0LOz/chirp-0.1.0.0.20260709.53/
+    chirp.el -> chirp.el
+  ! lisp/chirp-actions.el -> chirp-actions.el
+  ! lisp/chirp-backend.el -> chirp-backend.el
+  ! lisp/chirp-core.el -> chirp-core.el
+  ! lisp/chirp-media.el -> chirp-media.el
+  ! lisp/chirp-profile.el -> chirp-profile.el
+  ! lisp/chirp-render.el -> chirp-render.el
+  ! lisp/chirp-thread.el -> chirp-thread.el
+  ! lisp/chirp-timeline.el -> chirp-timeline.el
+Created chirp-0.1.0.0.20260709.53.tar containing:
+  chirp-0.1.0.0.20260709.53/
+  chirp-0.1.0.0.20260709.53/chirp-actions.el
+  chirp-0.1.0.0.20260709.53/chirp-backend.el
+  chirp-0.1.0.0.20260709.53/chirp-core.el
+  chirp-0.1.0.0.20260709.53/chirp-media.el
+  chirp-0.1.0.0.20260709.53/chirp-pkg.el
+  chirp-0.1.0.0.20260709.53/chirp-profile.el
+  chirp-0.1.0.0.20260709.53/chirp-render.el
+  chirp-0.1.0.0.20260709.53/chirp-thread.el
+  chirp-0.1.0.0.20260709.53/chirp-timeline.el
+  chirp-0.1.0.0.20260709.53/chirp.el
+Built chirp in 0.498s, finished at 2026-07-24T05:31:29+0000

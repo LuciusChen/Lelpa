@@ -1,0 +1,13 @@
+
+ • Building package hnview
+From https://github.com/LuciusChen/hnview
+Checking out 5e2030395f2e2e0a9548b1878b60e42cb462af51
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/hnview/
+  to /tmp/hnview-QpzeUh/hnview-0.1.0/
+    hnview.el -> hnview.el
+Created hnview-0.1.0.tar containing:
+  hnview-0.1.0/
+  hnview-0.1.0/hnview-pkg.el
+  hnview-0.1.0/hnview.el
+Built hnview in 0.107s, finished at 2026-07-24T05:33:06+0000

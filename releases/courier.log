@@ -1,0 +1,13 @@
+
+ • Building package courier
+From https://github.com/LuciusChen/courier
+Checking out 21ff2dec23756c58e1ab8885659aff6234dc2b4b
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/courier/
+  to /tmp/courier-Fq7I21/courier-0.2.0/
+    courier.el -> courier.el
+Created courier-0.2.0.tar containing:
+  courier-0.2.0/
+  courier-0.2.0/courier-pkg.el
+  courier-0.2.0/courier.el
+Built courier in 0.132s, finished at 2026-07-24T05:32:59+0000

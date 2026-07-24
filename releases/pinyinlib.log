@@ -1,0 +1,13 @@
+
+ • Building package pinyinlib
+From https://github.com/cute-jumper/pinyinlib.el
+Checking out 39943d226c2a42a9013421a0b4b6d5d3696bf234
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/pinyinlib/
+  to /tmp/pinyinlib-8YM6x1/pinyinlib-0.1.1/
+    pinyinlib.el -> pinyinlib.el
+Created pinyinlib-0.1.1.tar containing:
+  pinyinlib-0.1.1/
+  pinyinlib-0.1.1/pinyinlib-pkg.el
+  pinyinlib-0.1.1/pinyinlib.el
+Built pinyinlib in 0.081s, finished at 2026-07-24T05:33:15+0000

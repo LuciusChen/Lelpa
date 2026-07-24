@@ -1,0 +1,14 @@
+
+ • Building package shrink-path
+From https://gitlab.com/bennya/shrink-path.el
+Updating /github/workspace/sources/shrink-path/
+Checking out c14882c8599aec79a6e8ef2d06454254bb3e1e41
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/shrink-path/
+  to /tmp/shrink-path-QqYsFX/shrink-path-0.3.1.0.20190208.8/
+    shrink-path.el -> shrink-path.el
+Created shrink-path-0.3.1.0.20190208.8.tar containing:
+  shrink-path-0.3.1.0.20190208.8/
+  shrink-path-0.3.1.0.20190208.8/shrink-path-pkg.el
+  shrink-path-0.3.1.0.20190208.8/shrink-path.el
+Built shrink-path in 0.991s, finished at 2026-07-24T05:32:39+0000

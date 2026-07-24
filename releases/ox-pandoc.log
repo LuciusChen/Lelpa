@@ -1,0 +1,13 @@
+
+ • Building package ox-pandoc
+From https://github.com/emacsorphanage/ox-pandoc
+Checking out 824d3707bb51e31249a7550a3e759e5fbb5207e5
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/ox-pandoc/
+  to /tmp/ox-pandoc-12QDR6/ox-pandoc-2.0/
+    ox-pandoc.el -> ox-pandoc.el
+Created ox-pandoc-2.0.tar containing:
+  ox-pandoc-2.0/
+  ox-pandoc-2.0/ox-pandoc-pkg.el
+  ox-pandoc-2.0/ox-pandoc.el
+Built ox-pandoc in 0.030s, finished at 2026-07-24T05:33:13+0000

@@ -1,0 +1,13 @@
+
+ • Building package language-detection
+From https://github.com/andreasjansson/language-detection.el
+Checking out ff441f701c74c938ae52657deb9e1d0056b3f9c0
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/language-detection/
+  to /tmp/language-detection-L26KHh/language-detection-0.1.0/
+    language-detection.el -> language-detection.el
+Created language-detection-0.1.0.tar containing:
+  language-detection-0.1.0/
+  language-detection-0.1.0/language-detection-pkg.el
+  language-detection-0.1.0/language-detection.el
+Built language-detection in 0.149s, finished at 2026-07-24T05:33:07+0000

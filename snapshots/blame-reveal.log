@@ -1,0 +1,30 @@
+
+ • Building package blame-reveal
+From https://github.com/LuciusChen/blame-reveal
+Updating /github/workspace/sources/blame-reveal/
+Checking out 815e0ae2fc2c9c7805a1249158fe55fd00e99808
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/blame-reveal/
+  to /tmp/blame-reveal-TjhxBS/blame-reveal-0.5.0.20260505.51/
+    blame-reveal-color.el -> blame-reveal-color.el
+    blame-reveal-core.el -> blame-reveal-core.el
+    blame-reveal-focus.el -> blame-reveal-focus.el
+    blame-reveal-git.el -> blame-reveal-git.el
+    blame-reveal-header.el -> blame-reveal-header.el
+    blame-reveal-recursive.el -> blame-reveal-recursive.el
+    blame-reveal-transient.el -> blame-reveal-transient.el
+    blame-reveal-ui.el -> blame-reveal-ui.el
+    blame-reveal.el -> blame-reveal.el
+Created blame-reveal-0.5.0.20260505.51.tar containing:
+  blame-reveal-0.5.0.20260505.51/
+  blame-reveal-0.5.0.20260505.51/blame-reveal-color.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal-core.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal-focus.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal-git.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal-header.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal-pkg.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal-recursive.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal-transient.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal-ui.el
+  blame-reveal-0.5.0.20260505.51/blame-reveal.el
+Built blame-reveal in 0.498s, finished at 2026-07-24T05:31:26+0000

@@ -1,0 +1,30 @@
+
+ • Building package consult
+From https://github.com/minad/consult
+Updating /github/workspace/sources/consult/
+Checking out 8c6787edc690097ccfcf2255fecf623a8ab29c7e
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/consult/
+  to /tmp/consult-BGUPNg/consult-3.6.0.20260716.5/
+    consult-compile.el -> consult-compile.el
+    consult-flymake.el -> consult-flymake.el
+    consult-imenu.el -> consult-imenu.el
+    consult-info.el -> consult-info.el
+    consult-kmacro.el -> consult-kmacro.el
+    consult-org.el -> consult-org.el
+    consult-register.el -> consult-register.el
+    consult-xref.el -> consult-xref.el
+    consult.el -> consult.el
+Created consult-3.6.0.20260716.5.tar containing:
+  consult-3.6.0.20260716.5/
+  consult-3.6.0.20260716.5/consult-compile.el
+  consult-3.6.0.20260716.5/consult-flymake.el
+  consult-3.6.0.20260716.5/consult-imenu.el
+  consult-3.6.0.20260716.5/consult-info.el
+  consult-3.6.0.20260716.5/consult-kmacro.el
+  consult-3.6.0.20260716.5/consult-org.el
+  consult-3.6.0.20260716.5/consult-pkg.el
+  consult-3.6.0.20260716.5/consult-register.el
+  consult-3.6.0.20260716.5/consult-xref.el
+  consult-3.6.0.20260716.5/consult.el
+Built consult in 0.557s, finished at 2026-07-24T05:31:35+0000

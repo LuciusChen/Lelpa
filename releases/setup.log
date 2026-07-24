@@ -1,0 +1,14 @@
+
+ • Building package setup
+From https://github.com/emacs-straight/setup
+Checking out 8805db36d03891c5df3fd9b56f5a9137c7ca5255
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/setup/
+  to /tmp/setup-JWGdN6/setup-1.5.0/
+    setup-pkg.el -> setup-pkg.el
+    setup.el -> setup.el
+Created setup-1.5.0.tar containing:
+  setup-1.5.0/
+  setup-1.5.0/setup-pkg.el
+  setup-1.5.0/setup.el
+Built setup in 0.084s, finished at 2026-07-24T05:33:18+0000

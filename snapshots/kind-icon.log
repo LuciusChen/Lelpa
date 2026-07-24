@@ -1,0 +1,15 @@
+
+ • Building package kind-icon
+From https://github.com/emacs-straight/kind-icon
+Updating /github/workspace/sources/kind-icon/
+Checking out 85bd8ed3a24fe283f6aeff6afa9a552516ec14e0
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/kind-icon/
+  to /tmp/kind-icon-FWcNn6/kind-icon-0.2.2.0.20250312.10/
+    kind-icon-pkg.el -> kind-icon-pkg.el
+    kind-icon.el -> kind-icon.el
+Created kind-icon-0.2.2.0.20250312.10.tar containing:
+  kind-icon-0.2.2.0.20250312.10/
+  kind-icon-0.2.2.0.20250312.10/kind-icon-pkg.el
+  kind-icon-0.2.2.0.20250312.10/kind-icon.el
+Built kind-icon in 0.430s, finished at 2026-07-24T05:31:58+0000

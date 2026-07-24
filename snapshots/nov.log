@@ -1,0 +1,14 @@
+
+ • Building package nov
+From https://depp.brause.cc/nov.el.git
+Updating /github/workspace/sources/nov/
+Checking out 874daf5e4791a6d4f47741422c80e2736e907351
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/nov/
+  to /tmp/nov-u0oj2l/nov-0.5.0.0.20251213.4/
+    nov.el -> nov.el
+Created nov-0.5.0.0.20251213.4.tar containing:
+  nov-0.5.0.0.20251213.4/
+  nov-0.5.0.0.20251213.4/nov-pkg.el
+  nov-0.5.0.0.20251213.4/nov.el
+Built nov in 1.472s, finished at 2026-07-24T05:32:17+0000

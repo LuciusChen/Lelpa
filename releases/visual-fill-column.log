@@ -1,0 +1,13 @@
+
+ • Building package visual-fill-column
+From https://codeberg.org/joostkremers/visual-fill-column
+Checking out 9c0ecc2af21d3024a2a838c30d574e86265a52be
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/visual-fill-column/
+  to /tmp/visual-fill-column-gAZuOw/visual-fill-column-2.7.1/
+    visual-fill-column.el -> visual-fill-column.el
+Created visual-fill-column-2.7.1.tar containing:
+  visual-fill-column-2.7.1/
+  visual-fill-column-2.7.1/visual-fill-column-pkg.el
+  visual-fill-column-2.7.1/visual-fill-column.el
+Built visual-fill-column in 0.032s, finished at 2026-07-24T05:33:20+0000

@@ -1,0 +1,19 @@
+
+ • Building package plz
+From https://github.com/emacs-straight/plz
+Updating /github/workspace/sources/plz/
+Checking out 8f5e5ffbde6da93920035be1489a1f1a9986b879
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/plz/
+  to /tmp/plz-oxp0K1/plz-0.9.0.20260708.8/
+    plz-pkg.el -> plz-pkg.el
+    plz.el -> plz.el
+    dir -> dir
+    plz.info -> plz.info
+Created plz-0.9.0.20260708.8.tar containing:
+  plz-0.9.0.20260708.8/
+  plz-0.9.0.20260708.8/dir
+  plz-0.9.0.20260708.8/plz-pkg.el
+  plz-0.9.0.20260708.8/plz.el
+  plz-0.9.0.20260708.8/plz.info
+Built plz in 0.473s, finished at 2026-07-24T05:32:29+0000

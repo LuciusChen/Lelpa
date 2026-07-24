@@ -1,0 +1,13 @@
+
+ • Building package tomelr
+From https://github.com/emacs-straight/tomelr
+Checking out 57cb24df521031a6d02f61091db82d292e4175df
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/tomelr/
+  to /tmp/tomelr-4gTQj2/tomelr-0.4.3/
+    tomelr.el -> tomelr.el
+Created tomelr-0.4.3.tar containing:
+  tomelr-0.4.3/
+  tomelr-0.4.3/tomelr-pkg.el
+  tomelr-0.4.3/tomelr.el
+Built tomelr in 0.031s, finished at 2026-07-24T05:33:19+0000

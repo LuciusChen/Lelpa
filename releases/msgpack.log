@@ -1,0 +1,13 @@
+
+ • Building package msgpack
+From https://github.com/xuchunyang/msgpack.el
+Checking out 5353a7b2da854c843cbec4536996242001f63471
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/msgpack/
+  to /tmp/msgpack-Jndvga/msgpack-0.0.0.20260706.57/
+    msgpack.el -> msgpack.el
+Created msgpack-0.0.0.20260706.57.tar containing:
+  msgpack-0.0.0.20260706.57/
+  msgpack-0.0.0.20260706.57/msgpack-pkg.el
+  msgpack-0.0.0.20260706.57/msgpack.el
+Built msgpack in 0.049s, finished at 2026-07-24T05:33:11+0000

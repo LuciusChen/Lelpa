@@ -1,0 +1,10 @@
+(string-inflection
+ . [(1 0 16 0 20251114 56) nil
+    "Foo_bar => FOO_BAR => FooBar => fooBar => foo-bar => Foo_Bar => foo_bar conversion of names"
+    tar
+    ((:url . "https://github.com/akicho8/string-inflection")
+     (:commit . "072f7dff43140570788d64ac0ec9d930c3c2a96b")
+     (:revdesc . "072f7dff4314") (:keywords "elisp")
+     (:authors ("akicho8" . "akicho8@gmail.com"))
+     (:maintainers ("akicho8" . "akicho8@gmail.com"))
+     (:maintainer "akicho8" . "akicho8@gmail.com"))])

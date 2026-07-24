@@ -1,0 +1,13 @@
+
+ • Building package discourse-graphs
+From https://github.com/LuciusChen/discourse-graphs
+Checking out b4587a8a6f0010d2dda3b1aa5216f39041223b11
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/discourse-graphs/
+  to /tmp/discourse-graphs-Ury1cY/discourse-graphs-1.0.0/
+    discourse-graphs.el -> discourse-graphs.el
+Created discourse-graphs-1.0.0.tar containing:
+  discourse-graphs-1.0.0/
+  discourse-graphs-1.0.0/discourse-graphs-pkg.el
+  discourse-graphs-1.0.0/discourse-graphs.el
+Built discourse-graphs in 0.088s, finished at 2026-07-24T05:33:02+0000

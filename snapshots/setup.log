@@ -1,0 +1,15 @@
+
+ • Building package setup
+From https://github.com/emacs-straight/setup
+Updating /github/workspace/sources/setup/
+Checking out 2b6751705418ec22a15889efc4127dbc868cf559
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/setup/
+  to /tmp/setup-IuN6ZC/setup-1.5.0.0.20251028.1/
+    setup-pkg.el -> setup-pkg.el
+    setup.el -> setup.el
+Created setup-1.5.0.0.20251028.1.tar containing:
+  setup-1.5.0.0.20251028.1/
+  setup-1.5.0.0.20251028.1/setup-pkg.el
+  setup-1.5.0.0.20251028.1/setup.el
+Built setup in 0.434s, finished at 2026-07-24T05:32:38+0000

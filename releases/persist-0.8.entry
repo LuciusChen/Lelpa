@@ -1,0 +1,10 @@
+(persist
+ . [(0 8) ((emacs (26 1)) (compat (30 0 2 0)))
+    "Persist Variables between Emacs Sessions" tar
+    ((:url . "https://github.com/emacs-straight/persist")
+     (:commit . "a4c6e759e340d7af9b3f2aad21d279f336cfde68")
+     (:revdesc . "a4c6e759e340")
+     (:authors ("Phillip Lord" . "phillip.lord@russet.org.uk"))
+     (:maintainers
+      ("Joseph Turner" . "persist-el@breatheoutbreathe.in"))
+     (:maintainer "Joseph Turner" . "persist-el@breatheoutbreathe.in"))])

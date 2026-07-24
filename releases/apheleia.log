@@ -1,0 +1,34 @@
+
+ • Building package apheleia
+From https://github.com/radian-software/apheleia
+Checking out b5d120a419816f9d6b3d0e45f0951dd3d6a10b77
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/apheleia/
+  to /tmp/apheleia-otg6Vy/apheleia-4.5.0/
+    apheleia-dp.el -> apheleia-dp.el
+    apheleia-formatter-context.el -> apheleia-formatter-context.el
+    apheleia-formatters.el -> apheleia-formatters.el
+    apheleia-log.el -> apheleia-log.el
+    apheleia-rcs.el -> apheleia-rcs.el
+    apheleia-utils.el -> apheleia-utils.el
+    apheleia.el -> apheleia.el
+    scripts/formatters => scripts/formatters
+Created apheleia-4.5.0.tar containing:
+  apheleia-4.5.0/
+  apheleia-4.5.0/apheleia-dp.el
+  apheleia-4.5.0/apheleia-formatter-context.el
+  apheleia-4.5.0/apheleia-formatters.el
+  apheleia-4.5.0/apheleia-log.el
+  apheleia-4.5.0/apheleia-pkg.el
+  apheleia-4.5.0/apheleia-rcs.el
+  apheleia-4.5.0/apheleia-utils.el
+  apheleia-4.5.0/apheleia.el
+  apheleia-4.5.0/scripts/
+  apheleia-4.5.0/scripts/formatters/
+  apheleia-4.5.0/scripts/formatters/apheleia-docformatter
+  apheleia-4.5.0/scripts/formatters/apheleia-from-project-root
+  apheleia-4.5.0/scripts/formatters/apheleia-mix-format
+  apheleia-4.5.0/scripts/formatters/apheleia-npx
+  apheleia-4.5.0/scripts/formatters/apheleia-phpcs
+  apheleia-4.5.0/scripts/formatters/pnp-bin.js
+Built apheleia in 0.043s, finished at 2026-07-24T05:32:55+0000

@@ -1,0 +1,16 @@
+
+ • Building package macrostep
+From https://github.com/emacsorphanage/macrostep
+Updating /github/workspace/sources/macrostep/
+Checking out d0928626b4711dcf9f8f90439d23701118724199
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/macrostep/
+  to /tmp/macrostep-UrjqdH/macrostep-0.9.5.0.20250202.1/
+    macrostep-c.el -> macrostep-c.el
+    macrostep.el -> macrostep.el
+Created macrostep-0.9.5.0.20250202.1.tar containing:
+  macrostep-0.9.5.0.20250202.1/
+  macrostep-0.9.5.0.20250202.1/macrostep-c.el
+  macrostep-0.9.5.0.20250202.1/macrostep-pkg.el
+  macrostep-0.9.5.0.20250202.1/macrostep.el
+Built macrostep in 0.422s, finished at 2026-07-24T05:32:02+0000

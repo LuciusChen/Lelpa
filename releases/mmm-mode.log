@@ -1,0 +1,49 @@
+
+ • Building package mmm-mode
+From https://github.com/dgutov/mmm-mode
+Checking out b1f5c7dbdc405e6e10d9ddd99a43a6b2ad61b176
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/mmm-mode/
+  to /tmp/mmm-mode-KwYRp1/mmm-mode-0.5.11/
+    mmm-auto.el -> mmm-auto.el
+    mmm-class.el -> mmm-class.el
+    mmm-cmds.el -> mmm-cmds.el
+    mmm-compat.el -> mmm-compat.el
+    mmm-cweb.el -> mmm-cweb.el
+    mmm-defaults.el -> mmm-defaults.el
+    mmm-erb.el -> mmm-erb.el
+    mmm-mason.el -> mmm-mason.el
+    mmm-mode.el -> mmm-mode.el
+    mmm-myghty.el -> mmm-myghty.el
+    mmm-noweb.el -> mmm-noweb.el
+    mmm-region.el -> mmm-region.el
+    mmm-rpm.el -> mmm-rpm.el
+    mmm-sample.el -> mmm-sample.el
+    mmm-univ.el -> mmm-univ.el
+    mmm-utils.el -> mmm-utils.el
+    mmm-vars.el -> mmm-vars.el
+    mmm.texi -> mmm.texi
+Generating mmm.info
+Created mmm-mode-0.5.11.tar containing:
+  mmm-mode-0.5.11/
+  mmm-mode-0.5.11/dir
+  mmm-mode-0.5.11/mmm-auto.el
+  mmm-mode-0.5.11/mmm-class.el
+  mmm-mode-0.5.11/mmm-cmds.el
+  mmm-mode-0.5.11/mmm-compat.el
+  mmm-mode-0.5.11/mmm-cweb.el
+  mmm-mode-0.5.11/mmm-defaults.el
+  mmm-mode-0.5.11/mmm-erb.el
+  mmm-mode-0.5.11/mmm-mason.el
+  mmm-mode-0.5.11/mmm-mode-pkg.el
+  mmm-mode-0.5.11/mmm-mode.el
+  mmm-mode-0.5.11/mmm-myghty.el
+  mmm-mode-0.5.11/mmm-noweb.el
+  mmm-mode-0.5.11/mmm-region.el
+  mmm-mode-0.5.11/mmm-rpm.el
+  mmm-mode-0.5.11/mmm-sample.el
+  mmm-mode-0.5.11/mmm-univ.el
+  mmm-mode-0.5.11/mmm-utils.el
+  mmm-mode-0.5.11/mmm-vars.el
+  mmm-mode-0.5.11/mmm.info
+Built mmm-mode in 0.319s, finished at 2026-07-24T05:33:10+0000

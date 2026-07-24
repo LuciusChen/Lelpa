@@ -1,0 +1,14 @@
+
+ • Building package java-server
+From https://github.com/LuciusChen/java-server
+Updating /github/workspace/sources/java-server/
+Checking out 69d54bf175d6c9a61470f1636c48700058926a43
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/java-server/
+  to /tmp/java-server-FTCGKU/java-server-0.1.0.0.20260706.7/
+    java-server.el -> java-server.el
+Created java-server-0.1.0.0.20260706.7.tar containing:
+  java-server-0.1.0.0.20260706.7/
+  java-server-0.1.0.0.20260706.7/java-server-pkg.el
+  java-server-0.1.0.0.20260706.7/java-server.el
+Built java-server in 0.512s, finished at 2026-07-24T05:31:57+0000

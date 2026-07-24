@@ -1,0 +1,58 @@
+
+ • Building package gt
+From https://github.com/LuciusChen/gt.el
+Updating /github/workspace/sources/gt/
+Checking out 8a7c5fe7d6f37e1c691ee85a84456e4be33512df
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/gt/
+  to /tmp/gt-2Z5j4I/gt-3.2.1.0.20251104.3/
+    gt-core.el -> gt-core.el
+    gt-engine-bing.el -> gt-engine-bing.el
+    gt-engine-chatgpt.el -> gt-engine-chatgpt.el
+    gt-engine-deepl.el -> gt-engine-deepl.el
+    gt-engine-echo.el -> gt-engine-echo.el
+    gt-engine-google-rpc.el -> gt-engine-google-rpc.el
+    gt-engine-google.el -> gt-engine-google.el
+    gt-engine-libre.el -> gt-engine-libre.el
+    gt-engine-osxdict.el -> gt-engine-osxdict.el
+    gt-engine-stardict.el -> gt-engine-stardict.el
+    gt-engine-youdao.el -> gt-engine-youdao.el
+    gt-extensions.el -> gt-extensions.el
+    gt-faces.el -> gt-faces.el
+    gt-render-alert.el -> gt-render-alert.el
+    gt-render-buffer.el -> gt-render-buffer.el
+    gt-render-insert.el -> gt-render-insert.el
+    gt-render-kill-ring.el -> gt-render-kill-ring.el
+    gt-render-overlay.el -> gt-render-overlay.el
+    gt-render-posframe.el -> gt-render-posframe.el
+    gt-taker-buffer-prompt.el -> gt-taker-buffer-prompt.el
+    gt-taker-fresh-words.el -> gt-taker-fresh-words.el
+    gt-text-utility.el -> gt-text-utility.el
+    gt.el -> gt.el
+Created gt-3.2.1.0.20251104.3.tar containing:
+  gt-3.2.1.0.20251104.3/
+  gt-3.2.1.0.20251104.3/gt-core.el
+  gt-3.2.1.0.20251104.3/gt-engine-bing.el
+  gt-3.2.1.0.20251104.3/gt-engine-chatgpt.el
+  gt-3.2.1.0.20251104.3/gt-engine-deepl.el
+  gt-3.2.1.0.20251104.3/gt-engine-echo.el
+  gt-3.2.1.0.20251104.3/gt-engine-google-rpc.el
+  gt-3.2.1.0.20251104.3/gt-engine-google.el
+  gt-3.2.1.0.20251104.3/gt-engine-libre.el
+  gt-3.2.1.0.20251104.3/gt-engine-osxdict.el
+  gt-3.2.1.0.20251104.3/gt-engine-stardict.el
+  gt-3.2.1.0.20251104.3/gt-engine-youdao.el
+  gt-3.2.1.0.20251104.3/gt-extensions.el
+  gt-3.2.1.0.20251104.3/gt-faces.el
+  gt-3.2.1.0.20251104.3/gt-pkg.el
+  gt-3.2.1.0.20251104.3/gt-render-alert.el
+  gt-3.2.1.0.20251104.3/gt-render-buffer.el
+  gt-3.2.1.0.20251104.3/gt-render-insert.el
+  gt-3.2.1.0.20251104.3/gt-render-kill-ring.el
+  gt-3.2.1.0.20251104.3/gt-render-overlay.el
+  gt-3.2.1.0.20251104.3/gt-render-posframe.el
+  gt-3.2.1.0.20251104.3/gt-taker-buffer-prompt.el
+  gt-3.2.1.0.20251104.3/gt-taker-fresh-words.el
+  gt-3.2.1.0.20251104.3/gt-text-utility.el
+  gt-3.2.1.0.20251104.3/gt.el
+Built gt in 0.458s, finished at 2026-07-24T05:31:55+0000

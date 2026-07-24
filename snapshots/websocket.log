@@ -1,0 +1,14 @@
+
+ • Building package websocket
+From https://github.com/ahyatt/emacs-websocket
+Updating /github/workspace/sources/websocket/
+Checking out 2195e1247ecb04c30321702aa5f5618a51c329c5
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/websocket/
+  to /tmp/websocket-0uv0AO/websocket-1.16.0.20260301.4/
+    websocket.el -> websocket.el
+Created websocket-1.16.0.20260301.4.tar containing:
+  websocket-1.16.0.20260301.4/
+  websocket-1.16.0.20260301.4/websocket-pkg.el
+  websocket-1.16.0.20260301.4/websocket.el
+Built websocket in 0.362s, finished at 2026-07-24T05:32:52+0000

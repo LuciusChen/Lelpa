@@ -1,0 +1,15 @@
+
+ • Building package popper
+From https://github.com/karthink/popper
+Checking out 91b71955db19014d7139191660272c736458d87d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/popper/
+  to /tmp/popper-y8zZ8w/popper-0.4.8/
+    popper-echo.el -> popper-echo.el
+    popper.el -> popper.el
+Created popper-0.4.8.tar containing:
+  popper-0.4.8/
+  popper-0.4.8/popper-echo.el
+  popper-0.4.8/popper-pkg.el
+  popper-0.4.8/popper.el
+Built popper in 0.035s, finished at 2026-07-24T05:33:16+0000

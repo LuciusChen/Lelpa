@@ -1,0 +1,13 @@
+
+ • Building package pyvenv
+From https://github.com/jorgenschaefer/pyvenv
+Checking out 103d2f158ef2a760741682e18741e44107c68f3f
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/pyvenv/
+  to /tmp/pyvenv-XsqKhy/pyvenv-1.21/
+    pyvenv.el -> pyvenv.el
+Created pyvenv-1.21.tar containing:
+  pyvenv-1.21/
+  pyvenv-1.21/pyvenv-pkg.el
+  pyvenv-1.21/pyvenv.el
+Built pyvenv in 0.029s, finished at 2026-07-24T05:33:16+0000

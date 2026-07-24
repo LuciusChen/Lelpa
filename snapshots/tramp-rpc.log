@@ -1,0 +1,24 @@
+
+ • Building package tramp-rpc
+From https://github.com/ArthurHeymans/emacs-tramp-rpc
+Updating /github/workspace/sources/tramp-rpc/
+Checking out 4026a12db3cf139755dbb38493b8466ab5742650
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/tramp-rpc/
+  to /tmp/tramp-rpc-XKBweY/tramp-rpc-0.12.0.0.20260723.10/
+  ! lisp/tramp-rpc-advice.el -> tramp-rpc-advice.el
+  ! lisp/tramp-rpc-deploy.el -> tramp-rpc-deploy.el
+  ! lisp/tramp-rpc-magit.el -> tramp-rpc-magit.el
+  ! lisp/tramp-rpc-process.el -> tramp-rpc-process.el
+  ! lisp/tramp-rpc-protocol.el -> tramp-rpc-protocol.el
+  ! lisp/tramp-rpc.el -> tramp-rpc.el
+Created tramp-rpc-0.12.0.0.20260723.10.tar containing:
+  tramp-rpc-0.12.0.0.20260723.10/
+  tramp-rpc-0.12.0.0.20260723.10/tramp-rpc-advice.el
+  tramp-rpc-0.12.0.0.20260723.10/tramp-rpc-deploy.el
+  tramp-rpc-0.12.0.0.20260723.10/tramp-rpc-magit.el
+  tramp-rpc-0.12.0.0.20260723.10/tramp-rpc-pkg.el
+  tramp-rpc-0.12.0.0.20260723.10/tramp-rpc-process.el
+  tramp-rpc-0.12.0.0.20260723.10/tramp-rpc-protocol.el
+  tramp-rpc-0.12.0.0.20260723.10/tramp-rpc.el
+Built tramp-rpc in 1.259s, finished at 2026-07-24T05:32:47+0000

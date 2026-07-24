@@ -1,0 +1,26 @@
+
+ • Building package ghub
+From https://github.com/magit/ghub
+Updating /github/workspace/sources/ghub/
+Checking out 59d0b9b33e780d6cff5131886904ff26033dd2e6
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/ghub/
+  to /tmp/ghub-idzgVA/ghub-5.2.2/
+  ! lisp/ghub-graphql.el -> ghub-graphql.el
+  ! lisp/ghub-legacy.el -> ghub-legacy.el
+  ! lisp/ghub.el -> ghub.el
+  ! lisp/gsexp.el -> gsexp.el
+  ! docs/ghub.texi -> ghub.texi
+    .dir-locals.el -> .dir-locals.el
+Generating ghub.info
+Created ghub-5.2.2.tar containing:
+  ghub-5.2.2/
+  ghub-5.2.2/.dir-locals.el
+  ghub-5.2.2/dir
+  ghub-5.2.2/ghub-graphql.el
+  ghub-5.2.2/ghub-legacy.el
+  ghub-5.2.2/ghub-pkg.el
+  ghub-5.2.2/ghub.el
+  ghub-5.2.2/ghub.info
+  ghub-5.2.2/gsexp.el
+Built ghub in 0.655s, finished at 2026-07-24T05:31:52+0000

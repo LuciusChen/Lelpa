@@ -1,0 +1,48 @@
+
+ • Building package gptel
+From https://github.com/karthink/gptel
+Updating /github/workspace/sources/gptel/
+Checking out 8701e2bd80c5d2091ce2decef5d34d6fce4a3ada
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/gptel/
+  to /tmp/gptel-2JTsm9/gptel-0.9.9.5.0.20260715.65/
+    gptel-anthropic.el -> gptel-anthropic.el
+    gptel-bedrock.el -> gptel-bedrock.el
+    gptel-context.el -> gptel-context.el
+    gptel-gemini.el -> gptel-gemini.el
+    gptel-gh.el -> gptel-gh.el
+    gptel-integrations.el -> gptel-integrations.el
+    gptel-kagi.el -> gptel-kagi.el
+    gptel-oauth.el -> gptel-oauth.el
+    gptel-ollama.el -> gptel-ollama.el
+    gptel-openai-extras.el -> gptel-openai-extras.el
+    gptel-openai-oauth.el -> gptel-openai-oauth.el
+    gptel-openai-responses.el -> gptel-openai-responses.el
+    gptel-openai.el -> gptel-openai.el
+    gptel-org.el -> gptel-org.el
+    gptel-request.el -> gptel-request.el
+    gptel-rewrite.el -> gptel-rewrite.el
+    gptel-transient.el -> gptel-transient.el
+    gptel.el -> gptel.el
+Created gptel-0.9.9.5.0.20260715.65.tar containing:
+  gptel-0.9.9.5.0.20260715.65/
+  gptel-0.9.9.5.0.20260715.65/gptel-anthropic.el
+  gptel-0.9.9.5.0.20260715.65/gptel-bedrock.el
+  gptel-0.9.9.5.0.20260715.65/gptel-context.el
+  gptel-0.9.9.5.0.20260715.65/gptel-gemini.el
+  gptel-0.9.9.5.0.20260715.65/gptel-gh.el
+  gptel-0.9.9.5.0.20260715.65/gptel-integrations.el
+  gptel-0.9.9.5.0.20260715.65/gptel-kagi.el
+  gptel-0.9.9.5.0.20260715.65/gptel-oauth.el
+  gptel-0.9.9.5.0.20260715.65/gptel-ollama.el
+  gptel-0.9.9.5.0.20260715.65/gptel-openai-extras.el
+  gptel-0.9.9.5.0.20260715.65/gptel-openai-oauth.el
+  gptel-0.9.9.5.0.20260715.65/gptel-openai-responses.el
+  gptel-0.9.9.5.0.20260715.65/gptel-openai.el
+  gptel-0.9.9.5.0.20260715.65/gptel-org.el
+  gptel-0.9.9.5.0.20260715.65/gptel-pkg.el
+  gptel-0.9.9.5.0.20260715.65/gptel-request.el
+  gptel-0.9.9.5.0.20260715.65/gptel-rewrite.el
+  gptel-0.9.9.5.0.20260715.65/gptel-transient.el
+  gptel-0.9.9.5.0.20260715.65/gptel.el
+Built gptel in 0.641s, finished at 2026-07-24T05:31:54+0000

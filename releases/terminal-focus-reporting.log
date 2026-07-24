@@ -1,0 +1,13 @@
+
+ • Building package terminal-focus-reporting
+From https://github.com/veelenga/terminal-focus-reporting.el
+Checking out 77a5df39eff4e9da9af7c210c518bde306e964b9
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/terminal-focus-reporting/
+  to /tmp/terminal-focus-reporting-7SNS8M/terminal-focus-reporting-1.0.0/
+    terminal-focus-reporting.el -> terminal-focus-reporting.el
+Created terminal-focus-reporting-1.0.0.tar containing:
+  terminal-focus-reporting-1.0.0/
+  terminal-focus-reporting-1.0.0/terminal-focus-reporting-pkg.el
+  terminal-focus-reporting-1.0.0/terminal-focus-reporting.el
+Built terminal-focus-reporting in 0.086s, finished at 2026-07-24T05:33:19+0000

@@ -1,0 +1,29 @@
+
+ • Building package citar
+From https://github.com/emacs-citar/citar
+Checking out e21bf22b29d8ca40649517bb7dc503765f240282
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/citar/
+  to /tmp/citar-QtdAIP/citar-1.4.0/
+    citar-cache.el -> citar-cache.el
+    citar-capf.el -> citar-capf.el
+    citar-citeproc.el -> citar-citeproc.el
+    citar-file.el -> citar-file.el
+    citar-format.el -> citar-format.el
+    citar-latex.el -> citar-latex.el
+    citar-markdown.el -> citar-markdown.el
+    citar-org.el -> citar-org.el
+    citar.el -> citar.el
+Created citar-1.4.0.tar containing:
+  citar-1.4.0/
+  citar-1.4.0/citar-cache.el
+  citar-1.4.0/citar-capf.el
+  citar-1.4.0/citar-citeproc.el
+  citar-1.4.0/citar-file.el
+  citar-1.4.0/citar-format.el
+  citar-1.4.0/citar-latex.el
+  citar-1.4.0/citar-markdown.el
+  citar-1.4.0/citar-org.el
+  citar-1.4.0/citar-pkg.el
+  citar-1.4.0/citar.el
+Built citar in 0.104s, finished at 2026-07-24T05:32:56+0000

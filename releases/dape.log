@@ -1,0 +1,14 @@
+
+ • Building package dape
+From https://github.com/emacs-straight/dape
+Checking out 4b32b356fbb41b3934e68e966513cc07a252994d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/dape/
+  to /tmp/dape-EmYx15/dape-0.27.1/
+    dape-pkg.el -> dape-pkg.el
+    dape.el -> dape.el
+Created dape-0.27.1.tar containing:
+  dape-0.27.1/
+  dape-0.27.1/dape-pkg.el
+  dape-0.27.1/dape.el
+Built dape in 0.340s, finished at 2026-07-24T05:32:59+0000

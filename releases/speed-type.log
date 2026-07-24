@@ -1,0 +1,13 @@
+
+ • Building package speed-type
+From https://github.com/dakra/speed-type
+Checking out 2eb87803ed1349b10eef46ce0fe3eda0dbf42f00
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/speed-type/
+  to /tmp/speed-type-4kvU5h/speed-type-1.7/
+    speed-type.el -> speed-type.el
+Created speed-type-1.7.tar containing:
+  speed-type-1.7/
+  speed-type-1.7/speed-type-pkg.el
+  speed-type-1.7/speed-type.el
+Built speed-type in 0.093s, finished at 2026-07-24T05:33:18+0000

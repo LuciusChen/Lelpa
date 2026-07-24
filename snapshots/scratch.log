@@ -1,0 +1,14 @@
+
+ • Building package scratch
+From https://codeberg.org/emacs-weirdware/scratch
+Updating /github/workspace/sources/scratch/
+Checking out f000648c9663833a76a8de9b1e78c99a9d698e48
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/scratch/
+  to /tmp/scratch-vzWV2C/scratch-1.4/
+    scratch.el -> scratch.el
+Created scratch-1.4.tar containing:
+  scratch-1.4/
+  scratch-1.4/scratch-pkg.el
+  scratch-1.4/scratch.el
+Built scratch in 1.402s, finished at 2026-07-24T05:32:37+0000

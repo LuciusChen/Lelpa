@@ -1,0 +1,13 @@
+
+ • Building package request
+From https://github.com/tkf/emacs-request
+Checking out 22efefeaa394f6deef957818f5c5332061c88d1c
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/request/
+  to /tmp/request-LDL1Jx/request-0.3.2/
+    request.el -> request.el
+Created request-0.3.2.tar containing:
+  request-0.3.2/
+  request-0.3.2/request-pkg.el
+  request-0.3.2/request.el
+Built request in 0.032s, finished at 2026-07-24T05:33:17+0000

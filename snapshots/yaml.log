@@ -1,0 +1,14 @@
+
+ • Building package yaml
+From https://github.com/zkry/yaml.el
+Updating /github/workspace/sources/yaml/
+Checking out 5546f36bde24a9a8c1934e0f6ce205cd41d72537
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/yaml/
+  to /tmp/yaml-906maZ/yaml-1.2.4/
+    yaml.el -> yaml.el
+Created yaml-1.2.4.tar containing:
+  yaml-1.2.4/
+  yaml-1.2.4/yaml-pkg.el
+  yaml-1.2.4/yaml.el
+Built yaml in 0.420s, finished at 2026-07-24T05:32:53+0000

@@ -1,0 +1,17 @@
+
+ • Building package package-lint
+From https://github.com/purcell/package-lint
+Checking out 26b27201f1276a71257d328513152494e3edfc5d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/package-lint/
+  to /tmp/package-lint-rwxXLv/package-lint-0.26/
+    package-lint.el -> package-lint.el
+    data => data
+Created package-lint-0.26.tar containing:
+  package-lint-0.26/
+  package-lint-0.26/data/
+  package-lint-0.26/data/compat-symbols
+  package-lint-0.26/data/stdlib-changes
+  package-lint-0.26/package-lint-pkg.el
+  package-lint-0.26/package-lint.el
+Built package-lint in 0.042s, finished at 2026-07-24T05:33:13+0000

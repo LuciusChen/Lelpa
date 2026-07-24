@@ -1,0 +1,15 @@
+
+ • Building package blame-reveal
+From https://github.com/LuciusChen/blame-reveal
+Checking out 765c3d89f54414e6ceff6003a1b4c57dcc893468
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/blame-reveal/
+  to /tmp/blame-reveal-f6oOL1/blame-reveal-0.5/
+    blame-reveal-recursive.el -> blame-reveal-recursive.el
+    blame-reveal.el -> blame-reveal.el
+Created blame-reveal-0.5.tar containing:
+  blame-reveal-0.5/
+  blame-reveal-0.5/blame-reveal-pkg.el
+  blame-reveal-0.5/blame-reveal-recursive.el
+  blame-reveal-0.5/blame-reveal.el
+Built blame-reveal in 0.134s, finished at 2026-07-24T05:32:56+0000

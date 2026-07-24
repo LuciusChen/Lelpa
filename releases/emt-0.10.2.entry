@@ -1,0 +1,8 @@
+(emt
+ . [(0 10 2) ((emacs (26 1))) "Han word boundaries via jieba-rs" tar
+    ((:url . "https://github.com/LuciusChen/emt")
+     (:commit . "f5b018a32cfb627c43b851bfb26a35863e46c8e6")
+     (:revdesc . "v0.10.2-0-gf5b018a32cfb")
+     (:keywords "chinese" "cjk" "tokenizer" "natural language"
+		"segmentation")
+     (:authors ("Roife Wu" . "roifewu@gmail.com")))])

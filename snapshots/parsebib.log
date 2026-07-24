@@ -1,0 +1,14 @@
+
+ • Building package parsebib
+From https://github.com/joostkremers/parsebib
+Updating /github/workspace/sources/parsebib/
+Checking out b3990a18984284f0809e6e095196936e65fda2eb
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/parsebib/
+  to /tmp/parsebib-lSD8fe/parsebib-6.7.0.20251125.5/
+    parsebib.el -> parsebib.el
+Created parsebib-6.7.0.20251125.5.tar containing:
+  parsebib-6.7.0.20251125.5/
+  parsebib-6.7.0.20251125.5/parsebib-pkg.el
+  parsebib-6.7.0.20251125.5/parsebib.el
+Built parsebib in 0.365s, finished at 2026-07-24T05:32:24+0000

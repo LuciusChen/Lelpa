@@ -1,0 +1,13 @@
+
+ • Building package s
+From https://github.com/magnars/s.el
+Checking out 4d7d83122850cf70dc60662a73124f0be41ad186
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/s/
+  to /tmp/s-96sheb/s-1.13.0/
+    s.el -> s.el
+Created s-1.13.0.tar containing:
+  s-1.13.0/
+  s-1.13.0/s-pkg.el
+  s-1.13.0/s.el
+Built s in 0.070s, finished at 2026-07-24T05:33:17+0000

@@ -1,0 +1,18 @@
+
+ • Building package denote-org
+From https://github.com/emacs-straight/denote-org
+Checking out a83b9da510534604f403d06831c3bdaa746fd19b
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/denote-org/
+  to /tmp/denote-org-qQfW4o/denote-org-0.3.0/
+    denote-org-pkg.el -> denote-org-pkg.el
+    denote-org.el -> denote-org.el
+    dir -> dir
+    denote-org.info -> denote-org.info
+Created denote-org-0.3.0.tar containing:
+  denote-org-0.3.0/
+  denote-org-0.3.0/denote-org-pkg.el
+  denote-org-0.3.0/denote-org.el
+  denote-org-0.3.0/denote-org.info
+  denote-org-0.3.0/dir
+Built denote-org in 0.095s, finished at 2026-07-24T05:33:01+0000

@@ -1,0 +1,19 @@
+
+ • Building package denote-markdown
+From https://github.com/emacs-straight/denote-markdown
+Updating /github/workspace/sources/denote-markdown/
+Checking out 160fc00a370e448626eb3de52ff8a1e4d90f8e9f
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/denote-markdown/
+  to /tmp/denote-markdown-BrUlLx/denote-markdown-0.3.0/
+    denote-markdown-pkg.el -> denote-markdown-pkg.el
+    denote-markdown.el -> denote-markdown.el
+    dir -> dir
+    denote-markdown.info -> denote-markdown.info
+Created denote-markdown-0.3.0.tar containing:
+  denote-markdown-0.3.0/
+  denote-markdown-0.3.0/denote-markdown-pkg.el
+  denote-markdown-0.3.0/denote-markdown.el
+  denote-markdown-0.3.0/denote-markdown.info
+  denote-markdown-0.3.0/dir
+Built denote-markdown in 0.400s, finished at 2026-07-24T05:31:41+0000

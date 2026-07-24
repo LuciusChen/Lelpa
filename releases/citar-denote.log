@@ -1,0 +1,18 @@
+
+ • Building package citar-denote
+From https://github.com/pprevos/citar-denote
+Checking out 4586e030445ff40a4939fe0ecc1aae667825052d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/citar-denote/
+  to /tmp/citar-denote-FKg9vI/citar-denote-2.2.1/
+    citar-denote.el -> citar-denote.el
+    citar-denote.info -> citar-denote.info
+    citar-denote.texi -> citar-denote.texi
+Generating citar-denote.info
+Created citar-denote-2.2.1.tar containing:
+  citar-denote-2.2.1/
+  citar-denote-2.2.1/citar-denote-pkg.el
+  citar-denote-2.2.1/citar-denote.el
+  citar-denote-2.2.1/citar-denote.info
+  citar-denote-2.2.1/dir
+Built citar-denote in 0.196s, finished at 2026-07-24T05:32:57+0000

@@ -1,0 +1,46 @@
+
+ • Building package meow
+From https://github.com/meow-edit/meow
+Updating /github/workspace/sources/meow/
+Checking out aa8aec19e70369b547176e625f5b95c4a8565e8e
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/meow/
+  to /tmp/meow-GgLby3/meow-1.5.0.0.20260714.67/
+    meow-beacon.el -> meow-beacon.el
+    meow-cheatsheet-layout.el -> meow-cheatsheet-layout.el
+    meow-cheatsheet.el -> meow-cheatsheet.el
+    meow-command.el -> meow-command.el
+    meow-core.el -> meow-core.el
+    meow-esc.el -> meow-esc.el
+    meow-face.el -> meow-face.el
+    meow-helpers.el -> meow-helpers.el
+    meow-keymap.el -> meow-keymap.el
+    meow-keypad.el -> meow-keypad.el
+    meow-shims.el -> meow-shims.el
+    meow-thing.el -> meow-thing.el
+    meow-tutor.el -> meow-tutor.el
+    meow-util.el -> meow-util.el
+    meow-var.el -> meow-var.el
+    meow-visual.el -> meow-visual.el
+    meow.el -> meow.el
+Created meow-1.5.0.0.20260714.67.tar containing:
+  meow-1.5.0.0.20260714.67/
+  meow-1.5.0.0.20260714.67/meow-beacon.el
+  meow-1.5.0.0.20260714.67/meow-cheatsheet-layout.el
+  meow-1.5.0.0.20260714.67/meow-cheatsheet.el
+  meow-1.5.0.0.20260714.67/meow-command.el
+  meow-1.5.0.0.20260714.67/meow-core.el
+  meow-1.5.0.0.20260714.67/meow-esc.el
+  meow-1.5.0.0.20260714.67/meow-face.el
+  meow-1.5.0.0.20260714.67/meow-helpers.el
+  meow-1.5.0.0.20260714.67/meow-keymap.el
+  meow-1.5.0.0.20260714.67/meow-keypad.el
+  meow-1.5.0.0.20260714.67/meow-pkg.el
+  meow-1.5.0.0.20260714.67/meow-shims.el
+  meow-1.5.0.0.20260714.67/meow-thing.el
+  meow-1.5.0.0.20260714.67/meow-tutor.el
+  meow-1.5.0.0.20260714.67/meow-util.el
+  meow-1.5.0.0.20260714.67/meow-var.el
+  meow-1.5.0.0.20260714.67/meow-visual.el
+  meow-1.5.0.0.20260714.67/meow.el
+Built meow in 0.557s, finished at 2026-07-24T05:32:09+0000

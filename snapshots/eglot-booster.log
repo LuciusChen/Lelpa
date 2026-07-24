@@ -1,0 +1,14 @@
+
+ • Building package eglot-booster
+From https://github.com/jdtsmith/eglot-booster
+Updating /github/workspace/sources/eglot-booster/
+Checking out 510f579409627c333ef0e9157db713b1004da842
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/eglot-booster/
+  to /tmp/eglot-booster-dZjdip/eglot-booster-0.1.0.0.20260630.6/
+    eglot-booster.el -> eglot-booster.el
+Created eglot-booster-0.1.0.0.20260630.6.tar containing:
+  eglot-booster-0.1.0.0.20260630.6/
+  eglot-booster-0.1.0.0.20260630.6/eglot-booster-pkg.el
+  eglot-booster-0.1.0.0.20260630.6/eglot-booster.el
+Built eglot-booster in 0.622s, finished at 2026-07-24T05:31:45+0000

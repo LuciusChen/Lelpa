@@ -1,0 +1,31 @@
+
+ • Building package nerd-icons
+From https://github.com/rainstormstudio/nerd-icons.el
+Updating /github/workspace/sources/nerd-icons/
+Checking out 674909974637ff0ec2b5ebf43f9a8aefa35d93e9
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/nerd-icons/
+  to /tmp/nerd-icons-BV2WF4/nerd-icons-0.1.0.0.20260710.143/
+    nerd-icons-data.el -> nerd-icons-data.el
+    nerd-icons-faces.el -> nerd-icons-faces.el
+    nerd-icons.el -> nerd-icons.el
+    data => data
+Created nerd-icons-0.1.0.0.20260710.143.tar containing:
+  nerd-icons-0.1.0.0.20260710.143/
+  nerd-icons-0.1.0.0.20260710.143/data/
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-codicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-devicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-faicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-flicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-ipsicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-mdicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-octicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-pomicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-powerline.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-sucicon.el
+  nerd-icons-0.1.0.0.20260710.143/data/nerd-icons-data-wicon.el
+  nerd-icons-0.1.0.0.20260710.143/nerd-icons-data.el
+  nerd-icons-0.1.0.0.20260710.143/nerd-icons-faces.el
+  nerd-icons-0.1.0.0.20260710.143/nerd-icons-pkg.el
+  nerd-icons-0.1.0.0.20260710.143/nerd-icons.el
+Built nerd-icons in 0.436s, finished at 2026-07-24T05:32:14+0000

@@ -1,0 +1,106 @@
+
+ • Building package pdf-tools
+From https://github.com/vedang/pdf-tools
+Updating /github/workspace/sources/pdf-tools/
+Checking out e4b7f1f37cf59ddf025d609ffcdabe732a6e99ba
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/pdf-tools/
+  to /tmp/pdf-tools-SUvN37/pdf-tools-1.3.0.0.20260102.1/
+  ! lisp/pdf-annot.el -> pdf-annot.el
+  ! lisp/pdf-cache.el -> pdf-cache.el
+  ! lisp/pdf-dev.el -> pdf-dev.el
+  ! lisp/pdf-history.el -> pdf-history.el
+  ! lisp/pdf-info.el -> pdf-info.el
+  ! lisp/pdf-isearch.el -> pdf-isearch.el
+  ! lisp/pdf-links.el -> pdf-links.el
+  ! lisp/pdf-loader.el -> pdf-loader.el
+  ! lisp/pdf-macs.el -> pdf-macs.el
+  ! lisp/pdf-misc.el -> pdf-misc.el
+  ! lisp/pdf-occur.el -> pdf-occur.el
+  ! lisp/pdf-outline.el -> pdf-outline.el
+  ! lisp/pdf-roll.el -> pdf-roll.el
+  ! lisp/pdf-sync.el -> pdf-sync.el
+  ! lisp/pdf-tools.el -> pdf-tools.el
+  ! lisp/pdf-util.el -> pdf-util.el
+  ! lisp/pdf-view.el -> pdf-view.el
+  ! lisp/pdf-virtual.el -> pdf-virtual.el
+    README -> README
+  ! Makefile -> build/Makefile
+  ! server => build/server
+Created pdf-tools-1.3.0.0.20260102.1.tar containing:
+  pdf-tools-1.3.0.0.20260102.1/
+  pdf-tools-1.3.0.0.20260102.1/README
+  pdf-tools-1.3.0.0.20260102.1/build/
+  pdf-tools-1.3.0.0.20260102.1/build/Makefile
+  pdf-tools-1.3.0.0.20260102.1/build/server/
+  pdf-tools-1.3.0.0.20260102.1/build/server/.gitignore
+  pdf-tools-1.3.0.0.20260102.1/build/server/Makefile.am
+  pdf-tools-1.3.0.0.20260102.1/build/server/autobuild
+  pdf-tools-1.3.0.0.20260102.1/build/server/autobuild.android
+  pdf-tools-1.3.0.0.20260102.1/build/server/autogen.sh
+  pdf-tools-1.3.0.0.20260102.1/build/server/configure.ac
+  pdf-tools-1.3.0.0.20260102.1/build/server/epdfinfo.c
+  pdf-tools-1.3.0.0.20260102.1/build/server/epdfinfo.h
+  pdf-tools-1.3.0.0.20260102.1/build/server/poppler-versions
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_parser.c
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_parser.h
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_parser_advanced.h
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_parser_local.h
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_parser_readme.txt
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_parser_utils.c
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_parser_utils.h
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_parser_version.txt
+  pdf-tools-1.3.0.0.20260102.1/build/server/synctex_version.h
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/.gitignore
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/Makefile
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/.gitignore
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/lib/
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/lib/run-tests
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/lib/yes-or-enter
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/Dockerfile.common.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/arch.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/centos.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/debian-10.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/debian-11.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/debian-9.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/emacs-26.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/emacs-27.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/emacs-28.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/emacs-29.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/fedora-34.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/fedora-35.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/fedora-36.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/freebsd.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/gentoo.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/macos.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/msys2.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/nixos.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/openbsd.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/opensuse.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/ubuntu-18.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/ubuntu-20.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/ubuntu-22.Dockerfile.in
+  pdf-tools-1.3.0.0.20260102.1/build/server/test/docker/templates/void.Dockerfile.in.FAILING
+  pdf-tools-1.3.0.0.20260102.1/pdf-annot.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-cache.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-dev.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-history.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-info.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-isearch.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-links.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-loader.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-macs.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-misc.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-occur.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-outline.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-roll.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-sync.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-tools-pkg.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-tools.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-util.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-view.el
+  pdf-tools-1.3.0.0.20260102.1/pdf-virtual.el
+Built pdf-tools in 0.473s, finished at 2026-07-24T05:32:26+0000
