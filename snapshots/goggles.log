@@ -1,0 +1,14 @@
+
+ • Building package goggles
+From https://github.com/minad/goggles
+Updating /github/workspace/sources/goggles/
+Checking out e473909708aa0df2134b7bb7f6654d0fb5f23e23
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/goggles/
+  to /tmp/goggles-N1xAxD/goggles-0.5/
+    goggles.el -> goggles.el
+Created goggles-0.5.tar containing:
+  goggles-0.5/
+  goggles-0.5/goggles-pkg.el
+  goggles-0.5/goggles.el
+Built goggles in 0.492s, finished at 2026-09-13T07:30:51+0000

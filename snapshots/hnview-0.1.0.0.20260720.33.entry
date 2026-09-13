@@ -1,0 +1,10 @@
+(hnview
+ . [(0 1 0 0 20260720 33) ((emacs (29 1)) (llm (0 30 1)) (plz (0 9)))
+    "Standalone Hacker News client" tar
+    ((:url . "https://github.com/luciuschen/hnview")
+     (:commit . "9b835985f9513f6801109b26d2b311f90195a3b3")
+     (:revdesc . "9b835985f951")
+     (:keywords "news" "hypermedia" "convenience")
+     (:authors ("Lucius Chen" . "https://github.com/LuciusChen"))
+     (:maintainers ("Lucius Chen" . "https://github.com/LuciusChen"))
+     (:maintainer "Lucius Chen" . "https://github.com/LuciusChen"))])

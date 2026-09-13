@@ -1,0 +1,15 @@
+
+ • Building package kkp
+From https://github.com/benotn/kkp
+Checking out d3a64e0d98a717e0634e1dc294dad4ae4dc7f5f2
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/kkp/
+  to /tmp/kkp-4zd3Am/kkp-0.4/
+    kkp-debug.el -> kkp-debug.el
+    kkp.el -> kkp.el
+Created kkp-0.4.tar containing:
+  kkp-0.4/
+  kkp-0.4/kkp-debug.el
+  kkp-0.4/kkp-pkg.el
+  kkp-0.4/kkp.el
+Built kkp in 0.134s, finished at 2026-09-13T07:32:02+0000

@@ -1,0 +1,15 @@
+
+ • Building package breadcrumb
+From https://github.com/emacs-straight/breadcrumb
+Updating /github/workspace/sources/breadcrumb/
+Checking out 2a2b02e357509856e0fbf83e2da25aad90cf45a3
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/breadcrumb/
+  to /tmp/breadcrumb-NWuIKm/breadcrumb-1.0.1.0.20260805.18/
+    breadcrumb-pkg.el -> breadcrumb-pkg.el
+    breadcrumb.el -> breadcrumb.el
+Created breadcrumb-1.0.1.0.20260805.18.tar containing:
+  breadcrumb-1.0.1.0.20260805.18/
+  breadcrumb-1.0.1.0.20260805.18/breadcrumb-pkg.el
+  breadcrumb-1.0.1.0.20260805.18/breadcrumb.el
+Built breadcrumb in 0.759s, finished at 2026-09-13T07:30:13+0000

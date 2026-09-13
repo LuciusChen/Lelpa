@@ -1,0 +1,9 @@
+(plz-event-source
+ . [(0 1 1) ((emacs (26 3)) (plz-media-type (0 1 0)))
+    "Plz Event Source" tar
+    ((:url . "https://github.com/r0man/plz-event-source")
+     (:commit . "1abd0313244603d8b76ea8ffd6dfd2b166d825b6")
+     (:revdesc . "1abd03132446") (:keywords "comm" "network" "http")
+     (:authors ("r0man" . "roman@burningswell.com"))
+     (:maintainers ("r0man" . "roman@burningswell.com"))
+     (:maintainer "r0man" . "roman@burningswell.com"))])

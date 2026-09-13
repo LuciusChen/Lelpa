@@ -1,0 +1,7 @@
+(discourse-graphs
+ . [(1 0 0) ((emacs (29 1)) (transient (0 4 0)))
+    "Discourse Graph for org-mode with SQLite" tar
+    ((:url . "https://github.com/")
+     (:commit . "b4587a8a6f0010d2dda3b1aa5216f39041223b11")
+     (:revdesc . "b4587a8a6f00")
+     (:keywords "org" "notes" "knowledge-management"))])

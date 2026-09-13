@@ -1,0 +1,10 @@
+(panel
+ . [(0 2 0 20260726 12) ((emacs (28 1))) "Minimal startup screen" tar
+    ((:url . "https://github.com/LuciusChen/panel")
+     (:commit . "aada318ea3d0e67e6f108143a29a0dc1bbd499f9")
+     (:revdesc . "aada318ea3d0")
+     (:authors ("Mikael Konradsson" . "mikael.konradsson@outlook.com"))
+     (:maintainers
+      ("Mikael Konradsson" . "mikael.konradsson@outlook.com"))
+     (:maintainer "Mikael Konradsson"
+		  . "mikael.konradsson@outlook.com"))])

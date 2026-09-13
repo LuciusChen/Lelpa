@@ -1,0 +1,17 @@
+
+ • Building package indent-bars
+From https://github.com/emacs-straight/indent-bars
+Updating /github/workspace/sources/indent-bars/
+Checking out afc98cb156ef03df4c28968d48790b79e3d1210d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/indent-bars/
+  to /tmp/indent-bars-dv9KQ6/indent-bars-1.0.1.0.20260905.2/
+    indent-bars-pkg.el -> indent-bars-pkg.el
+    indent-bars-ts.el -> indent-bars-ts.el
+    indent-bars.el -> indent-bars.el
+Created indent-bars-1.0.1.0.20260905.2.tar containing:
+  indent-bars-1.0.1.0.20260905.2/
+  indent-bars-1.0.1.0.20260905.2/indent-bars-pkg.el
+  indent-bars-1.0.1.0.20260905.2/indent-bars-ts.el
+  indent-bars-1.0.1.0.20260905.2/indent-bars.el
+Built indent-bars in 1.299s, finished at 2026-09-13T07:30:56+0000

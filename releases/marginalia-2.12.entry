@@ -1,0 +1,12 @@
+(marginalia
+ . [(2 12) ((emacs (29 1)) (compat (31)))
+    "Enrich existing commands with completion annotations" tar
+    ((:url . "https://github.com/minad/marginalia")
+     (:commit . "7ec0b70afb43a756ecd45a958c6ebe797717fc91")
+     (:revdesc . "2.12-0-g7ec0b70afb43")
+     (:keywords "docs" "help" "matching" "completion")
+     (:authors ("Omar Antolín Camarena" . "omar@matem.unam.mx")
+	       ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainers ("Omar Antolín Camarena" . "omar@matem.unam.mx")
+		   ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainer "Omar Antolín Camarena" . "omar@matem.unam.mx"))])

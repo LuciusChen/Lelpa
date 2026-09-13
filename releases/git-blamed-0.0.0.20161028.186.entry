@@ -1,0 +1,10 @@
+(git-blamed
+ . [(0 0 0 20161028 186) nil
+    "Minor mode for incremental blame for Git" tar
+    ((:url . "https://github.com/tsgates/git-emacs")
+     (:commit . "cef196abf398e2dd11f775d1e6cd8690567408aa")
+     (:revdesc . "cef196abf398")
+     (:keywords "git" "version control" "release management")
+     (:authors ("David Kågedal" . "davidk@lysator.liu.se"))
+     (:maintainers ("David Kågedal" . "davidk@lysator.liu.se"))
+     (:maintainer "David Kågedal" . "davidk@lysator.liu.se"))])

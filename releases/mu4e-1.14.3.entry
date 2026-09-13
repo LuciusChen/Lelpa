@@ -1,0 +1,8 @@
+(mu4e
+ . [(1 14 3) nil "Mu-based mua for emacs" tar
+    ((:url . "https://www.djcbsoftware.nl/code/mu/")
+     (:commit . "5a5c4bd4bbea46c4018f5346bb1a995a0827b2af")
+     (:revdesc . "v1.14.3-0-g5a5c4bd4bbea") (:keywords "email")
+     (:authors ("Dirk-Jan C. Binnema" . "djcb@djcbsoftware.nl"))
+     (:maintainers ("Dirk-Jan C. Binnema" . "djcb@djcbsoftware.nl"))
+     (:maintainer "Dirk-Jan C. Binnema" . "djcb@djcbsoftware.nl"))])

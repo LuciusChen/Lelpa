@@ -1,0 +1,34 @@
+
+ • Building package chirp
+From https://github.com/LuciusChen/chirp
+Updating /github/workspace/sources/chirp/
+Checking out 96033e19f998f1c3fd038a096a97c08e0333bc62
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/chirp/
+  to /tmp/chirp-PEtmDR/chirp-0.1.0.0.20260811.64/
+    chirp.el -> chirp.el
+  ! lisp/chirp-actions.el -> chirp-actions.el
+  ! lisp/chirp-backend.el -> chirp-backend.el
+  ! lisp/chirp-core.el -> chirp-core.el
+  ! lisp/chirp-media.el -> chirp-media.el
+  ! lisp/chirp-notifications.el -> chirp-notifications.el
+  ! lisp/chirp-profile.el -> chirp-profile.el
+  ! lisp/chirp-render.el -> chirp-render.el
+  ! lisp/chirp-spam-rules.el -> chirp-spam-rules.el
+  ! lisp/chirp-thread.el -> chirp-thread.el
+  ! lisp/chirp-timeline.el -> chirp-timeline.el
+Created chirp-0.1.0.0.20260811.64.tar containing:
+  chirp-0.1.0.0.20260811.64/
+  chirp-0.1.0.0.20260811.64/chirp-actions.el
+  chirp-0.1.0.0.20260811.64/chirp-backend.el
+  chirp-0.1.0.0.20260811.64/chirp-core.el
+  chirp-0.1.0.0.20260811.64/chirp-media.el
+  chirp-0.1.0.0.20260811.64/chirp-notifications.el
+  chirp-0.1.0.0.20260811.64/chirp-pkg.el
+  chirp-0.1.0.0.20260811.64/chirp-profile.el
+  chirp-0.1.0.0.20260811.64/chirp-render.el
+  chirp-0.1.0.0.20260811.64/chirp-spam-rules.el
+  chirp-0.1.0.0.20260811.64/chirp-thread.el
+  chirp-0.1.0.0.20260811.64/chirp-timeline.el
+  chirp-0.1.0.0.20260811.64/chirp.el
+Built chirp in 0.889s, finished at 2026-09-13T07:30:15+0000

@@ -1,0 +1,14 @@
+
+ • Building package panel
+From https://github.com/LuciusChen/panel
+Updating /github/workspace/sources/panel/
+Checking out aada318ea3d0e67e6f108143a29a0dc1bbd499f9
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/panel/
+  to /tmp/panel-e2E6lU/panel-0.2.0.20260726.12/
+    panel.el -> panel.el
+Created panel-0.2.0.20260726.12.tar containing:
+  panel-0.2.0.20260726.12/
+  panel-0.2.0.20260726.12/panel-pkg.el
+  panel-0.2.0.20260726.12/panel.el
+Built panel in 0.778s, finished at 2026-09-13T07:31:30+0000

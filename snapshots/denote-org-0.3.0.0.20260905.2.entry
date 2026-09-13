@@ -1,0 +1,9 @@
+(denote-org
+ . [(0 3 0 0 20260905 2) ((emacs (28 1)) (denote (4 0 0)))
+    "Denote extensions for Org mode" tar
+    ((:url . "https://github.com/protesilaos/denote-org")
+     (:commit . "6fa9fa60e4faf9c162fab570d536fe8dc1b81807")
+     (:revdesc . "6fa9fa60e4fa")
+     (:authors ("Protesilaos" . "info@protesilaos.com"))
+     (:maintainers ("Protesilaos" . "info@protesilaos.com"))
+     (:maintainer "Protesilaos" . "info@protesilaos.com"))])

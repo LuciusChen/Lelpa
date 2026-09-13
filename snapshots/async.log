@@ -1,0 +1,22 @@
+
+ • Building package async
+From https://github.com/jwiegley/emacs-async
+Updating /github/workspace/sources/async/
+Checking out 4fdcb061a166e0d6ccc27d3829a28e04415ae825
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/async/
+  to /tmp/async-KY5tfO/async-1.9.9.0.20260729.33/
+    async-bytecomp.el -> async-bytecomp.el
+    async-package.el -> async-package.el
+    async.el -> async.el
+    dired-async.el -> dired-async.el
+    smtpmail-async.el -> smtpmail-async.el
+Created async-1.9.9.0.20260729.33.tar containing:
+  async-1.9.9.0.20260729.33/
+  async-1.9.9.0.20260729.33/async-bytecomp.el
+  async-1.9.9.0.20260729.33/async-package.el
+  async-1.9.9.0.20260729.33/async-pkg.el
+  async-1.9.9.0.20260729.33/async.el
+  async-1.9.9.0.20260729.33/dired-async.el
+  async-1.9.9.0.20260729.33/smtpmail-async.el
+Built async in 0.631s, finished at 2026-09-13T07:30:10+0000

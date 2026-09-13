@@ -1,0 +1,18 @@
+
+ • Building package cape
+From https://github.com/minad/cape
+Updating /github/workspace/sources/cape/
+Checking out 1c543fce9151821e8400258aefcfdee2fb24920d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/cape/
+  to /tmp/cape-BeSYN1/cape-2.9.0.20260905.2/
+    cape-char.el -> cape-char.el
+    cape-keyword.el -> cape-keyword.el
+    cape.el -> cape.el
+Created cape-2.9.0.20260905.2.tar containing:
+  cape-2.9.0.20260905.2/
+  cape-2.9.0.20260905.2/cape-char.el
+  cape-2.9.0.20260905.2/cape-keyword.el
+  cape-2.9.0.20260905.2/cape-pkg.el
+  cape-2.9.0.20260905.2/cape.el
+Built cape in 0.675s, finished at 2026-09-13T07:30:14+0000

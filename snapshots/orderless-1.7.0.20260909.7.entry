@@ -1,0 +1,11 @@
+(orderless
+ . [(1 7 0 20260909 7) ((emacs (27 1)) (compat (31)))
+    "Completion style for matching regexps in any order" tar
+    ((:url . "https://github.com/oantolin/orderless")
+     (:commit . "5806e3f9401606d16962cffae68188c92deb1272")
+     (:revdesc . "1.7-7-g5806e3f94016")
+     (:keywords "matching" "completion")
+     (:authors ("Omar Antolín Camarena" . "omar@matem.unam.mx"))
+     (:maintainers ("Omar Antolín Camarena" . "omar@matem.unam.mx")
+		   ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainer "Omar Antolín Camarena" . "omar@matem.unam.mx"))])

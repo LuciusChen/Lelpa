@@ -1,0 +1,14 @@
+
+ • Building package mongodb
+From https://github.com/LuciusChen/mongodb.el
+Updating /github/workspace/sources/mongodb/
+Checking out 6a47961ffa3c0ed64f4a05e0c5005ce22bb6f20d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/mongodb/
+  to /tmp/mongodb-PXUZwI/mongodb-0.1.1.0.20260907.13/
+    mongodb.el -> mongodb.el
+Created mongodb-0.1.1.0.20260907.13.tar containing:
+  mongodb-0.1.1.0.20260907.13/
+  mongodb-0.1.1.0.20260907.13/mongodb-pkg.el
+  mongodb-0.1.1.0.20260907.13/mongodb.el
+Built mongodb in 0.719s, finished at 2026-09-13T07:31:13+0000

@@ -1,0 +1,8 @@
+(plz-media-type
+ . [(0 2 1) ((emacs (26 3)) (plz (0 9))) "Plz Media Types" tar
+    ((:url . "https://github.com/r0man/plz-media-type")
+     (:commit . "d5611431b6c6f2994ebf9e6c2283824f734eec35")
+     (:revdesc . "d5611431b6c6") (:keywords "comm" "network" "http")
+     (:authors ("r0man" . "roman@burningswell.com"))
+     (:maintainers ("r0man" . "roman@burningswell.com"))
+     (:maintainer "r0man" . "roman@burningswell.com"))])

@@ -1,0 +1,20 @@
+
+ • Building package orderless
+From https://github.com/oantolin/orderless
+Updating /github/workspace/sources/orderless/
+Checking out 5806e3f9401606d16962cffae68188c92deb1272
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/orderless/
+  to /tmp/orderless-WtGdPJ/orderless-1.7.0.20260909.7/
+    orderless-kwd.el -> orderless-kwd.el
+    orderless.el -> orderless.el
+    orderless.texi -> orderless.texi
+Generating orderless.info
+Created orderless-1.7.0.20260909.7.tar containing:
+  orderless-1.7.0.20260909.7/
+  orderless-1.7.0.20260909.7/dir
+  orderless-1.7.0.20260909.7/orderless-kwd.el
+  orderless-1.7.0.20260909.7/orderless-pkg.el
+  orderless-1.7.0.20260909.7/orderless.el
+  orderless-1.7.0.20260909.7/orderless.info
+Built orderless in 0.926s, finished at 2026-09-13T07:31:23+0000

@@ -1,0 +1,13 @@
+
+ • Building package diminish
+From https://github.com/myrjola/diminish.el
+Checking out 0211de96b7cfba9c9dc8d2d392dbd4ccdb22bc65
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/diminish/
+  to /tmp/diminish-lThV0U/diminish-0.45/
+    diminish.el -> diminish.el
+Created diminish-0.45.tar containing:
+  diminish-0.45/
+  diminish-0.45/diminish-pkg.el
+  diminish-0.45/diminish.el
+Built diminish in 0.107s, finished at 2026-09-13T07:31:56+0000

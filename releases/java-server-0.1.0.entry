@@ -1,0 +1,7 @@
+(java-server
+ . [(0 1 0) ((emacs (29 1))) "Java development utilities for Emacs"
+    tar
+    ((:url . "https://github.com/LuciusChen/java-server")
+     (:commit . "25c1db0dc77561da55db7bc95c5a5749537887fb")
+     (:revdesc . "25c1db0dc775")
+     (:keywords "java" "tools" "languages"))])

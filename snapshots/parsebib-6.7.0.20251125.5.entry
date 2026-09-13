@@ -1,0 +1,9 @@
+(parsebib
+ . [(6 7 0 20251125 5) ((emacs (25 1)))
+    "A library for parsing bib files" tar
+    ((:url . "https://github.com/joostkremers/parsebib")
+     (:commit . "b3990a18984284f0809e6e095196936e65fda2eb")
+     (:revdesc . "b3990a189842") (:keywords "text" "bibtex")
+     (:authors ("Joost Kremers" . "joostkremers@fastmail.fm"))
+     (:maintainers ("Joost Kremers" . "joostkremers@fastmail.fm"))
+     (:maintainer "Joost Kremers" . "joostkremers@fastmail.fm"))])

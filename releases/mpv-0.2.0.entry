@@ -1,0 +1,9 @@
+(mpv
+ . [(0 2 0) ((cl-lib (0 5)) (emacs (25 1)) (json (1 3)) (org (8 0)))
+    "Control mpv for easy note-taking" tar
+    ((:url . "https://github.com/kljohann/mpv.el")
+     (:commit . "4fd8baa508dbc1a6b42b4e40292c0dbb0f19c9b9")
+     (:revdesc . "4fd8baa508db") (:keywords "tools" "multimedia")
+     (:authors ("Johann Klähn" . "johann@jklaehn.de"))
+     (:maintainers ("Johann Klähn" . "johann@jklaehn.de"))
+     (:maintainer "Johann Klähn" . "johann@jklaehn.de"))])

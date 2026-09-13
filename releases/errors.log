@@ -1,0 +1,2 @@
+2026-09-13T07:32:12+0000  persist                    Command ‘makeinfo --no-split persist.texi -o /tmp/persist-SEoldr/persist-0.8/persist.info’ exited with non-zero exit-code: 1
+2026-09-13T07:32:14+0000  rose-pine                  Missing library "rose-pine.el" matching package name ‘rose-pine’

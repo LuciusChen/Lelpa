@@ -1,0 +1,8 @@
+(passages
+ . [(3 0 0 0 20260202 6)
+    ((emacs (27 1)) (pdf-tools (1 0)) (nov (0 4 0)))
+    "Seamless inline passages" tar
+    ((:url . "https://github.com/LuciusChen/passages")
+     (:commit . "af8b6a39106dd0099c30c8a2bd342f2601d0706f")
+     (:revdesc . "af8b6a39106d")
+     (:keywords "pdf" "epub" "notes" "annotations" "denote" "citar"))])

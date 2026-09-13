@@ -1,0 +1,13 @@
+
+ • Building package meow-cjk
+From https://github.com/LuciusChen/meow-cjk
+Checking out 6494fc3c91e851ad64f9b2ef9ffcd9512a1be281
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/meow-cjk/
+  to /tmp/meow-cjk-KijFfZ/meow-cjk-0.1.0/
+    meow-cjk.el -> meow-cjk.el
+Created meow-cjk-0.1.0.tar containing:
+  meow-cjk-0.1.0/
+  meow-cjk-0.1.0/meow-cjk-pkg.el
+  meow-cjk-0.1.0/meow-cjk.el
+Built meow-cjk in 0.035s, finished at 2026-09-13T07:32:06+0000

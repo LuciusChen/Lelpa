@@ -1,0 +1,9 @@
+(request
+ . [(0 3 2) ((emacs (24 4)))
+    "Compatible layer for URL request in Emacs" tar
+    ((:url . "https://github.com/tkf/emacs-request")
+     (:commit . "22efefeaa394f6deef957818f5c5332061c88d1c")
+     (:revdesc . "22efefeaa394")
+     (:authors ("Takafumi Arakaki" . "aka.tkfatgmail.com"))
+     (:maintainers ("Takafumi Arakaki" . "aka.tkfatgmail.com"))
+     (:maintainer "Takafumi Arakaki" . "aka.tkfatgmail.com"))])

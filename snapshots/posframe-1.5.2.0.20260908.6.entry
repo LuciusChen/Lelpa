@@ -1,0 +1,9 @@
+(posframe
+ . [(1 5 2 0 20260908 6) ((emacs (26 1)))
+    "Pop a posframe (just a frame) at point" tar
+    ((:url . "https://github.com/tumashu/posframe")
+     (:commit . "435055dd6894fd4e8b21b355d40c0b289211b714")
+     (:revdesc . "435055dd6894") (:keywords "convenience" "tooltip")
+     (:authors ("Feng Shu" . "tumashu@163.com"))
+     (:maintainers ("Feng Shu" . "tumashu@163.com"))
+     (:maintainer "Feng Shu" . "tumashu@163.com"))])
