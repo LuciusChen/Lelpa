@@ -1,0 +1,11 @@
+(llama
+ . [(1 0 5 0 20260909 1) ((emacs (26 1)) (compat (31 0)))
+    "Compact syntax for short lambda" tar
+    ((:url . "https://github.com/tarsius/llama")
+     (:commit . "cfea618f14bc8317f8e4947fe10000b229b9a447")
+     (:revdesc . "v1.0.5-1-gcfea618f14bc") (:keywords "extensions")
+     (:authors ("Jonas Bernoulli" . "emacs.llama@jonas.bernoulli.dev"))
+     (:maintainers
+      ("Jonas Bernoulli" . "emacs.llama@jonas.bernoulli.dev"))
+     (:maintainer "Jonas Bernoulli"
+		  . "emacs.llama@jonas.bernoulli.dev"))])

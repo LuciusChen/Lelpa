@@ -1,0 +1,10 @@
+(mmm-mode
+ . [(0 5 11) ((emacs (25 1)) (cl-lib (0 2)))
+    "Allow Multiple Major Modes in a buffer" tar
+    ((:url . "https://github.com/dgutov/mmm-mode")
+     (:commit . "b1f5c7dbdc405e6e10d9ddd99a43a6b2ad61b176")
+     (:revdesc . "b1f5c7dbdc40")
+     (:keywords "convenience" "faces" "languages" "tools")
+     (:authors ("Michael Abraham Shulman" . "viritrilbia@gmail.com"))
+     (:maintainers ("Dmitry Gutov" . "dmitry@gutov.dev"))
+     (:maintainer "Dmitry Gutov" . "dmitry@gutov.dev"))])

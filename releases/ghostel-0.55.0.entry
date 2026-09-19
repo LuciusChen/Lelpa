@@ -1,0 +1,9 @@
+(ghostel
+ . [(0 55 0) ((emacs (28 1)) (compat (30 1 0 1)))
+    "Terminal emulator powered by libghostty" tar
+    ((:url . "https://github.com/dakra/ghostel")
+     (:commit . "755c61a4bffa3d461d4c36d69c9f95cc9e31ea95")
+     (:revdesc . "755c61a4bffa") (:keywords "terminals")
+     (:authors ("Daniel Kraus" . "daniel@kraus.my"))
+     (:maintainers ("Daniel Kraus" . "daniel@kraus.my"))
+     (:maintainer "Daniel Kraus" . "daniel@kraus.my"))])

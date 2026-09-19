@@ -1,0 +1,30 @@
+
+ • Building package corfu
+From https://github.com/minad/corfu
+Updating /github/workspace/sources/corfu/
+Checking out b468efac023dda39332acc943edc9895c80b5a6f
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/corfu/
+  to /tmp/corfu-Ln89C7/corfu-2.16/
+    corfu.el -> corfu.el
+  ! extensions/corfu-auto.el -> corfu-auto.el
+  ! extensions/corfu-echo.el -> corfu-echo.el
+  ! extensions/corfu-history.el -> corfu-history.el
+  ! extensions/corfu-indexed.el -> corfu-indexed.el
+  ! extensions/corfu-info.el -> corfu-info.el
+  ! extensions/corfu-mouse.el -> corfu-mouse.el
+  ! extensions/corfu-popupinfo.el -> corfu-popupinfo.el
+  ! extensions/corfu-quick.el -> corfu-quick.el
+Created corfu-2.16.tar containing:
+  corfu-2.16/
+  corfu-2.16/corfu-auto.el
+  corfu-2.16/corfu-echo.el
+  corfu-2.16/corfu-history.el
+  corfu-2.16/corfu-indexed.el
+  corfu-2.16/corfu-info.el
+  corfu-2.16/corfu-mouse.el
+  corfu-2.16/corfu-pkg.el
+  corfu-2.16/corfu-popupinfo.el
+  corfu-2.16/corfu-quick.el
+  corfu-2.16/corfu.el
+Built corfu in 0.931s, finished at 2026-09-19T07:23:01+0000

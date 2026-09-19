@@ -1,0 +1,11 @@
+(org-remark
+ . [(1 3 0) ((emacs (27 1)) (org (9 4)))
+    "Highlight & annotate text, Info, EPUB, EWW" tar
+    ((:url . "https://github.com/nobiot/org-remark")
+     (:commit . "8359e3eef4f5da5d7bfb33c72d783acd3f614a64")
+     (:revdesc . "8359e3eef4f5")
+     (:keywords "org-mode" "annotation" "note-taking" "marginal-notes"
+		"wp")
+     (:authors ("Noboru Ota" . "me@nobiot.com"))
+     (:maintainers ("Noboru Ota" . "me@nobiot.com"))
+     (:maintainer "Noboru Ota" . "me@nobiot.com"))])

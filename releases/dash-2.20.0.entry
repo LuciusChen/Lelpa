@@ -1,0 +1,9 @@
+(dash
+ . [(2 20 0) ((emacs (24))) "A modern list library for Emacs" tar
+    ((:url . "https://github.com/magnars/dash.el")
+     (:commit . "fcb5d831fc08a43f984242c7509870f30983c27c")
+     (:revdesc . "2.20.0-0-gfcb5d831fc08")
+     (:keywords "extensions" "lisp")
+     (:authors ("Magnar Sveen" . "magnars@gmail.com"))
+     (:maintainers ("Basil L. Contovounesios" . "basil@contovou.net"))
+     (:maintainer "Basil L. Contovounesios" . "basil@contovou.net"))])
