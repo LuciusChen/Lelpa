@@ -1,0 +1,13 @@
+
+ • Building package org-defuddle
+From https://github.com/LuciusChen/org-defuddle
+Checking out bb484ae7232bcfa3b024a53b50887d12901f3676
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/org-defuddle/
+  to /tmp/org-defuddle-ZN5nmn/org-defuddle-0.1.4/
+    org-defuddle.el -> org-defuddle.el
+Created org-defuddle-0.1.4.tar containing:
+  org-defuddle-0.1.4/
+  org-defuddle-0.1.4/org-defuddle-pkg.el
+  org-defuddle-0.1.4/org-defuddle.el
+Built org-defuddle in 0.064s, finished at 2026-09-26T07:49:12+0000

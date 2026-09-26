@@ -1,0 +1,13 @@
+
+ • Building package nerd-icons-corfu
+From https://github.com/LuigiPiucco/nerd-icons-corfu
+Checking out e1197d6c1db673f4ec7ee20cb2c4297f479420e7
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/nerd-icons-corfu/
+  to /tmp/nerd-icons-corfu-kwkGz8/nerd-icons-corfu-1.1.0/
+    nerd-icons-corfu.el -> nerd-icons-corfu.el
+Created nerd-icons-corfu-1.1.0.tar containing:
+  nerd-icons-corfu-1.1.0/
+  nerd-icons-corfu-1.1.0/nerd-icons-corfu-pkg.el
+  nerd-icons-corfu-1.1.0/nerd-icons-corfu.el
+Built nerd-icons-corfu in 0.039s, finished at 2026-09-26T07:49:11+0000

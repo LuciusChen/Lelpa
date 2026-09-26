@@ -1,0 +1,36 @@
+
+ • Building package apheleia
+From https://github.com/radian-software/apheleia
+Updating /github/workspace/sources/apheleia/
+Checking out 71b732239d69e48a7f31bbd65a88cfa3734a3959
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/apheleia/
+  to /tmp/apheleia-YJ0As2/apheleia-4.6.0.0.20260915.1/
+    apheleia-dp.el -> apheleia-dp.el
+    apheleia-formatter-context.el -> apheleia-formatter-context.el
+    apheleia-formatters.el -> apheleia-formatters.el
+    apheleia-log.el -> apheleia-log.el
+    apheleia-rcs.el -> apheleia-rcs.el
+    apheleia-utils.el -> apheleia-utils.el
+    apheleia.el -> apheleia.el
+    scripts/formatters => scripts/formatters
+Created apheleia-4.6.0.0.20260915.1.tar containing:
+  apheleia-4.6.0.0.20260915.1/
+  apheleia-4.6.0.0.20260915.1/apheleia-dp.el
+  apheleia-4.6.0.0.20260915.1/apheleia-formatter-context.el
+  apheleia-4.6.0.0.20260915.1/apheleia-formatters.el
+  apheleia-4.6.0.0.20260915.1/apheleia-log.el
+  apheleia-4.6.0.0.20260915.1/apheleia-pkg.el
+  apheleia-4.6.0.0.20260915.1/apheleia-rcs.el
+  apheleia-4.6.0.0.20260915.1/apheleia-utils.el
+  apheleia-4.6.0.0.20260915.1/apheleia.el
+  apheleia-4.6.0.0.20260915.1/scripts/
+  apheleia-4.6.0.0.20260915.1/scripts/formatters/
+  apheleia-4.6.0.0.20260915.1/scripts/formatters/apheleia-docformatter
+  apheleia-4.6.0.0.20260915.1/scripts/formatters/apheleia-from-project-root
+  apheleia-4.6.0.0.20260915.1/scripts/formatters/apheleia-mix-format
+  apheleia-4.6.0.0.20260915.1/scripts/formatters/apheleia-npx
+  apheleia-4.6.0.0.20260915.1/scripts/formatters/apheleia-phpcs
+  apheleia-4.6.0.0.20260915.1/scripts/formatters/apheleia-pkl
+  apheleia-4.6.0.0.20260915.1/scripts/formatters/pnp-bin.js
+Built apheleia in 1.037s, finished at 2026-09-26T07:46:51+0000

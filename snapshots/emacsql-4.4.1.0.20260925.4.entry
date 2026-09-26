@@ -1,0 +1,11 @@
+(emacsql
+ . [(4 4 1 0 20260925 4) ((emacs (28 1)))
+    "High-level SQL database front-end" tar
+    ((:url . "https://github.com/magit/emacsql")
+     (:commit . "a7e9d82e3334058ccc8c63fad9a42e953d4de0b4")
+     (:revdesc . "v4.4.1-4-ga7e9d82e3334")
+     (:authors ("Christopher Wellons" . "wellons@nullprogram.com"))
+     (:maintainers
+      ("Jonas Bernoulli" . "emacs.emacsql@jonas.bernoulli.dev"))
+     (:maintainer "Jonas Bernoulli"
+		  . "emacs.emacsql@jonas.bernoulli.dev"))])

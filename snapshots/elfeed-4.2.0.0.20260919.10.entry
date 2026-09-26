@@ -1,0 +1,14 @@
+(elfeed
+ . [(4 2 0 0 20260919 10) ((emacs (29 1)) (compat (31)))
+    "An Atom/RSS feed reader" tar
+    ((:url . "https://github.com/emacs-elfeed/elfeed")
+     (:commit . "b39ca98c0ab05170cba943d6e31c5c2a3e285133")
+     (:revdesc . "4.2.0-10-gb39ca98c0ab0")
+     (:keywords "network" "comm" "hypermedia")
+     (:authors ("Christopher Wellons" . "wellons@nullprogram.com"))
+     (:maintainers
+      ("Karthik Chikmagalur" . "karthik.chikmagalur@gmail.com")
+      ("Ihor Radchenko" . "yantar92@posteo.net")
+      ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainer "Karthik Chikmagalur"
+		  . "karthik.chikmagalur@gmail.com"))])

@@ -1,0 +1,15 @@
+(forge
+ . [(0 6 9 0 20260925 20)
+    ((emacs (29 1)) (compat (31 0)) (closql (2 4)) (cond-let (1 1))
+     (emacsql (4 4)) (ghub (5 3)) (llama (1 0)) (magit (4 7))
+     (markdown-mode (2 8)) (transient (0 13)) (yaml (1 2)))
+    "Access Git forges from Magit" tar
+    ((:url . "https://github.com/magit/forge")
+     (:commit . "20842c184688fd7f7d89854f10ff76741b887709")
+     (:revdesc . "v0.6.9-20-g20842c184688")
+     (:keywords "git" "tools" "vc")
+     (:authors ("Jonas Bernoulli" . "emacs.forge@jonas.bernoulli.dev"))
+     (:maintainers
+      ("Jonas Bernoulli" . "emacs.forge@jonas.bernoulli.dev"))
+     (:maintainer "Jonas Bernoulli"
+		  . "emacs.forge@jonas.bernoulli.dev"))])

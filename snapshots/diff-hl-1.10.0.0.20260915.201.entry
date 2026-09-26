@@ -1,0 +1,9 @@
+(diff-hl
+ . [(1 10 0 0 20260915 201) ((cl-lib (0 2)) (emacs (27 1)))
+    "Highlight uncommitted changes using VC" tar
+    ((:url . "https://github.com/dgutov/diff-hl")
+     (:commit . "b1ddfb3e4c68c8f6a4aee2e48e0016c3fb4c3803")
+     (:revdesc . "b1ddfb3e4c68") (:keywords "vc" "diff")
+     (:authors ("Dmitry Gutov" . "dmitry@gutov.dev"))
+     (:maintainers ("Dmitry Gutov" . "dmitry@gutov.dev"))
+     (:maintainer "Dmitry Gutov" . "dmitry@gutov.dev"))])

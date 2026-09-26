@@ -1,0 +1,29 @@
+
+ • Building package emacsql
+From https://github.com/magit/emacsql
+Updating /github/workspace/sources/emacsql/
+Checking out a7e9d82e3334058ccc8c63fad9a42e953d4de0b4
+Warning: emacsql :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/emacsql/
+  to /tmp/emacsql-WkG9SX/emacsql-4.4.1.0.20260925.4/
+    emacsql-compiler.el -> emacsql-compiler.el
+    emacsql-mysql.el -> emacsql-mysql.el
+    emacsql-pg.el -> emacsql-pg.el
+    emacsql-psql.el -> emacsql-psql.el
+    emacsql-sqlite-builtin.el -> emacsql-sqlite-builtin.el
+    emacsql-sqlite-module.el -> emacsql-sqlite-module.el
+    emacsql-sqlite.el -> emacsql-sqlite.el
+    emacsql.el -> emacsql.el
+Created emacsql-4.4.1.0.20260925.4.tar containing:
+  emacsql-4.4.1.0.20260925.4/
+  emacsql-4.4.1.0.20260925.4/emacsql-compiler.el
+  emacsql-4.4.1.0.20260925.4/emacsql-mysql.el
+  emacsql-4.4.1.0.20260925.4/emacsql-pg.el
+  emacsql-4.4.1.0.20260925.4/emacsql-pkg.el
+  emacsql-4.4.1.0.20260925.4/emacsql-psql.el
+  emacsql-4.4.1.0.20260925.4/emacsql-sqlite-builtin.el
+  emacsql-4.4.1.0.20260925.4/emacsql-sqlite-module.el
+  emacsql-4.4.1.0.20260925.4/emacsql-sqlite.el
+  emacsql-4.4.1.0.20260925.4/emacsql.el
+Built emacsql in 1.034s, finished at 2026-09-26T07:47:29+0000

@@ -1,0 +1,1 @@
+; Minimalistic panel for Emacs.
