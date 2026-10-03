@@ -1,0 +1,14 @@
+
+ • Building package closql
+From https://github.com/magit/closql
+Updating /github/workspace/sources/closql/
+Checking out 48955ae02cfc7dad93b6bdc9ffd8d4b760dfb62b
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/closql/
+  to /tmp/closql-Dnv8wp/closql-2.4.2/
+    closql.el -> closql.el
+Created closql-2.4.2.tar containing:
+  closql-2.4.2/
+  closql-2.4.2/closql-pkg.el
+  closql-2.4.2/closql.el
+Built closql in 0.524s, finished at 2026-10-03T08:12:20+0000

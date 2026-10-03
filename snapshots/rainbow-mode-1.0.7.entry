@@ -1,0 +1,8 @@
+(rainbow-mode
+ . [(1 0 7) nil "Colorize color names in buffers" tar
+    ((:url . "https://github.com/emacs-straight/rainbow-mode")
+     (:commit . "8af64da0a3d6d27ae7265e3d74b212a19763a406")
+     (:revdesc . "8af64da0a3d6") (:keywords "faces")
+     (:authors ("Julien Danjou" . "julien@danjou.info"))
+     (:maintainers ("Julien Danjou" . "julien@danjou.info"))
+     (:maintainer "Julien Danjou" . "julien@danjou.info"))])

@@ -1,0 +1,11 @@
+(ox-hugo
+ . [(0 12 2) ((emacs (26 3)) (tomelr (0 4 3)))
+    "Hugo Markdown Back-End for Org Export Engine" tar
+    ((:url . "https://ox-hugo.scripter.co")
+     (:commit . "af3d0cdf8c672be498d54bc9efdd0e40b2528602")
+     (:revdesc . "af3d0cdf8c67") (:keywords "org" "markdown" "docs")
+     (:authors ("Kaushal Modi" . "kaushal.modi@gmail.com")
+	       ("Matt Price" . "moptop99@gmail.com"))
+     (:maintainers ("Kaushal Modi" . "kaushal.modi@gmail.com")
+		   ("Matt Price" . "moptop99@gmail.com"))
+     (:maintainer "Kaushal Modi" . "kaushal.modi@gmail.com"))])

@@ -1,0 +1,9 @@
+(language-detection
+ . [(0 1 0 0 20161123 23) ((emacs (24)) (cl-lib (0 5)))
+    "Automatic language detection from code snippets" tar
+    ((:url . "https://github.com/andreasjansson/language-detection.el")
+     (:commit . "38f5d294870678efc6ccf94ce6e8175a58f93025")
+     (:revdesc . "38f5d2948706")
+     (:authors ("Andreas Jansson" . "andreas@jansson.me.uk"))
+     (:maintainers ("Andreas Jansson" . "andreas@jansson.me.uk"))
+     (:maintainer "Andreas Jansson" . "andreas@jansson.me.uk"))])

@@ -1,0 +1,16 @@
+
+ • Building package projectile
+From https://github.com/bbatsov/projectile
+Updating /github/workspace/sources/projectile/
+Checking out 74a84324b08531ece6ae79d84e981dbe13d9ec81
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/projectile/
+  to /tmp/projectile-tmECGy/projectile-3.4.0.0.20260930.67/
+    projectile-consult.el -> projectile-consult.el
+    projectile.el -> projectile.el
+Created projectile-3.4.0.0.20260930.67.tar containing:
+  projectile-3.4.0.0.20260930.67/
+  projectile-3.4.0.0.20260930.67/projectile-consult.el
+  projectile-3.4.0.0.20260930.67/projectile-pkg.el
+  projectile-3.4.0.0.20260930.67/projectile.el
+Built projectile in 1.482s, finished at 2026-10-03T08:13:30+0000

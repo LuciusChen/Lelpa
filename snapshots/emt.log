@@ -1,0 +1,14 @@
+
+ • Building package emt
+From https://github.com/LuciusChen/emt
+Updating /github/workspace/sources/emt/
+Checking out e66bc7719340eb82ee78af7301ad9131c8132d57
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/emt/
+  to /tmp/emt-YB4K6q/emt-0.11.0/
+    emt.el -> emt.el
+Created emt-0.11.0.tar containing:
+  emt-0.11.0/
+  emt-0.11.0/emt-pkg.el
+  emt-0.11.0/emt.el
+Built emt in 0.527s, finished at 2026-10-03T08:12:40+0000

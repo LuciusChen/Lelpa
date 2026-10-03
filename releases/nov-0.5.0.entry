@@ -1,0 +1,10 @@
+(nov
+ . [(0 5 0) ((esxml (0 3 6)) (emacs (25 1)))
+    "Featureful EPUB reader mode" tar
+    ((:url . "https://depp.brause.cc/nov.el")
+     (:commit . "b37d9380752e541db3f4b947c219ca54d50ca273")
+     (:revdesc . "b37d9380752e")
+     (:keywords "hypermedia" "multimedia" "epub")
+     (:authors ("Vasilij Schneidermann" . "mail@vasilij.de"))
+     (:maintainers ("Vasilij Schneidermann" . "mail@vasilij.de"))
+     (:maintainer "Vasilij Schneidermann" . "mail@vasilij.de"))])

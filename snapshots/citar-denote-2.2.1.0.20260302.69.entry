@@ -1,0 +1,10 @@
+(citar-denote
+ . [(2 2 1 0 20260302 69)
+    ((emacs (29 1)) (citar (1 4)) (denote (4 1)) (dash (2 19 1)))
+    "Minor mode integrating Citar and Denote" tar
+    ((:url . "https://github.com/pprevos/citar-denote")
+     (:commit . "7b2414c116ffff347a6be22a562fdc69a3ff9578")
+     (:revdesc . "7b2414c116ff")
+     (:authors ("Peter Prevos" . "peter@prevos.net"))
+     (:maintainers ("Peter Prevos" . "peter@prevos.net"))
+     (:maintainer "Peter Prevos" . "peter@prevos.net"))])

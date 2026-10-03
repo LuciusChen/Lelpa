@@ -1,0 +1,9 @@
+(pdd
+ . [(0 2 3 0 20250809 3) ((emacs (28 1)))
+    "HTTP library & Async Toolkit" tar
+    ((:url . "https://github.com/lorniu/pdd.el")
+     (:commit . "533e8fde36cb9fae1fae3bf44eb6dbf39ec10f53")
+     (:revdesc . "533e8fde36cb")
+     (:authors ("lorniu" . "lorniu@gmail.com"))
+     (:maintainers ("lorniu" . "lorniu@gmail.com"))
+     (:maintainer "lorniu" . "lorniu@gmail.com"))])

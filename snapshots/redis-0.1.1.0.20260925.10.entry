@@ -1,0 +1,9 @@
+(redis
+ . [(0 1 1 0 20260925 10) ((emacs (29 1))) "Native Redis RESP client"
+    tar
+    ((:url . "https://github.com/LuciusChen/redis.el")
+     (:commit . "df5895528dc896e62a175497a05c9d378aefd63e")
+     (:revdesc . "df5895528dc8") (:keywords "data" "redis" "tools")
+     (:authors ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainers ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainer "Lucius Chen" . "chenyh572@gmail.com"))])

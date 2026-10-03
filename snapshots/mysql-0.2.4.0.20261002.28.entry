@@ -1,0 +1,9 @@
+(mysql
+ . [(0 2 4 0 20261002 28) ((emacs (28 1)))
+    "Pure Elisp MySQL wire protocol client" tar
+    ((:url . "https://github.com/LuciusChen/mysql.el")
+     (:commit . "bf4a57aa88eeca9c4f08aa392bf1d10a9fd04dd5")
+     (:revdesc . "bf4a57aa88ee") (:keywords "comm" "data")
+     (:authors ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainers ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainer "Lucius Chen" . "chenyh572@gmail.com"))])

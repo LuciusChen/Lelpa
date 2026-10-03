@@ -1,0 +1,10 @@
+(mastodon
+ . [(2 1 6) ((emacs (29 1)) (compat (31)) (persist (0 8)) (tp (0 8)))
+    "Client for fediverse services using the Mastodon API" tar
+    ((:url . "https://codeberg.org/martianh/mastodon.el")
+     (:commit . "fdc3890adf8a9eade52ba2f53c23f1dc48f21464")
+     (:revdesc . "fdc3890adf8a")
+     (:authors ("Johnson Denen" . "johnson.denen@gmail.com")
+	       ("Marty Hiatt" . "martianh@disroot.org"))
+     (:maintainers ("Marty Hiatt" . "martianh@disroot.org"))
+     (:maintainer "Marty Hiatt" . "martianh@disroot.org"))])
