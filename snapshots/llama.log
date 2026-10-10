@@ -1,0 +1,16 @@
+
+ • Building package llama
+From https://github.com/tarsius/llama
+Updating /github/workspace/sources/llama/
+Checking out 6850d0c91b629da14fdff2300c222289d1a0029a
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/llama/
+  to /tmp/llama-aChuVL/llama-1.0.6/
+    llama.el -> llama.el
+    .dir-locals.el -> .dir-locals.el
+Created llama-1.0.6.tar containing:
+  llama-1.0.6/
+  llama-1.0.6/.dir-locals.el
+  llama-1.0.6/llama-pkg.el
+  llama-1.0.6/llama.el
+Built llama in 0.456s, finished at 2026-10-10T08:34:20+0000

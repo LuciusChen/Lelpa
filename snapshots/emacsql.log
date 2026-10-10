@@ -1,0 +1,29 @@
+
+ • Building package emacsql
+From https://github.com/magit/emacsql
+Updating /github/workspace/sources/emacsql/
+Checking out 7a4c607912c8fdd1fca4def4915d68f43b12d4da
+Warning: emacsql :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/emacsql/
+  to /tmp/emacsql-xX1EPx/emacsql-4.4.2/
+    emacsql-compiler.el -> emacsql-compiler.el
+    emacsql-mysql.el -> emacsql-mysql.el
+    emacsql-pg.el -> emacsql-pg.el
+    emacsql-psql.el -> emacsql-psql.el
+    emacsql-sqlite-builtin.el -> emacsql-sqlite-builtin.el
+    emacsql-sqlite-module.el -> emacsql-sqlite-module.el
+    emacsql-sqlite.el -> emacsql-sqlite.el
+    emacsql.el -> emacsql.el
+Created emacsql-4.4.2.tar containing:
+  emacsql-4.4.2/
+  emacsql-4.4.2/emacsql-compiler.el
+  emacsql-4.4.2/emacsql-mysql.el
+  emacsql-4.4.2/emacsql-pg.el
+  emacsql-4.4.2/emacsql-pkg.el
+  emacsql-4.4.2/emacsql-psql.el
+  emacsql-4.4.2/emacsql-sqlite-builtin.el
+  emacsql-4.4.2/emacsql-sqlite-module.el
+  emacsql-4.4.2/emacsql-sqlite.el
+  emacsql-4.4.2/emacsql.el
+Built emacsql in 0.440s, finished at 2026-10-10T08:34:04+0000

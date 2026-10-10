@@ -1,0 +1,9 @@
+(courier
+ . [(0 2 0 0 20260923 34) ((emacs (29 1)) (transient (0 0 0)))
+    "Curl-backed HTTP client" tar
+    ((:url . "https://github.com/LuciusChen/courier")
+     (:commit . "a7fcdb9f944c206c46583bd80108000e317eff1f")
+     (:revdesc . "a7fcdb9f944c")
+     (:authors ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainers ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainer "Lucius Chen" . "chenyh572@gmail.com"))])

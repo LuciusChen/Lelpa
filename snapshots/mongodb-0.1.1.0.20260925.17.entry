@@ -1,0 +1,9 @@
+(mongodb
+ . [(0 1 1 0 20260925 17) ((emacs (29 1)))
+    "Native MongoDB protocol client" tar
+    ((:url . "https://github.com/LuciusChen/mongodb.el")
+     (:commit . "f3cf7c58bd0f5de21f1ea134cf1220222c36afb3")
+     (:revdesc . "f3cf7c58bd0f") (:keywords "data" "tools")
+     (:authors ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainers ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainer "Lucius Chen" . "chenyh572@gmail.com"))])

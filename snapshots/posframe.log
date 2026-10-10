@@ -1,0 +1,16 @@
+
+ • Building package posframe
+From https://github.com/tumashu/posframe
+Updating /github/workspace/sources/posframe/
+Checking out 1d833af5c43313e401be2e5c456bf03d4ce9519c
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/posframe/
+  to /tmp/posframe-2aAdeD/posframe-1.5.3/
+    posframe-benchmark.el -> posframe-benchmark.el
+    posframe.el -> posframe.el
+Created posframe-1.5.3.tar containing:
+  posframe-1.5.3/
+  posframe-1.5.3/posframe-benchmark.el
+  posframe-1.5.3/posframe-pkg.el
+  posframe-1.5.3/posframe.el
+Built posframe in 0.487s, finished at 2026-10-10T08:34:51+0000

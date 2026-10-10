@@ -1,0 +1,6 @@
+(meow
+ . [(1 5 0) ((emacs (27 1))) "Yet Another modal editing" tar
+    ((:url . "https://www.github.com/DogLooksGood/meow")
+     (:commit . "ebf7ebb5eb3ac7bb3cfaca9c32d9063f385aee9a")
+     (:revdesc . "ebf7ebb5eb3a")
+     (:keywords "convenience" "modal-editing"))])

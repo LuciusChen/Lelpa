@@ -1,0 +1,11 @@
+(meow-cjk
+ . [(0 1 0) ((emacs (27 1)) (meow (1 0)) (emt (2 0 0)))
+    "CJK word segmentation support for Meow" tar
+    ((:url . "https://github.com/yourusername/meow-cjk")
+     (:commit . "6494fc3c91e851ad64f9b2ef9ffcd9512a1be281")
+     (:revdesc . "6494fc3c91e8")
+     (:keywords "chinese" "cjk" "japanese" "korean" "convenience"
+		"meow")
+     (:authors ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainers ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainer "Lucius Chen" . "chenyh572@gmail.com"))])

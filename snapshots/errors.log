@@ -1,0 +1,3 @@
+2026-10-10T08:33:51+0000  company                    Command ‘makeinfo --no-split company.texi -o /tmp/company-TkQNjr/company-1.1.0.0.20261005.8/company.info’ exited with non-zero exit-code: 1
+2026-10-10T08:34:47+0000  persist                    Command ‘makeinfo --no-split persist.texi -o /tmp/persist-9uCGq0/persist-0.8/persist.info’ exited with non-zero exit-code: 1
+2026-10-10T08:34:56+0000  rose-pine                  Missing library "rose-pine.el" matching package name ‘rose-pine’

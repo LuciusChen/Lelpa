@@ -1,0 +1,10 @@
+(ace-jump-mode
+ . [(3 0 0 20261009 3) ((emacs (24 4)))
+    "A quick cursor location minor mode" tar
+    ((:url . "https://github.com/winterTTr/ace-jump-mode")
+     (:commit . "be9afca392e6c3a069c8bd7fb2b1250f9957c760")
+     (:revdesc . "v3.0-3-gbe9afca392e6")
+     (:keywords "convenience" "motion" "location" "cursor")
+     (:authors ("winterTTr" . "winterTTr@gmail.com"))
+     (:maintainers ("Kostafey" . "kostafey@gmail.com"))
+     (:maintainer "Kostafey" . "kostafey@gmail.com"))])

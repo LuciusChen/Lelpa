@@ -1,0 +1,64 @@
+
+ • Building package forge
+From https://github.com/magit/forge
+Updating /github/workspace/sources/forge/
+Checking out 4233cbba4f566988d78cdb9c5f85af8a171f518d
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/forge/
+  to /tmp/forge-fN8CuY/forge-0.6.9.0.20261006.43/
+  ! lisp/forge-bitbucket.el -> forge-bitbucket.el
+  ! lisp/forge-client.el -> forge-client.el
+  ! lisp/forge-commands.el -> forge-commands.el
+  ! lisp/forge-core.el -> forge-core.el
+  ! lisp/forge-db.el -> forge-db.el
+  ! lisp/forge-discussion.el -> forge-discussion.el
+  ! lisp/forge-forgejo.el -> forge-forgejo.el
+  ! lisp/forge-gitea.el -> forge-gitea.el
+  ! lisp/forge-github.el -> forge-github.el
+  ! lisp/forge-gitlab.el -> forge-gitlab.el
+  ! lisp/forge-gogs.el -> forge-gogs.el
+  ! lisp/forge-issue.el -> forge-issue.el
+  ! lisp/forge-notify.el -> forge-notify.el
+  ! lisp/forge-post.el -> forge-post.el
+  ! lisp/forge-pullreq.el -> forge-pullreq.el
+  ! lisp/forge-repo.el -> forge-repo.el
+  ! lisp/forge-repos.el -> forge-repos.el
+  ! lisp/forge-revnote.el -> forge-revnote.el
+  ! lisp/forge-semi.el -> forge-semi.el
+  ! lisp/forge-tablist.el -> forge-tablist.el
+  ! lisp/forge-topic.el -> forge-topic.el
+  ! lisp/forge-topics.el -> forge-topics.el
+  ! lisp/forge.el -> forge.el
+  ! docs/forge.texi -> forge.texi
+    .dir-locals.el -> .dir-locals.el
+Generating forge.info
+Created forge-0.6.9.0.20261006.43.tar containing:
+  forge-0.6.9.0.20261006.43/
+  forge-0.6.9.0.20261006.43/.dir-locals.el
+  forge-0.6.9.0.20261006.43/dir
+  forge-0.6.9.0.20261006.43/forge-bitbucket.el
+  forge-0.6.9.0.20261006.43/forge-client.el
+  forge-0.6.9.0.20261006.43/forge-commands.el
+  forge-0.6.9.0.20261006.43/forge-core.el
+  forge-0.6.9.0.20261006.43/forge-db.el
+  forge-0.6.9.0.20261006.43/forge-discussion.el
+  forge-0.6.9.0.20261006.43/forge-forgejo.el
+  forge-0.6.9.0.20261006.43/forge-gitea.el
+  forge-0.6.9.0.20261006.43/forge-github.el
+  forge-0.6.9.0.20261006.43/forge-gitlab.el
+  forge-0.6.9.0.20261006.43/forge-gogs.el
+  forge-0.6.9.0.20261006.43/forge-issue.el
+  forge-0.6.9.0.20261006.43/forge-notify.el
+  forge-0.6.9.0.20261006.43/forge-pkg.el
+  forge-0.6.9.0.20261006.43/forge-post.el
+  forge-0.6.9.0.20261006.43/forge-pullreq.el
+  forge-0.6.9.0.20261006.43/forge-repo.el
+  forge-0.6.9.0.20261006.43/forge-repos.el
+  forge-0.6.9.0.20261006.43/forge-revnote.el
+  forge-0.6.9.0.20261006.43/forge-semi.el
+  forge-0.6.9.0.20261006.43/forge-tablist.el
+  forge-0.6.9.0.20261006.43/forge-topic.el
+  forge-0.6.9.0.20261006.43/forge-topics.el
+  forge-0.6.9.0.20261006.43/forge.el
+  forge-0.6.9.0.20261006.43/forge.info
+Built forge in 0.897s, finished at 2026-10-10T08:34:08+0000
