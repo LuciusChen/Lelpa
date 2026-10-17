@@ -1,0 +1,9 @@
+(denote
+ . [(4 2 3 0 20261017 20) ((emacs (28 1)))
+    "Simple notes with an efficient file-naming scheme" tar
+    ((:url . "https://github.com/protesilaos/denote")
+     (:commit . "dd8120a49bf6448330da778effbf67d39c58499f")
+     (:revdesc . "dd8120a49bf6")
+     (:authors ("Protesilaos" . "info@protesilaos.com"))
+     (:maintainers ("Protesilaos" . "info@protesilaos.com"))
+     (:maintainer "Protesilaos" . "info@protesilaos.com"))])

@@ -1,0 +1,2 @@
+2026-10-17T07:00:30+0000  company                    Command ‘makeinfo --no-split company.texi -o /tmp/company-lA1gsl/company-1.1.0.0.20261012.12/company.info’ exited with non-zero exit-code: 1
+2026-10-17T07:01:35+0000  ob-clutch                  (error git exited with status 128)

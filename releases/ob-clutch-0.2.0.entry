@@ -1,0 +1,9 @@
+(ob-clutch
+ . [(0 2 0) ((emacs (29 1)) (clutch (0 5 2)))
+    "Org-Babel integration for clutch database client" tar
+    ((:url . "https://github.com/LuciusChen/ob-clutch")
+     (:commit . "74f0f21cb69ba79a86455ae3ffd6b73d731803a6")
+     (:revdesc . "74f0f21cb69b") (:keywords "languages" "data")
+     (:authors ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainers ("Lucius Chen" . "chenyh572@gmail.com"))
+     (:maintainer "Lucius Chen" . "chenyh572@gmail.com"))])
