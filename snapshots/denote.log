@@ -1,0 +1,19 @@
+
+ • Building package denote
+From https://github.com/emacs-straight/denote
+Updating /github/workspace/sources/denote/
+Checking out 51e09a836f96aaeb458dc5bd78151ff7aded4d58
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/denote/
+  to /tmp/denote-556Zd2/denote-4.2.3.0.20261022.24/
+    denote-pkg.el -> denote-pkg.el
+    denote.el -> denote.el
+    dir -> dir
+    denote.info -> denote.info
+Created denote-4.2.3.0.20261022.24.tar containing:
+  denote-4.2.3.0.20261022.24/
+  denote-4.2.3.0.20261022.24/denote-pkg.el
+  denote-4.2.3.0.20261022.24/denote.el
+  denote-4.2.3.0.20261022.24/denote.info
+  denote-4.2.3.0.20261022.24/dir
+Built denote in 1.279s, finished at 2026-10-24T07:21:55+0000

@@ -1,0 +1,14 @@
+
+ • Building package marginalia
+From https://github.com/minad/marginalia
+Updating /github/workspace/sources/marginalia/
+Checking out 381af583d2530796b9955ff2fe0cba3ad3119943
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/marginalia/
+  to /tmp/marginalia-MTMAKu/marginalia-2.13.0.20261010.1/
+    marginalia.el -> marginalia.el
+Created marginalia-2.13.0.20261010.1.tar containing:
+  marginalia-2.13.0.20261010.1/
+  marginalia-2.13.0.20261010.1/marginalia-pkg.el
+  marginalia-2.13.0.20261010.1/marginalia.el
+Built marginalia in 0.410s, finished at 2026-10-24T07:22:16+0000

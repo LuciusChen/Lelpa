@@ -1,0 +1,39 @@
+
+ • Building package vertico
+From https://github.com/minad/vertico
+Checking out 6028bd3d32c99c28e2b938e5e5393ec3508d2424
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/vertico/
+  to /tmp/vertico-PMivRg/vertico-2.10/
+    vertico.el -> vertico.el
+  ! extensions/vertico-buffer.el -> vertico-buffer.el
+  ! extensions/vertico-directory.el -> vertico-directory.el
+  ! extensions/vertico-flat.el -> vertico-flat.el
+  ! extensions/vertico-grid.el -> vertico-grid.el
+  ! extensions/vertico-indexed.el -> vertico-indexed.el
+  ! extensions/vertico-mouse.el -> vertico-mouse.el
+  ! extensions/vertico-multiform.el -> vertico-multiform.el
+  ! extensions/vertico-quick.el -> vertico-quick.el
+  ! extensions/vertico-repeat.el -> vertico-repeat.el
+  ! extensions/vertico-reverse.el -> vertico-reverse.el
+  ! extensions/vertico-sort.el -> vertico-sort.el
+  ! extensions/vertico-suspend.el -> vertico-suspend.el
+  ! extensions/vertico-unobtrusive.el -> vertico-unobtrusive.el
+Created vertico-2.10.tar containing:
+  vertico-2.10/
+  vertico-2.10/vertico-buffer.el
+  vertico-2.10/vertico-directory.el
+  vertico-2.10/vertico-flat.el
+  vertico-2.10/vertico-grid.el
+  vertico-2.10/vertico-indexed.el
+  vertico-2.10/vertico-mouse.el
+  vertico-2.10/vertico-multiform.el
+  vertico-2.10/vertico-pkg.el
+  vertico-2.10/vertico-quick.el
+  vertico-2.10/vertico-repeat.el
+  vertico-2.10/vertico-reverse.el
+  vertico-2.10/vertico-sort.el
+  vertico-2.10/vertico-suspend.el
+  vertico-2.10/vertico-unobtrusive.el
+  vertico-2.10/vertico.el
+Built vertico in 0.102s, finished at 2026-10-24T07:22:52+0000

@@ -1,0 +1,14 @@
+
+ • Building package markdown-mode
+From https://github.com/jrblevin/markdown-mode
+Updating /github/workspace/sources/markdown-mode/
+Checking out e2e2bc753b4330f85b6ea7e62cd0552e8ea47b76
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/markdown-mode/
+  to /tmp/markdown-mode-WoE7bj/markdown-mode-2.8.0.20261022.29/
+    markdown-mode.el -> markdown-mode.el
+Created markdown-mode-2.8.0.20261022.29.tar containing:
+  markdown-mode-2.8.0.20261022.29/
+  markdown-mode-2.8.0.20261022.29/markdown-mode-pkg.el
+  markdown-mode-2.8.0.20261022.29/markdown-mode.el
+Built markdown-mode in 0.623s, finished at 2026-10-24T07:22:16+0000

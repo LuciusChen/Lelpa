@@ -1,0 +1,9 @@
+(gt
+ . [(3 2 1) ((emacs (28 1)) (pdd (0 2 3)))
+    "Translation framework, configurable and scalable" tar
+    ((:url . "https://github.com/lorniu/gt.el")
+     (:commit . "f9febd8583ea482f72139e02f440f3972502f5a2")
+     (:revdesc . "f9febd8583ea") (:keywords "convenience")
+     (:authors ("lorniu" . "lorniu@gmail.com"))
+     (:maintainers ("lorniu" . "lorniu@gmail.com"))
+     (:maintainer "lorniu" . "lorniu@gmail.com"))])

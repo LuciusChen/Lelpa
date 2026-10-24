@@ -1,0 +1,9 @@
+(goggles
+ . [(0 5) ((emacs (29 1)) (compat (31))) "Pulse modified regions" tar
+    ((:url . "https://github.com/minad/goggles")
+     (:commit . "e473909708aa0df2134b7bb7f6654d0fb5f23e23")
+     (:revdesc . "0.5-0-ge473909708aa")
+     (:keywords "convenience" "text")
+     (:authors ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainers ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainer "Daniel Mendler" . "mail@daniel-mendler.de"))])

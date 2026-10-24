@@ -1,0 +1,11 @@
+(panel
+ . [(0 2) ((emacs (27 1)) (async (1 9 7)))
+    "Simple welcome-panel screen" tar
+    ((:url . "https://github.com/konrad1977/welcome-panel")
+     (:commit . "f3977ce5755912ce737f1471379dd8fdb92cb773")
+     (:revdesc . "f3977ce57559")
+     (:authors ("Mikael Konradsson" . "mikael.konradsson@outlook.com"))
+     (:maintainers
+      ("Mikael Konradsson" . "mikael.konradsson@outlook.com"))
+     (:maintainer "Mikael Konradsson"
+		  . "mikael.konradsson@outlook.com"))])
