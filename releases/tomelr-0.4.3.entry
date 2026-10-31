@@ -1,0 +1,10 @@
+(tomelr
+ . [(0 4 3) ((emacs (26 3)) (map (3 2 1)) (seq (2 23)))
+    "Convert S-expressions to TOML" tar
+    ((:url . "https://github.com/kaushalmodi/tomelr/")
+     (:commit . "57cb24df521031a6d02f61091db82d292e4175df")
+     (:revdesc . "57cb24df5210")
+     (:keywords "data" "tools" "toml" "serialization" "config")
+     (:authors ("Kaushal Modi" . "kaushal.modi@gmail.com"))
+     (:maintainers ("Kaushal Modi" . "kaushal.modi@gmail.com"))
+     (:maintainer "Kaushal Modi" . "kaushal.modi@gmail.com"))])

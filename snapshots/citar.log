@@ -1,0 +1,30 @@
+
+ • Building package citar
+From https://github.com/emacs-citar/citar
+Updating /github/workspace/sources/citar/
+Checking out 347469e036d3ec15fb7a5a21b0cff6bebf04b661
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/citar/
+  to /tmp/citar-Oq04k1/citar-1.4.0.0.20261015.39/
+    citar-cache.el -> citar-cache.el
+    citar-capf.el -> citar-capf.el
+    citar-citeproc.el -> citar-citeproc.el
+    citar-file.el -> citar-file.el
+    citar-format.el -> citar-format.el
+    citar-latex.el -> citar-latex.el
+    citar-markdown.el -> citar-markdown.el
+    citar-org.el -> citar-org.el
+    citar.el -> citar.el
+Created citar-1.4.0.0.20261015.39.tar containing:
+  citar-1.4.0.0.20261015.39/
+  citar-1.4.0.0.20261015.39/citar-cache.el
+  citar-1.4.0.0.20261015.39/citar-capf.el
+  citar-1.4.0.0.20261015.39/citar-citeproc.el
+  citar-1.4.0.0.20261015.39/citar-file.el
+  citar-1.4.0.0.20261015.39/citar-format.el
+  citar-1.4.0.0.20261015.39/citar-latex.el
+  citar-1.4.0.0.20261015.39/citar-markdown.el
+  citar-1.4.0.0.20261015.39/citar-org.el
+  citar-1.4.0.0.20261015.39/citar-pkg.el
+  citar-1.4.0.0.20261015.39/citar.el
+Built citar in 0.920s, finished at 2026-10-31T08:29:06+0000

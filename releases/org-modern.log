@@ -1,0 +1,13 @@
+
+ • Building package org-modern
+From https://github.com/minad/org-modern
+Checking out 4855ade77ab17de7587c37bde12a0afeab342783
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/org-modern/
+  to /tmp/org-modern-HmpkCV/org-modern-1.14/
+    org-modern.el -> org-modern.el
+Created org-modern-1.14.tar containing:
+  org-modern-1.14/
+  org-modern-1.14/org-modern-pkg.el
+  org-modern-1.14/org-modern.el
+Built org-modern in 0.074s, finished at 2026-10-31T08:30:38+0000

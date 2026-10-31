@@ -1,0 +1,13 @@
+(magit-section
+ . [(4 7 1 0 20261028 62)
+    ((emacs (28 1)) (compat (31 0)) (cond-let (1 1)) (llama (1 0))
+     (seq (2 24)))
+    "Sections for read-only buffers" tar
+    ((:url . "https://github.com/magit/magit")
+     (:commit . "7ec7988604c6099840130754cb81daefb972fd2a")
+     (:revdesc . "v4.7.1-62-g7ec7988604c6") (:keywords "tools")
+     (:authors ("Jonas Bernoulli" . "emacs.magit@jonas.bernoulli.dev"))
+     (:maintainers
+      ("Jonas Bernoulli" . "emacs.magit@jonas.bernoulli.dev"))
+     (:maintainer "Jonas Bernoulli"
+		  . "emacs.magit@jonas.bernoulli.dev"))])

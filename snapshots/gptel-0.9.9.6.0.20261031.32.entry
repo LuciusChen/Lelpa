@@ -1,0 +1,13 @@
+(gptel
+ . [(0 9 9 6 0 20261031 32)
+    ((emacs (27 1)) (transient (0 7 8)) (compat (30 1 0 0)))
+    "Interact with ChatGPT or other LLMs" tar
+    ((:url . "https://github.com/karthink/gptel")
+     (:commit . "d2d19cdcc414cc32892491a6dc2889bd6f5ee520")
+     (:revdesc . "d2d19cdcc414") (:keywords "convenience" "tools")
+     (:authors
+      ("Karthik Chikmagalur" . "karthik.chikmagalur@gmail.com"))
+     (:maintainers
+      ("Karthik Chikmagalur" . "karthik.chikmagalur@gmail.com"))
+     (:maintainer "Karthik Chikmagalur"
+		  . "karthik.chikmagalur@gmail.com"))])

@@ -1,0 +1,13 @@
+
+ • Building package redis
+From https://github.com/LuciusChen/redis.el
+Checking out 751406f41f24ff93dc089b827caca5139062a1c7
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/redis/
+  to /tmp/redis-MJLsh3/redis-0.1.0/
+    redis.el -> redis.el
+Created redis-0.1.0.tar containing:
+  redis-0.1.0/
+  redis-0.1.0/redis-pkg.el
+  redis-0.1.0/redis.el
+Built redis in 0.029s, finished at 2026-10-31T08:30:42+0000

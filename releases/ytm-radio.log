@@ -1,0 +1,13 @@
+
+ • Building package ytm-radio
+From https://github.com/LuciusChen/ytm-radio
+Checking out 73a4a11dba1ac158795ff8d9ee57f0b0977024fb
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/ytm-radio/
+  to /tmp/ytm-radio-vM0cGW/ytm-radio-0.1.9/
+    ytm-radio.el -> ytm-radio.el
+Created ytm-radio-0.1.9.tar containing:
+  ytm-radio-0.1.9/
+  ytm-radio-0.1.9/ytm-radio-pkg.el
+  ytm-radio-0.1.9/ytm-radio.el
+Built ytm-radio in 0.093s, finished at 2026-10-31T08:30:47+0000

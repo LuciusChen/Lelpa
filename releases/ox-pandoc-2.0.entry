@@ -1,0 +1,10 @@
+(ox-pandoc
+ . [(2 0) ((org (8 2)) (emacs (24 4)) (dash (2 8)) (ht (2 0)))
+    "An Org-mode exporter using pandoc" tar
+    ((:url . "https://github.com/a-fent/ox-pandoc")
+     (:commit . "824d3707bb51e31249a7550a3e759e5fbb5207e5")
+     (:revdesc . "824d3707bb51") (:keywords "tools")
+     (:authors ("Taichi" . "kawabata.taichi@gmail.com")
+	       ("Alex" . "a-fent@github"))
+     (:maintainers ("Alex" . "a-fent@github"))
+     (:maintainer "Alex" . "a-fent@github"))])
