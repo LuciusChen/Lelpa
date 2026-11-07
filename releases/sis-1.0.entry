@@ -1,0 +1,6 @@
+(sis
+ . [(1 0) ((emacs (25)) (terminal-focus-reporting (0 0)))
+    "Switch OS-native or Emacs-native input source smartly" tar
+    ((:url . "https://github.com/laishulu/emacs-smart-input-source")
+     (:commit . "91ab5b20cad8d751e25b19003da77706a09e30b2")
+     (:revdesc . "91ab5b20cad8") (:keywords "convenience"))])

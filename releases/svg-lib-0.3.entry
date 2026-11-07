@@ -1,0 +1,8 @@
+(svg-lib
+ . [(0 3) ((emacs (27 1))) "SVG tags, progress bars & icons" tar
+    ((:url . "https://github.com/rougier/svg-lib")
+     (:commit . "e9606b1b5bf521d66f4a7ed3058c97b804ae190c")
+     (:revdesc . "e9606b1b5bf5")
+     (:keywords "svg" "icons" "tags" "convenience")
+     (:maintainers ("Nicolas P. Rougier" . "Nicolas.Rougier@inria.fr"))
+     (:maintainer "Nicolas P. Rougier" . "Nicolas.Rougier@inria.fr"))])

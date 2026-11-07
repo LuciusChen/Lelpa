@@ -1,0 +1,8 @@
+(setup
+ . [(1 5 0) ((emacs (26 1))) "Helpful Configuration Macro" tar
+    ((:url . "https://codeberg.org/pkal/setup.el")
+     (:commit . "8805db36d03891c5df3fd9b56f5a9137c7ca5255")
+     (:revdesc . "8805db36d038") (:keywords "lisp" "local")
+     (:authors ("Philip Kaludercic" . "philipk@posteo.net"))
+     (:maintainers ("Philip Kaludercic" . "philipk@posteo.net"))
+     (:maintainer "Philip Kaludercic" . "philipk@posteo.net"))])

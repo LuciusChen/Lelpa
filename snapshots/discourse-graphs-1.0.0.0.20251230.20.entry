@@ -1,0 +1,8 @@
+(discourse-graphs
+ . [(1 0 0 0 20251230 20)
+    ((emacs (29 1)) (transient (0 4 0)) (websocket (1 13)))
+    "Discourse Graph for org-mode with SQLite" tar
+    ((:url . "https://github.com/")
+     (:commit . "7f202ef42cba44a29b859f4b64a9ef747bcbef79")
+     (:revdesc . "7f202ef42cba")
+     (:keywords "org" "notes" "knowledge-management"))])

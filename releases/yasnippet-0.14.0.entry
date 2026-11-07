@@ -1,0 +1,12 @@
+(yasnippet
+ . [(0 14 0) ((cl-lib (0 5)))
+    "Yet another snippet extension for Emacs" tar
+    ((:url . "https://github.com/joaotavora/yasnippet")
+     (:commit . "3bf9a3b1af37174a004798b7195826af0123fa6a")
+     (:revdesc . "0.14.0-0-g3bf9a3b1af37")
+     (:keywords "convenience" "emulation")
+     (:authors ("pluskid" . "pluskid@gmail.com")
+	       ("João Távora" . "joaotavora@gmail.com")
+	       ("Noam Postavsky" . "npostavs@gmail.com"))
+     (:maintainers ("Noam Postavsky" . "npostavs@gmail.com"))
+     (:maintainer "Noam Postavsky" . "npostavs@gmail.com"))])

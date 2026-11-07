@@ -1,0 +1,9 @@
+(denote-markdown
+ . [(0 3 0 0 20261017 2) ((emacs (28 1)) (denote (4 0 0)))
+    "Extensions that better integrate Denote with Markdown" tar
+    ((:url . "https://github.com/protesilaos/denote-markdown")
+     (:commit . "770d7788b21022973a58d6dbb85f72e39c0749b8")
+     (:revdesc . "770d7788b210")
+     (:authors ("Protesilaos" . "info@protesilaos.com"))
+     (:maintainers ("Protesilaos" . "info@protesilaos.com"))
+     (:maintainer "Protesilaos" . "info@protesilaos.com"))])

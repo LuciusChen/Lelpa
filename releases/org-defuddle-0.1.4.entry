@@ -1,0 +1,6 @@
+(org-defuddle
+ . [(0 1 4) ((emacs (27 1))) "Extract readable web pages into Org" tar
+    ((:url . "https://github.com/LuciusChen/org-defuddle")
+     (:commit . "bb484ae7232bcfa3b024a53b50887d12901f3676")
+     (:revdesc . "v0.1.4-0-gbb484ae7232b")
+     (:keywords "hypermedia" "outlines" "tools"))])

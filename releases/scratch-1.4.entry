@@ -1,0 +1,9 @@
+(scratch
+ . [(1 4) ((emacs (25 1))) "Mode-specific scratch buffers" tar
+    ((:url . "https://github.com/ieure/scratch-el")
+     (:commit . "f000648c9663833a76a8de9b1e78c99a9d698e48")
+     (:revdesc . "f000648c9663")
+     (:keywords "convenience" "tools" "files")
+     (:authors ("Ian Eure" . "ian.eure@gmail.com"))
+     (:maintainers ("Ian Eure" . "ian.eure@gmail.com"))
+     (:maintainer "Ian Eure" . "ian.eure@gmail.com"))])

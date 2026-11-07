@@ -1,0 +1,30 @@
+
+ • Building package corfu
+From https://github.com/minad/corfu
+Updating /github/workspace/sources/corfu/
+Checking out 15fed49c97bf6b2436641714ae15bbd2f3e37b77
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/corfu/
+  to /tmp/corfu-2zEeWf/corfu-2.16.0.20261101.3/
+    corfu.el -> corfu.el
+  ! extensions/corfu-auto.el -> corfu-auto.el
+  ! extensions/corfu-echo.el -> corfu-echo.el
+  ! extensions/corfu-history.el -> corfu-history.el
+  ! extensions/corfu-indexed.el -> corfu-indexed.el
+  ! extensions/corfu-info.el -> corfu-info.el
+  ! extensions/corfu-mouse.el -> corfu-mouse.el
+  ! extensions/corfu-popupinfo.el -> corfu-popupinfo.el
+  ! extensions/corfu-quick.el -> corfu-quick.el
+Created corfu-2.16.0.20261101.3.tar containing:
+  corfu-2.16.0.20261101.3/
+  corfu-2.16.0.20261101.3/corfu-auto.el
+  corfu-2.16.0.20261101.3/corfu-echo.el
+  corfu-2.16.0.20261101.3/corfu-history.el
+  corfu-2.16.0.20261101.3/corfu-indexed.el
+  corfu-2.16.0.20261101.3/corfu-info.el
+  corfu-2.16.0.20261101.3/corfu-mouse.el
+  corfu-2.16.0.20261101.3/corfu-pkg.el
+  corfu-2.16.0.20261101.3/corfu-popupinfo.el
+  corfu-2.16.0.20261101.3/corfu-quick.el
+  corfu-2.16.0.20261101.3/corfu.el
+Built corfu in 0.474s, finished at 2026-11-07T08:51:32+0000

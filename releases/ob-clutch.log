@@ -1,0 +1,19 @@
+
+ • Building package ob-clutch
+From https://github.com/LuciusChen/ob-clutch
+Checking out 7215e324db2798e06f3ae47e96f2c0c5d9b87818
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/ob-clutch/
+  to /tmp/ob-clutch-Qef8iX/ob-clutch-0.2.1/
+    ob-clutch.el -> ob-clutch.el
+    ob-mysql.el -> ob-mysql.el
+    ob-postgresql.el -> ob-postgresql.el
+    ob-sqlite.el -> ob-sqlite.el
+Created ob-clutch-0.2.1.tar containing:
+  ob-clutch-0.2.1/
+  ob-clutch-0.2.1/ob-clutch-pkg.el
+  ob-clutch-0.2.1/ob-clutch.el
+  ob-clutch-0.2.1/ob-mysql.el
+  ob-clutch-0.2.1/ob-postgresql.el
+  ob-clutch-0.2.1/ob-sqlite.el
+Built ob-clutch in 0.033s, finished at 2026-11-07T08:52:30+0000

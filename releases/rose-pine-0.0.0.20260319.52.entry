@@ -1,0 +1,8 @@
+(rose-pine
+ . [(0 0 0 20260319 52) ((emacs (24 1))) "Rosé Pine for Emacs" tar
+    ((:url . "https://github.com/LuciusChen/rose-pine")
+     (:commit . "4805c7408b7487e23662fde5c6dc86b1ee862b94")
+     (:revdesc . "4805c7408b74") (:keywords "faces" "themes")
+     (:authors ("Steve Purcell" . "steve@sanityinc.com"))
+     (:maintainers ("Steve Purcell" . "steve@sanityinc.com"))
+     (:maintainer "Steve Purcell" . "steve@sanityinc.com"))])

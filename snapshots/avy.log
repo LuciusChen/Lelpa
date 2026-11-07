@@ -1,0 +1,14 @@
+
+ • Building package avy
+From https://github.com/abo-abo/avy
+Updating /github/workspace/sources/avy/
+Checking out 933d1f36cca0f71e4acb5fac707e9ae26c536264
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/avy/
+  to /tmp/avy-8t8oXv/avy-0.5.0.0.20241101.36/
+    avy.el -> avy.el
+Created avy-0.5.0.0.20241101.36.tar containing:
+  avy-0.5.0.0.20241101.36/
+  avy-0.5.0.0.20241101.36/avy-pkg.el
+  avy-0.5.0.0.20241101.36/avy.el
+Built avy in 0.394s, finished at 2026-11-07T08:51:20+0000

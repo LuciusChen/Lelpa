@@ -1,0 +1,8 @@
+(org-cliplink
+ . [(0 2) nil "Insert org-mode links by URL from the clipboard" tar
+    ((:url . "https://github.com/rexim/org-cliplink")
+     (:commit . "953e714dc4c26633cce36286b18ffeab79c9a118")
+     (:revdesc . "953e714dc4c2")
+     (:authors ("Alexey Kutepov" . "reximkut@gmail.com"))
+     (:maintainers ("Alexey Kutepov" . "reximkut@gmail.com"))
+     (:maintainer "Alexey Kutepov" . "reximkut@gmail.com"))])
