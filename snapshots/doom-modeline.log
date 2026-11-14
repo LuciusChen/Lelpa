@@ -1,0 +1,20 @@
+
+ • Building package doom-modeline
+From https://github.com/seagle0128/doom-modeline
+Updating /github/workspace/sources/doom-modeline/
+Checking out 0ba6add16eb3c810e348b2c2187bf721a2fd7291
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/doom-modeline/
+  to /tmp/doom-modeline-jY3mtU/doom-modeline-4.2.1.0.20261112.158/
+    doom-modeline-core.el -> doom-modeline-core.el
+    doom-modeline-env.el -> doom-modeline-env.el
+    doom-modeline-segments.el -> doom-modeline-segments.el
+    doom-modeline.el -> doom-modeline.el
+Created doom-modeline-4.2.1.0.20261112.158.tar containing:
+  doom-modeline-4.2.1.0.20261112.158/
+  doom-modeline-4.2.1.0.20261112.158/doom-modeline-core.el
+  doom-modeline-4.2.1.0.20261112.158/doom-modeline-env.el
+  doom-modeline-4.2.1.0.20261112.158/doom-modeline-pkg.el
+  doom-modeline-4.2.1.0.20261112.158/doom-modeline-segments.el
+  doom-modeline-4.2.1.0.20261112.158/doom-modeline.el
+Built doom-modeline in 0.615s, finished at 2026-11-14T09:01:46+0000

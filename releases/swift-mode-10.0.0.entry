@@ -1,0 +1,12 @@
+(swift-mode
+ . [(10 0 0) ((emacs (25 2)))
+    "Major-mode for Apple's Swift programming language" tar
+    ((:url . "https://github.com/swift-emacs/swift-mode")
+     (:commit . "bf56866b98de2fd73029da2bca1035ca02f9e879")
+     (:revdesc . "bf56866b98de") (:keywords "languages" "swift")
+     (:authors ("taku0" . "mxxouy6x3m_github@tatapa.org")
+	       ("Chris Barrett" . "chris.d.barrett@me.com")
+	       ("Bozhidar Batsov" . "bozhidar@batsov.com")
+	       ("Arthur Evstifeev" . "lod@pisem.net"))
+     (:maintainers ("taku0" . "mxxouy6x3m_github@tatapa.org"))
+     (:maintainer "taku0" . "mxxouy6x3m_github@tatapa.org"))])

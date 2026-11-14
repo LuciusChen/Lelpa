@@ -1,0 +1,10 @@
+(corfu
+ . [(2 16 0 20261101 3) ((emacs (29 1)) (compat (31)))
+    "COmpletion in Region FUnction" tar
+    ((:url . "https://github.com/minad/corfu")
+     (:commit . "15fed49c97bf6b2436641714ae15bbd2f3e37b77")
+     (:revdesc . "2.16-3-g15fed49c97bf")
+     (:keywords "abbrev" "convenience" "matching" "completion" "text")
+     (:authors ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainers ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainer "Daniel Mendler" . "mail@daniel-mendler.de"))])

@@ -1,0 +1,5 @@
+(language-detection
+ . [(0 1 0) nil "Automatic language detection from code snippets" tar
+    ((:url . "https://github.com/andreasjansson/language-detection")
+     (:commit . "ff441f701c74c938ae52657deb9e1d0056b3f9c0")
+     (:revdesc . "ff441f701c74"))])

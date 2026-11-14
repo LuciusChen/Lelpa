@@ -1,0 +1,7 @@
+(hnview
+ . [(0 1 0) ((emacs (29 1)) (llm (0 30 1)) (plz (0 9)))
+    "Modern translated Hacker News reader" tar
+    ((:url . "https://github.com/luciuschen/hnview")
+     (:commit . "5e2030395f2e2e0a9548b1878b60e42cb462af51")
+     (:revdesc . "5e2030395f2e")
+     (:keywords "news" "hypermedia" "convenience"))])

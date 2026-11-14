@@ -1,0 +1,9 @@
+(denote-journal
+ . [(0 3 0) ((emacs (28 1)) (denote (4 0 0)))
+    "Convenience functions for daily journaling with Denote" tar
+    ((:url . "https://github.com/protesilaos/denote-journal")
+     (:commit . "e4186671cc57f8b43ff21df6da171832ea04a3d1")
+     (:revdesc . "e4186671cc57")
+     (:authors ("Protesilaos" . "info@protesilaos.com"))
+     (:maintainers ("Protesilaos" . "info@protesilaos.com"))
+     (:maintainer "Protesilaos" . "info@protesilaos.com"))])

@@ -1,0 +1,10 @@
+(queue
+ . [(0 2) nil "Queue data structure" tar
+    ((:url . "http://www.dr-qubit.org/emacs.php")
+     (:commit . "52206c0f78afc0dfb9a287cb928c1e725103336d")
+     (:revdesc . "52206c0f78af")
+     (:keywords "extensions" "data structures" "queue")
+     (:authors ("Inge Wallin" . "inge@lysator.liu.se")
+	       ("Toby Cubitt" . "toby-predictive@dr-qubit.org"))
+     (:maintainers ("Toby Cubitt" . "toby-predictive@dr-qubit.org"))
+     (:maintainer "Toby Cubitt" . "toby-predictive@dr-qubit.org"))])

@@ -1,0 +1,17 @@
+
+ • Building package magit-section
+From https://github.com/magit/magit
+Checking out 602760478f6d4a67e7064f5bcd2e294aa3f38f8e
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/magit-section/
+  to /tmp/magit-section-aCcEpH/magit-section-4.7.2/
+  ! lisp/magit-section.el -> magit-section.el
+  ! docs/magit-section.texi -> magit-section.texi
+Generating magit-section.info
+Created magit-section-4.7.2.tar containing:
+  magit-section-4.7.2/
+  magit-section-4.7.2/dir
+  magit-section-4.7.2/magit-section-pkg.el
+  magit-section-4.7.2/magit-section.el
+  magit-section-4.7.2/magit-section.info
+Built magit-section in 0.170s, finished at 2026-11-14T09:02:32+0000

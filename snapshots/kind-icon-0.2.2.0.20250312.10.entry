@@ -1,0 +1,10 @@
+(kind-icon
+ . [(0 2 2 0 20250312 10) ((emacs (27 1)) (svg-lib (0 2 8)))
+    "Completion kind icons" tar
+    ((:url . "https://github.com/jdtsmith/kind-icon")
+     (:commit . "85bd8ed3a24fe283f6aeff6afa9a552516ec14e0")
+     (:revdesc . "85bd8ed3a24f")
+     (:keywords "completion" "convenience")
+     (:authors ("J.D. Smith" . "jdtsmith@gmail.com"))
+     (:maintainers ("J.D. Smith" . "jdtsmith@gmail.com"))
+     (:maintainer "J.D. Smith" . "jdtsmith@gmail.com"))])

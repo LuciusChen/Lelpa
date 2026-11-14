@@ -1,0 +1,6 @@
+(ytm-radio
+ . [(0 1 9) ((emacs (29 1)) (transient (0 3 7)))
+    "YouTube Music audio launcher" tar
+    ((:url . "https://github.com/luciuschen/ytm-radio")
+     (:commit . "73a4a11dba1ac158795ff8d9ee57f0b0977024fb")
+     (:revdesc . "73a4a11dba1a") (:keywords "multimedia"))])

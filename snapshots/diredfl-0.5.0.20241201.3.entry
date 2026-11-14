@@ -1,0 +1,9 @@
+(diredfl
+ . [(0 5 0 20241201 3) ((emacs (24)))
+    "Extra font lock rules for a more colourful dired" tar
+    ((:url . "https://github.com/purcell/diredfl")
+     (:commit . "fe72d2e42ee18bf6228bba9d7086de4098f18a70")
+     (:revdesc . "fe72d2e42ee1") (:keywords "faces")
+     (:authors ("Steve Purcell" . "steve@sanityinc.com"))
+     (:maintainers ("Steve Purcell" . "steve@sanityinc.com"))
+     (:maintainer "Steve Purcell" . "steve@sanityinc.com"))])

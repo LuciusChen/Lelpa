@@ -1,0 +1,12 @@
+(ghub
+ . [(5 4 0 0 20261110 2)
+    ((emacs (29 1)) (compat (31 1)) (cond-let (1 1)) (llama (1 0))
+     (treepy (0 1 3)))
+    "Client libraries for Git forge APIs" tar
+    ((:url . "https://github.com/magit/ghub")
+     (:commit . "24f3a08022edae0132fc21f279794d7ede48b612")
+     (:revdesc . "v5.4.0-2-g24f3a08022ed") (:keywords "tools")
+     (:authors ("Jonas Bernoulli" . "emacs.ghub@jonas.bernoulli.dev"))
+     (:maintainers
+      ("Jonas Bernoulli" . "emacs.ghub@jonas.bernoulli.dev"))
+     (:maintainer "Jonas Bernoulli" . "emacs.ghub@jonas.bernoulli.dev"))])
