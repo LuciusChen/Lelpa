@@ -1,0 +1,6 @@
+(terminal-focus-reporting
+ . [(1 0 0) ((emacs (24 4)))
+    "Make Emacs play nicely with iTerm2 and tmux" tar
+    ((:url . "https://github.com/veelenga/terminal-focus-reporting.el")
+     (:commit . "77a5df39eff4e9da9af7c210c518bde306e964b9")
+     (:revdesc . "77a5df39eff4") (:keywords "convenience"))])

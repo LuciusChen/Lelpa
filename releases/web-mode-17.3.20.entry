@@ -1,0 +1,8 @@
+(web-mode
+ . [(17 3 20) ((emacs (23 1))) "Major mode for editing web templates"
+    tar
+    ((:url . "https://web-mode.org")
+     (:commit . "0c83581d1e93d1d802c730a1d5e90cd1c740e1b2")
+     (:revdesc . "0c83581d1e93") (:keywords "languages")
+     (:maintainers ("François-Xavier Bois" . "fxbois@gmail.com"))
+     (:maintainer "François-Xavier Bois" . "fxbois@gmail.com"))])

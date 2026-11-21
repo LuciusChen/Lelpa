@@ -1,0 +1,6 @@
+(chirp
+ . [(0 1 0 0 20260811 64) ((emacs (29 1)) (transient (0 4 3)))
+    "Browse X timelines" tar
+    ((:url . "https://github.com/LuciusChen/chirp")
+     (:commit . "96033e19f998f1c3fd038a096a97c08e0333bc62")
+     (:revdesc . "96033e19f998") (:keywords "convenience" "comm"))])

@@ -1,0 +1,9 @@
+(consult
+ . [(3 10 0 20261004 2) ((emacs (29 1)) (compat (31)))
+    "Search and navigate via completing-read" tar
+    ((:url . "https://github.com/minad/consult")
+     (:commit . "a64569f377b8bc0f62e1d2ae0f3ee48ba4a7cc1c")
+     (:revdesc . "3.10-2-ga64569f377b8")
+     (:keywords "matching" "files" "completion")
+     (:maintainers ("Daniel Mendler" . "mail@daniel-mendler.de"))
+     (:maintainer "Daniel Mendler" . "mail@daniel-mendler.de"))])

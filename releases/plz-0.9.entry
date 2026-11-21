@@ -1,0 +1,8 @@
+(plz
+ . [(0 9) ((emacs (27 1))) "HTTP library" tar
+    ((:url . "https://github.com/alphapapa/plz.el")
+     (:commit . "6ef631d2ec36b1608a0fe405e0fa357652a296c2")
+     (:revdesc . "6ef631d2ec36") (:keywords "comm" "network" "http")
+     (:authors ("Adam Porter" . "adam@alphapapa.net"))
+     (:maintainers ("Adam Porter" . "adam@alphapapa.net"))
+     (:maintainer "Adam Porter" . "adam@alphapapa.net"))])

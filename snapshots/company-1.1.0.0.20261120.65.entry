@@ -1,0 +1,9 @@
+(company
+ . [(1 1 0 0 20261120 65) ((emacs (26 1)) (posframe (1 5 1)))
+    "Modular text completion framework" tar
+    ((:url . "http://company-mode.github.io/")
+     (:commit . "7fbf9b36d332e4439426a9531bfe78a7aeec3457")
+     (:revdesc . "1.1.0-65-g7fbf9b36d332")
+     (:keywords "abbrev" "convenience" "matching")
+     (:maintainers ("Dmitry Gutov" . "dmitry@gutov.dev"))
+     (:maintainer "Dmitry Gutov" . "dmitry@gutov.dev"))])
