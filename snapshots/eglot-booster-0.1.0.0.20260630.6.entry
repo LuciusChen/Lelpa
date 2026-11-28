@@ -1,0 +1,8 @@
+(eglot-booster
+ . [(0 1 0 0 20260630 6)
+    ((emacs (29 1)) (jsonrpc (1 0)) (eglot (1 0)) (seq (2 24)))
+    "Boost eglot using lsp-booster" tar
+    ((:url . "https://github.com/jdtsmith/eglot-booster")
+     (:commit . "510f579409627c333ef0e9157db713b1004da842")
+     (:revdesc . "510f57940962")
+     (:keywords "convenience" "programming"))])

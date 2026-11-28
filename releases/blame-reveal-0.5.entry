@@ -1,0 +1,5 @@
+(blame-reveal
+ . [(0 5) ((emacs (27 1))) "Show git blame in fringe with colors" tar
+    ((:url . "https://github.com/LuciusChen/blame-reveal")
+     (:commit . "765c3d89f54414e6ceff6003a1b4c57dcc893468")
+     (:revdesc . "765c3d89f544") (:keywords "git" "vc" "convenience"))])

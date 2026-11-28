@@ -1,0 +1,7 @@
+(esxml
+ . [(0 3 8) ((emacs (24 1)) (cl-lib (0 5)))
+    "Library for working with xml via esxml and sxml" tar
+    ((:url . "https://github.com/tali713/esxml")
+     (:commit . "affada143fed7e2da08f2b3d927a027f26ad4a8f")
+     (:revdesc . "affada143fed") (:keywords "tools" "lisp" "comm")
+     (:authors ("Vanya Izaksonas-Smith" . "izak0002atumndotedu")))])

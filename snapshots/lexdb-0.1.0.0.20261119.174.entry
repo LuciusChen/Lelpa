@@ -1,0 +1,6 @@
+(lexdb
+ . [(0 1 0 0 20261119 174) ((emacs (29 1)))
+    "Multi-dictionary lookup interface" tar
+    ((:url . "https://github.com/example/lexdb")
+     (:commit . "fd5726ea6f4d058ee1acd9b8bf1bf54ba10d5f3a")
+     (:revdesc . "fd5726ea6f4d") (:keywords "tools" "convenience"))])

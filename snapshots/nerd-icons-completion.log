@@ -1,0 +1,14 @@
+
+ • Building package nerd-icons-completion
+From https://github.com/rainstormstudio/nerd-icons-completion
+Updating /github/workspace/sources/nerd-icons-completion/
+Checking out a0ac2f84a83cc2fe003d7b265b49fcb6e0e8c1f6
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/nerd-icons-completion/
+  to /tmp/nerd-icons-completion-6ll7Ox/nerd-icons-completion-0.0.1.0.20261119.44/
+    nerd-icons-completion.el -> nerd-icons-completion.el
+Created nerd-icons-completion-0.0.1.0.20261119.44.tar containing:
+  nerd-icons-completion-0.0.1.0.20261119.44/
+  nerd-icons-completion-0.0.1.0.20261119.44/nerd-icons-completion-pkg.el
+  nerd-icons-completion-0.0.1.0.20261119.44/nerd-icons-completion.el
+Built nerd-icons-completion in 0.447s, finished at 2026-11-28T10:32:43+0000

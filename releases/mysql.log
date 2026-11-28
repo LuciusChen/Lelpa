@@ -1,0 +1,13 @@
+
+ • Building package mysql
+From https://github.com/LuciusChen/mysql.el
+Checking out 53d341aaa04f61688718c170b13a2d6ab646dba2
+Copying files (->) and directories (=>)
+  from /github/workspace/sources/mysql/
+  to /tmp/mysql-WdCZqh/mysql-0.3.0/
+    mysql.el -> mysql.el
+Created mysql-0.3.0.tar containing:
+  mysql-0.3.0/
+  mysql-0.3.0/mysql-pkg.el
+  mysql-0.3.0/mysql.el
+Built mysql in 0.071s, finished at 2026-11-28T10:33:00+0000
